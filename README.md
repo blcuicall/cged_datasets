@@ -1,4 +1,4 @@
-# CGED Datasets
+# CGED 数据集
 
 本数据为中文句法错误诊断技术评测（Chinese Grammatical Error Diagnosis, CGED）自2014年第一届举行以来至今所发布的数据。
 
