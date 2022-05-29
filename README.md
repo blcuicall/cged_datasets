@@ -12,6 +12,6 @@
 
 > Gaoqi Rao, Erhong Yang, and Baolin Zhang. Overview of NLPTEA-2020 Shared Task for Chinese Grammatical Error Diagnosis. Proceedings of the 6th Workshop on Natural Language Processing Techniques for Educational Applications (NLPTEA-2020).
 
-> Gaoqi Rao, Qi Gong, Baolin Zhang, and Endong Xun. 2018 Overview of NLPTEA-2018 Share Task Chinese Grammatical Error Diagnosis. Proceedings of the 5th Workshop on Natural Language Processing Techniques for Educational Applications. (NLPTEA-2018).
+> Gaoqi Rao, Qi Gong, Baolin Zhang, and Endong Xun. 2018 Overview of NLPTEA-2018 Share Task Chinese Grammatical Error Diagnosis. Proceedings of the 5th Workshop on Natural Language Processing Techniques for Educational Applications (NLPTEA-2018).
 
 在研究过程中，欢迎参考各年度评测workshop论文集中参赛队伍所述之方法、流程，欢迎引用论文集中各队技术报告。
