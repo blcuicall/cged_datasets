@@ -1,0 +1,51 @@
+NLP-TEA-2 CGED Datasets
+Release 1.0
+23 July 2015
+
+This README file describes the data sets and evalaution procedure for the
+NLP-TEA-2 Shared Task on Chinese Grammatical Error Diagnosis (CGED)
+
+The package is distributed freely with the following copyright
+Copyright (C) 2015 Lung-Hao Lee, Liang-Chih Yu, Li-Ping Chang
+                   
+Any questions regarding the datasets should be directed to
+lunghaolee@gmail.com, lcyu@saturn.yzu.edu.tw, lchang@ntnu.edu.tw
+   
+
+1. Directory Structure and Contents
+===================================
+
+The top-level directory has four subdirectories, namely
+
+- Dry/	: The dryrun set used for output format validation
+
+- Test/	: This set consists of 1,000 testing sentences.
+					Half of these sentences contained no grammatical errors, while the other half included a single defined grammatical error: redundant (132 instances), missing (126), selection (110), and disorder (132). 
+	        Participants can employ any linguistic and computational resources to identify grammatical errors.
+                        
+- Tool/	: The program used to evaluate the test data sets.  
+
+- Training/	: This set included 2,205 selected sentences with annotated grammatical errors and their corresponding corrections.
+							Each essay is represented in SGML format.
+							
+		Example:
+			<DOC>
+			<SENTENCE id="B1-1120">我的中文進步了非常快</SENTENCE> 
+			<MISTAKE start_off="7" end_off="7">
+			<TYPE>Selection</TYPE> 
+			<CORRECTION>我的中文進步得非常快</CORRECTION>
+			</MISTAKE>
+			</DOC>
+
+2. How to use the evaluation tool
+================================================
+
+java -jar nlptea15cged.jar    
+  -i : file path of the system results (required)
+  -t : file path of the ground truth (required)
+  -o : file path of the detailed evaluation report (optional) 
+  
+Example:   
+java -jar nlptea15cged.jar -i NLPTEA15_Toy_Result.txt -t NLPTEA15_Toy_Truth.txt -o NLPTEA15_Toy_Evaluation.txt
+
+  

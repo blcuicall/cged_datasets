@@ -1,0 +1,61 @@
+NLP-TEA-1 CFL Datasets
+Release 1.1
+3 April 2015
+
+This README file describes the data sets and evalaution procedure for the
+NLP-TEA-1 CFL Shared Task on Grammatical Error Diagnosis for Learning Chinese as a Foreign Language (CFL)
+
+The package is distributed freely with the following copyright
+Copyright (C) 2014-2015 Liang-Chih Yu, Lung-Hao Lee, Li-Ping Chang
+                   
+Any questions regarding the datasets should be directed to
+lcyu@saturn.yzu.edu.tw, lunghaolee@gmail.com, lchang@ntnu.edu.tw
+
+ChangeLog: 
+- Add the SGML format of test set. (including the dryrun instances)    
+
+
+1. Directory Structure and Contents
+===================================
+
+The top-level directory has four subdirectories, namely
+
+- Dryrun/	: The dryrun set used for output format validation
+
+- Test/	: This set consists of 1,750 testing sentences.
+					A half of these instances contain no grammatical errors. 
+					Another half of testing cases includes one grammatical error per sentence. 
+	        Participants can employ any linguistic and computational resources to detect grammatical errors.
+                        
+- Tool/	: The program used to evaluate the test data sets.  
+
+- Training/	: This set included 1,506 selected CFLs'essays in which 5,607 grammatical errors are annotated. 
+							Each essay is represented in SGML format.
+		Example:
+		<ESSAY title="寫給即將初次見面的筆友的一封信">
+		<TEXT>
+		<SENTENCE id="B1-0112-1">我的計畫是十點早上在古亭捷運站</SENTENCE> 
+		<SENTENCE id="B1-0112-2">頭會戴著藍色的帽子</SENTENCE>
+		</TEXT>
+		<MISTAKE id="B1-0112-1">
+		<TYPE>Disorder</TYPE> 
+		<CORRECTION>我的計畫是早上十點在古亭捷運站</CORRECTION>
+		</MISTAKE>
+		<MISTAKE id="B1-0112-2">
+		<TYPE>Missing</TYPE>
+		<CORRECTION>頭上會戴著藍色的帽子</CORRECTION>
+		</MISTAKE> 
+		</ESSAY>
+
+2. How to use the evaluation tool
+================================================
+
+java -jar nlptea14cfl.jar    
+  -i : file path of the system results (required)
+  -t : file path of the ground truth (required)
+  -o : file path of the detailed evaluation report (optional) 
+  
+Example:   
+java -jar nlptea14cfl.jar -i NLPTEA14_Toy_Result.txt -t NLPTEA14_Toy_Truth.txt -o NLPTEA14_Toy_Evaluation.txt
+
+  

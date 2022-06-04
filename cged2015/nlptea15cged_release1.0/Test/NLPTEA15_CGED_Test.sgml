@@ -1,0 +1,7999 @@
+<DOC>
+<SENTENCE id="A2-0003">他們看了新電影就高興</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>他們看了新電影就很高興</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0004">可是這些地方很貴</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是這些地方都很貴</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0005">她感動</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Missing</TYPE>
+<CORRECTION>她很感動</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0009">我覺得你高興得不得了</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得你一定高興得不得了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0010">那部電影很熱門馬上客滿了</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>那部電影很熱門馬上就客滿了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0011">明德對他說：「謝謝」然後那個人開走了</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Missing</TYPE>
+<CORRECTION>明德對他說：「謝謝」然後那個人就開走了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0012">林美美覺得小孩子的電影可愛</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>林美美覺得小孩子的電影很可愛</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0014">看著看著迷路了</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>看著看著就迷路了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0015">美美從很久以前要看這個電影</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>美美從很久以前就要看這個電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0016">張愛文從念國小的時候一直喜歡一個女生</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>張愛文從念國小的時候就一直喜歡一個女生</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0019">還有我的朋友們住在這兒</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>還有我的朋友們都住在這兒</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0020">公共汽車沒有空的椅子所以兩個人都得站</SENTENCE>
+<MISTAKE start_off="19" end_off="19">
+<TYPE>Missing</TYPE>
+<CORRECTION>公共汽車沒有空的椅子所以兩個人都得站著</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0022">在山上的時候他走路上去又下去已經非常累</SENTENCE>
+<MISTAKE start_off="20" end_off="20">
+<TYPE>Missing</TYPE>
+<CORRECTION>在山上的時候他走路上去又下去已經非常累了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0023">我已經把一個小禮物寄給你</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Missing</TYPE>
+<CORRECTION>我已經把一個小禮物寄給你了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0024">我從來沒吃臺灣菜</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我從來沒吃過臺灣菜</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0025">我聽說你回國</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我聽說你回國了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0028">跟他說以後</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>跟他說了以後</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0030">下了課王大衛本來馬上回家</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>下了課王大衛本來要馬上回家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0031">下個星期我想你跟我一起去一家非常有名的飯店</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>下個星期我想要你跟我一起去一家非常有名的飯店</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0034">但是我一定送給你一把很大的花</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是我一定會送給你一把很大的花</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0035">你們得好好地念書才上大學</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>你們得好好地念書才能上大學</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0036">我也覺得因為永不有天災</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>我也覺得因為永不會有天災</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0037">我希望你參加我的生日會</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望你能參加我的生日會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0038">我希望現在的老闆比較好</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望現在的老闆會比較好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0039">我真的很緊張跟林美美見面</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我真的很緊張要跟林美美見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0040">我說著說著就要看電影</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我說著說著就想要看電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0041">其實老師不在教室裡的話他一直跟同學聊天</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Missing</TYPE>
+<CORRECTION>其實老師不在教室裡的話他會一直跟同學聊天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0042">所以我一定給他一個禮物的</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我一定要給他一個禮物的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0043">要不然你的身體不舒服</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>要不然你的身體會不舒服</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0044">雖然我不能去但是他們都去</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>雖然我不能去但是他們都能去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0045">下個星期四是我弟弟的十六的生日</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Missing</TYPE>
+<CORRECTION>下個星期四是我弟弟的十六歲的生日</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0046">到第一十字路口右轉往前面一直走</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>到第一個十字路口右轉往前面一直走</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0049">他是很聰明學生</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>他是很聰明的學生</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0050">他準備很好</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>他準備得很好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0052">他讓我們休息很時間</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>他讓我們休息很長時間</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0053">冬天是最好季節</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>冬天是最好的季節</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0054">因為我覺得她是很好老師</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我覺得她是很好的老師</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0056">你真的是很好人</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>你真的是很好的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0057">你進步很快</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>你進步得很快</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0058">我也得準備這個周末考試</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>我也得準備這個周末的考試</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0059">我知道你的好消息時候</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>我知道你的好消息的時候</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0060">我們有很多吃東西</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們有很多吃的東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0061">我等了很久時間</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我等了很久的時間</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0062">我覺得他是一個很好人</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得他是一個很好的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0063">我覺得她是很好老師</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得她是很好的老師</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0067">這一個人看起來是很好人</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>這一個人看起來是很好的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0068">這一輛車的顏色是紅色</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>這一輛車的顏色是紅色的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0069">這部電影是美國漫畫電影</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>這部電影是美國的漫畫電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0070">請你幫我買一個好看黑色的錶</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>請你幫我買一個好看的黑色的錶</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0071">謝謝你邀請我來你慶祝會</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>謝謝你邀請我來你的慶祝會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0072">可是對他們是開心的一天吧</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是對他們來說是開心的一天吧</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0073">可是樹都紅色跟黃色的</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是樹都是紅色跟黃色的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0075">他走在森林</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>他走在森林裡</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0076">他看到一輛汽車往來了</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>他看到一輛汽車往這裡來了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0077">他進去教室以後坐在椅子</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>他進去教室以後坐在椅子上</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0078">在公車張愛文問林美美要吃什麼東西</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>在公車上張愛文問林美美要吃什麼東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0079">我今天打算山</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我今天打算上山</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0080">所以他常常去山</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以他常常去山上</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0081">今天在上課學到最難的一課</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>今天上課時學到最難的一課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0082">看了很好看的電影他就回家了</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>看了很好看的電影以後他就回家了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0083">寫的人是法國</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>寫的人是法國人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0084">他正想沒辦法一輛車來了</SENTENCE>
+<MISTAKE start_off="7" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>他正想沒辦法的時候一輛車來了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0085">如果你想去東京春天是很好</SENTENCE>
+<MISTAKE start_off="13" end_off="15">
+<TYPE>Missing</TYPE>
+<CORRECTION>如果你想去東京春天是很好的選擇</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0086">今天是個很重要的天</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>今天是個很重要的一天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0087">下課以後常常把學校的事一起討論</SENTENCE>
+<MISTAKE start_off="12" end_off="13">
+<TYPE>Missing</TYPE>
+<CORRECTION>下課以後常常把學校的事跟他一起討論</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0089">你決定的話我要訂位</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>你決定好的話我要訂位</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0090">他知道今天高中三年級的最後一天</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>他知道今天是高中三年級的最後一天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0094">因為我知道你我弟弟的好朋友</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我知道你是我弟弟的好朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0097">你知道我家在哪裡</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>你知道我家在哪裡嗎</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0098">你還記得我</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>你還記得我嗎</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0099">我聽說打算到法國</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我聽說你打算到法國</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0100">今天我決定我也要一個很好的人</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>今天我決定我也要成為一個很好的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0102">日本的大城市東京、大阪都很有意思</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>日本的大城市像東京，大阪都很有意思</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0103">可是我學生的時候常常沒有錢</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是我當學生的時候常常沒有錢</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0105">你可以告訴我最近的火車站哪裡嗎</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Missing</TYPE>
+<CORRECTION>你可以告訴我最近的火車站在哪裡嗎</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0111">我覺得這樣的活動準備的時候最重要團體的精神</SENTENCE>
+<MISTAKE start_off="17" end_off="18">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得這樣的活動準備的時候最重要的是團體的精神</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0113">不過每一次臭臭的</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>不過每一次都臭臭的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0114">不過實際開幕的前兩、三天時蓋好廚房</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Missing</TYPE>
+<CORRECTION>不過實際開幕的前兩、三天時才蓋好廚房</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0115">不管我們在哪裡你非常喜歡點一根菸</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>不管我們在哪裡你都非常喜歡點一根菸</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0116">他從小的時候到現在住在育幼院</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>他從小的時候到現在都住在育幼院</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0117">他讓我了解每一個人都不同可是一樣聰明</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Missing</TYPE>
+<CORRECTION>他讓我了解每一個人都不同可是都一樣聰明</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0119">因此你跟他們聯絡時考慮時差</SENTENCE>
+<MISTAKE start_off="10" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>因此你跟他們聯絡時必須考慮時差</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0120">因為在育幼院有很多小孩從小的時候不知道他們的父母是誰</SENTENCE>
+<MISTAKE start_off="17" end_off="17">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為在育幼院有很多小孩從小的時候就不知道他們的父母是誰</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0121">她的老公覺得對她不好意思</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>她的老公覺得對她很不好意思</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0122">有他的幫助我的台灣生活過得精彩</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Missing</TYPE>
+<CORRECTION>有他的幫助我的台灣生活過得很精彩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0123">而且你在家吸菸</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>而且你都在家吸菸</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0124">但你每天回我們家的時間很晚</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>但你每天回我們家的時間都很晚</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0125">但是同學們大概每天丟垃圾</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是同學們大概每天都丟垃圾</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0126">快找到很好的工作然後要讓她休息</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Missing</TYPE>
+<CORRECTION>很快找到很好的工作然後要讓她休息</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0128">我每次替你把罐收起來</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我每次都替你把罐收起來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0129">我每次覺得他越來越厲害</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我每次都覺得他越來越厲害</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0130">我們發現了每個國家人民差不多</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們發現了每個國家人民都差不多</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0132">我想起那時候來</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我就想起那時候來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0133">每天碰到很多困難</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>每天都碰到很多困難</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0134">每次我跟她說中文她很高興</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>每次我跟她說中文她就很高興</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0136">受到差的服務</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>受到很差的服務</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0137">所以我再不去那裡的超級市場了</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我再也不去那裡的超級市場了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0139">甚至於跟賣地攤的人可以討論價格</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>甚至於跟賣地攤的人還可以討論價格</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0140">看了一個禮拜多找不到</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>看了一個禮拜多還是找不到</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0141">真的危險</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>真的很危險</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0142">帶那邊的工讀生開自己新的店</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>帶那邊的工讀生一起開自己新的店</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0144">幫助家人每次使我很開心</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>幫助家人每次都使我很開心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0145">不過我對你的壞習慣真受不了</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Missing</TYPE>
+<CORRECTION>不過我對你的壞習慣真受不了了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0146">他朋友有的住得遠有的死</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>他朋友有的住得遠有的死了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0147">他媽媽來</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>他媽媽來了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0149">只是有一點忙準備今年的晚會</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>只是有一點忙著準備今年的晚會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0150">我們準備很多吃的東西</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們準備了很多吃的東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0151">我最近去巴拿馬玩兩個禮拜</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>我最近去巴拿馬玩了兩個禮拜</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0152">我媽媽養六個孩子</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我媽媽養了六個孩子</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0153">沒想到自己的資料少很多</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>沒想到自己的資料少了很多</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0154">那時候我學到台灣的事</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>那時候我學到了台灣的事</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0156">妳來到台北之後應該很快就會學會坐捷運</SENTENCE>
+<MISTAKE start_off="19" end_off="19">
+<TYPE>Missing</TYPE>
+<CORRECTION>妳來到台北之後應該很快就會學會坐捷運了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0158">剛好路旁有一位警察先生指揮交通</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>剛好路旁有一位警察先生在指揮交通</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0159">差點就忘記</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>差點就忘記了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0160">現在王菲已經去美國大學讀書</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Missing</TYPE>
+<CORRECTION>現在王菲已經去美國大學讀書了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0162">應該已經對他們很好</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>應該已經對他們很好了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0163">下次他來日本的時候我帶他去我家附近</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>下次他來日本的時候我會帶他去我家附近</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0164">下個禮拜天我們終於直接見面</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>下個禮拜天我們終於能直接見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0165">不過我不是抽煙的人</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>不過我不是會抽煙的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0166">因為每一次我功課不懂的話你一定教我</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為每一次我功課不懂的話你一定會教我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0168">有時候我比較日文跟中文的文法</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>有時候我會比較日文跟中文的文法</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0169">你一定不後悔這件事情</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>你一定不會後悔這件事情</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0170">你一定很高興</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>你一定會很高興</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0171">希望我們的宿舍生活更加快樂</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>希望我們的宿舍生活能更加快樂</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0172">我一定坐公車</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我一定會坐公車</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0173">我不知道我們怎麼在那裡見面</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>我不知道我們怎麼會在那裡見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0174">我明白了自己的行動幫助身體障礙者</SENTENCE>
+<MISTAKE start_off="10" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>我明白了自己的行動可以幫助身體障礙者</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0175">我為了以後互相聯絡而給她我的電話號碼</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我為了以後可以互相聯絡而給她我的電話號碼</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0176">我真的希望我幫助我的朋友</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>我真的希望我可以幫助我的朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0178">我覺得我們一起去看</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得我們可以一起去看</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0179">我覺得學外國語的時候跟那國家的文化一起學的話更好</SENTENCE>
+<MISTAKE start_off="23" end_off="23">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得學外國語的時候跟那國家的文化一起學的話會更好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0180">那個時候我心裡對自己說了，以後我真的努力學習</SENTENCE>
+<MISTAKE start_off="19" end_off="19">
+<TYPE>Missing</TYPE>
+<CORRECTION>那個時候我心裡對自己說了，以後我真的要努力學習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0182">這樣才讓身體健康喔</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>這樣才能讓身體健康喔</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0186">你應該改變的錯誤指給你看</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Missing</TYPE>
+<CORRECTION>把你應該改變的錯誤指給你看</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0187">所以他們決定這家餐廳搬到他們的房子</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以他們決定把這家餐廳搬到他們的房子</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0188">不但給自己開心也大家看得很快樂</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>不但給自己開心也讓大家看得很快樂</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0189">不要他們那麼辛苦</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>不要讓他們那麼辛苦</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0190">為了他繼續學習</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>為了讓他繼續學習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0191">為了你容易認出我</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>爲了讓你容易認出我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0192">因為那裡有一ＫＴＶ叫錢櫃</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為那裡有一家ＫＴＶ叫錢櫃</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0193">她每一早上都會做一餐愛心早餐給我吃</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>她每一天早上都會做一餐愛心早餐給我吃</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0194">我的身體健康而且我會做好幾事</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Missing</TYPE>
+<CORRECTION>我的身體健康而且我會做好幾件事</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0195">那公園是在台北北部最近新有的</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Missing</TYPE>
+<CORRECTION>那個公園是在台北北部最近新有的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0196">那我們還是中山站的二出口見面</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>那我們還是中山站的二號出口見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0197">想用那時候練習</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>想用那個時候練習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0199">我想說你要想在那個時間做那件事是正常不正常</SENTENCE>
+<MISTAKE start_off="19" end_off="20">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想說你要想在那個時間做那件事是正常還是不正常</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0200">現在的你我仍不太熟悉對方的生活形態</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>現在的你和我仍不太熟悉對方的生活形態</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0201">也有他們的父母已經死了</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>也有的他們的父母已經死了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0202">大聲唱是很好發音練習</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>大聲唱是很好的發音練習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0203">尤其是我覺得有的女人鞋子是真漂亮</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>尤其是我覺得有的女人的鞋子是真漂亮</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0205">他們支持和力量是一種解釋不出來的感覺</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>他們的支持和力量是一種解釋不出來的感覺</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0206">可是我覺得有時候是比圖書館好多的地方</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是我覺得有時候是比圖書館好得多的地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0208">可是要做就要做最好</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是要做就要做最好的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0209">各班都要準備表演一個古典故事</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Missing</TYPE>
+<CORRECTION>各班都要準備表演一個古典的故事</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0210">因此我們需要找到一個可以借這樣衣服的地方</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Missing</TYPE>
+<CORRECTION>因此我們需要找到一個可以借這樣的衣服的地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0211">因為她的老公認為她把錢寄給別男人</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為她的老公認為她把錢寄給別的男人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0212">因為這是她最喜歡做活動</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為這是她最喜歡做的活動</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0213">有夠錢能送我和我姊妹去大學</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>有夠的錢能送我和我姊妹去大學</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0214">老闆對我們說：「請你們替我跟你們媽媽說生日快樂。」</SENTENCE>
+<MISTAKE start_off="17" end_off="17">
+<TYPE>Missing</TYPE>
+<CORRECTION>老闆對我們說：「請你們替我跟你們的媽媽說生日快樂。」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0215">吸菸對你真不好</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>吸菸對你真的不好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0216">希望你之後為了我身體</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>希望你之後為了我的身體</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0217">我午餐也是她準備的</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我的午餐也是她準備的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0218">我以前在英國大學念書</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我以前在英國的大學念書</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0219">我去八十九樓看台北風景</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>我去八十九樓看台北的風景</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0220">我生活方式及態度改變了很多</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我的生活方式及態度改變了很多</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0221">我希望一位學校職員能讓我看看我們舞台怎麼樣</SENTENCE>
+<MISTAKE start_off="17" end_off="17">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望一位學校職員能讓我看看我們的舞台怎麼樣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0222">我希望你能提供你一些意見</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望你能提供你的一些意見</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0223">我希望我同學們同意我</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望我的同學們同意我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0224">我沒有親人和熟朋友</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>我沒有親人和熟的朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0225">我的父母為了買我們自己的房子工作很辛苦</SENTENCE>
+<MISTAKE start_off="17" end_off="17">
+<TYPE>Missing</TYPE>
+<CORRECTION>我的父母為了買我們自己的房子工作得很辛苦</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0226">我很開心是找到了很好的禮物</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我很開心的是找到了很好的禮物</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0227">我們這首歌的歌詞討論的題材跟人好壞有關</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們這首歌的歌詞討論的題材跟人的好壞有關</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0228">我拿到越南政府獎學金來台灣學習</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>我拿到越南政府的獎學金來台灣學習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0229">我想感謝他非常多</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想感謝他的非常多</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0230">我覺得有一點不舒服原因是他一直看著我</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得有一點不舒服的原因是他一直看著我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0231">所以你寧可連好好地睡覺時間也沒有</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以你寧可連好好地睡覺的時間也沒有</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0232">花了很久時間以後</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>花了很久的時間以後</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0233">很怕我小貓會出現很嚴重的情形</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>很怕我的小貓會出現很嚴重的情形</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0235">馬上把剛買新的衣服穿穿看</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>馬上把剛買的新的衣服穿穿看</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0236">晚會舉行那個禮拜也想每天下午以後一起練習</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>晚會舉行的那個禮拜也想每天下午以後一起練習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0237">這張卡片前面是粉紅色和綠色</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>這張卡片的前面是粉紅色和綠色</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0238">最好一點是他們有續杯的啤酒</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>最好的一點是他們有續杯的啤酒</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0240">試試看能不能考到那裡獎學金</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>試試看能不能考到那裡的獎學金</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0241">雖然她只是一個不同朋友</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>雖然她只是一個不同的朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0242">聽你的意見以後才可以做更好</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>聽你的意見以後才可以做得更好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0244">我真不喜歡蟑螂</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我真的不喜歡蟑螂</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0245">我會幫你</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我會幫你的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0246">而且我覺得她男朋友對她做太過分</SENTENCE>
+<MISTAKE start_off="12" end_off="13">
+<TYPE>Missing</TYPE>
+<CORRECTION>而且我覺得她男朋友對她這樣做太過分</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0249">後來男人對我說：「你太白，沒有你的顏色。」</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>後來那個男人對我說：「你太白，沒有你的顏色。」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0250">他還買給自己筷子</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>他還買給自己一雙筷子</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0251">我們認為一邊可以多知道中華文化</SENTENCE>
+<MISTAKE start_off="12" end_off="13">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們認為一邊可以多知道一點中華文化</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0252">一般日本人來說</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Missing</TYPE>
+<CORRECTION>對一般日本人來說</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0253">下午從兩點在師大上課</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>下午從兩點開始在師大上課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0255">可能對別人你的幫忙會讓他們很快樂</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>可能對別人來說你的幫忙會讓他們很快樂</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0256">因為我們的目的地是一樣</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我們的目的地是一樣的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0257">而且道德是很重要</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>而且道德是很重要的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0258">自己做的錄音帶對身體障礙者非常有用的東西</SENTENCE>
+<MISTAKE start_off="14" end_off="16">
+<TYPE>Missing</TYPE>
+<CORRECTION>自己做的錄音帶對身體障礙者而言是非常有用的東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0259">但是大部分的意思是一樣</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是大部分的意思是一樣的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0260">但是你不是跟他們一樣</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是你不是跟他們一樣的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0262">我覺得我們一起唱中文歌是很不錯</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得我們一起唱中文歌是很不錯的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0263">我覺得這種方式是最能表達我對她的感情</SENTENCE>
+<MISTAKE start_off="19" end_off="19">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得這種方式是最能表達我對她的感情的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0264">我覺得對她說最好的禮物就是看到自己的孩子成為一位有用和有禮貌的人</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得對她來說最好的禮物就是看到自己的孩子成為一位有用和有禮貌的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0265">幸運我住的地方有越南餐廳</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>幸運的是我住的地方有越南餐廳</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0267">所以在我生命還沒認識到很多人</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以在我生命中還沒認識到很多人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0269">這時候我就知道即使我們不同的媽媽生出來的也沒關係</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>這時候我就知道即使我們是不同的媽媽生出來的也沒關係</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0270">像他們幫了我那麼多</SENTENCE>
+<MISTAKE start_off="10" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>像他們幫了我那麼多一樣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0271">對你下個月一號好不好</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>對你來說下個月一號好不好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0272">讓她感覺讓我去台灣念書是沒有錯</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Missing</TYPE>
+<CORRECTION>讓她感覺讓我去台灣念書是沒有錯的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0273">只有我一個人陪她到一個石頭坐著</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Missing</TYPE>
+<CORRECTION>只有我一個人陪她到一個石頭上坐著</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0274">先去飯店把行李放在床</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>先去飯店把行李放在床上</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0275">但說話前我希望不要為了這件事而讓我們兩個室友的感情變得不好</SENTENCE>
+<MISTAKE start_off="23" end_off="24">
+<TYPE>Missing</TYPE>
+<CORRECTION>但說話前我希望不要為了這件事而讓我們兩個室友之間的感情變得不好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0276">我在她的旁邊把車子停下來問她為甚麼她一個人在這條路走</SENTENCE>
+<MISTAKE start_off="26" end_off="26">
+<TYPE>Missing</TYPE>
+<CORRECTION>我在她的旁邊把車子停下來問她為甚麼她一個人在這條路上走</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0277">所以我們等到下午五點在碰面</SENTENCE>
+<MISTAKE start_off="12" end_off="13">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我們等到下午五點在那裡碰面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0278">從我學校的活動</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>從我學校的活動中</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0279">我一直希望奶奶看到我長大變成什麼人</SENTENCE>
+<MISTAKE start_off="17" end_off="18">
+<TYPE>Missing</TYPE>
+<CORRECTION>我一直希望奶奶看到我長大變成什麼樣的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0280">可不可以週末時打長電話</SENTENCE>
+<MISTAKE start_off="10" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>可不可以週末時打長時間電話</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0281">因為做料理時用的中文是比較專有的</SENTENCE>
+<MISTAKE start_off="17" end_off="18">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為做料理時用的中文是比較專有的生詞</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0282">你不好的沒有甚麼改不了的</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>你不好的習慣沒有甚麼改不了的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0283">你的朋友到我們的房間來玩；大笑、大吃、放高歌</SENTENCE>
+<MISTAKE start_off="21" end_off="21">
+<TYPE>Missing</TYPE>
+<CORRECTION>你的朋友到我們的房間來玩；大笑、大吃、放聲高歌</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0285">我不能集中地念書</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我不能集中精神地念書</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0286">我在房間裡讀書的時候不能集中</SENTENCE>
+<MISTAKE start_off="15" end_off="16">
+<TYPE>Missing</TYPE>
+<CORRECTION>我在房間裡讀書的時候不能集中精神</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0287">我多次嘗試避開甚至用耳塞也無法讓我專心複習</SENTENCE>
+<MISTAKE start_off="22" end_off="23">
+<TYPE>Missing</TYPE>
+<CORRECTION>我多次嘗試避開甚至用耳塞也無法讓我專心複習功課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0288">我並不反對你夜深人靜玩線上遊戲</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>我並不反對你夜深人靜時玩線上遊戲</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0289">我就是以為這件是真的</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Missing</TYPE>
+<CORRECTION>我就是以為這件事是真的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0290">所以希望你會不要太晚回</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以希望你會不要太晚回家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0291">所以我希望你吃完了以後</SENTENCE>
+<MISTAKE start_off="10" end_off="11 ">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我希望你吃完了東西以後</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0292">所有的我都很想</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Missing</TYPE>
+<CORRECTION>所有的人我都很想</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0293">就知道她是我很久一直找的</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>就知道她是我很久以前一直找的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0294">請不要太大</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>請不要太大聲</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0295">幫忙需要的人很自然</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>幫忙需要幫忙的人很自然</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0296">可是他讓我了解每一個人都有不同</SENTENCE>
+<MISTAKE start_off="16" end_off="18">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是他讓我了解每一個人都有不同的地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0297">因為他喜歡吃油膩</SENTENCE>
+<MISTAKE start_off="9" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為他喜歡吃油膩的東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0298">我們到現在都是以寫信為連絡</SENTENCE>
+<MISTAKE start_off="14" end_off="16">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們到現在都是以寫信為連絡的方式</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0299">其實只有好朋友能告訴你抽菸是相反</SENTENCE>
+<MISTAKE start_off="17" end_off="19">
+<TYPE>Missing</TYPE>
+<CORRECTION>其實只有好朋友能告訴你抽菸是相反的事情</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0300">所以我用寫一封信來跟你說</SENTENCE>
+<MISTAKE start_off="9" end_off="11">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我用寫一封信的方式來跟你說</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0302">我八點鐘從我家來到學校去上課</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我八點鐘從我家到學校去上課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0305">可是那天我有一件很重要的事情一定不能參加</SENTENCE>
+<MISTAKE start_off="15" end_off="16">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是那天我有一件很重要的事情不能參加</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0307">你就可以不可以幫我買這個電視機</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你可以不可以幫我買這個電視機</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0309">我找沒不到人行道</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我找不到人行道</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0310">我知道妳又很聰明又用功</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我知道妳又聰明又用功</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0311">我覺得最近我們好久沒見了</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得我們好久沒見了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0312">那個晚上我睡覺睡得比較更安心</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個晚上我睡覺睡得比較安心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0313">所以他決定不要爬最上去</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以他決定不要爬上去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0314">真很好！</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>真好！</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0315">然後他一直走一直走就天快要黑了</SENTENCE>
+<MISTAKE start_off="12" end_off="13">
+<TYPE>Redundant</TYPE>
+<CORRECTION>然後他一直走一直走就天黑了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0316">愛文跟美美打算在一起下課以後去看電影。</SENTENCE>
+<MISTAKE start_off="8" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>愛文跟美美打算下課以後去看電影。</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0317">今天小張從早上就很高興了</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>今天小張從早上就很高興</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0318">他比同學用功了</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他比同學用功</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0319">他回答了：「可以，您太客氣」</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他回答：「可以，您太客氣」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0321">他朋友跟他說了他今天覺得很開心</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他朋友跟他說他今天覺得很開心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0322">他們從公車站走路走二十分鐘才到電影院了</SENTENCE>
+<MISTAKE start_off="19" end_off="19">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們從公車站走路走二十分鐘才到電影院</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0323">可是你找到了很好了</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是你找到了很好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0324">同學跟愛文說了：「請你幫我解那個問題。」</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>同學跟愛文說：「請你幫我解那個問題。」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0325">因為那天我有事情得到台中了</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為那天我有事情得到台中</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0327">我已經打算了跟他去玩所以我不能來</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我已經打算跟他去玩所以我不能來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0328">我在安卡拉長大了</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我在安卡拉長大</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0329">我在韓國的城市長大了</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我在韓國的城市長大</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0330">我弄胡塗了的時候</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我弄胡塗的時候</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0331">我朋友也找工作找了很久才找到了</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我朋友也找工作找了很久才找到</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0332">我要過坐下可是我們給老人我坐的地方</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我要坐下可是我們給老人我坐的地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0334">我跟我好朋友打算了晚一點去玩兒</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我跟我好朋友打算晚一點去玩兒</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0335">我說了：「您可不可以告訴我怎麼走？」</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我說：「您可不可以告訴我怎麼走？」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0336">我聽到就很高興了</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我聽到就很高興</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0337">那時候他覺得他剛睡飽了</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那時候他覺得他剛睡飽</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0339">所以決定了要看一個比較短的</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以決定要看一個比較短的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0340">林美美說了她也喜歡張愛文</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>林美美說她也喜歡張愛文</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0341">昨天晚上天氣很好所以李明德要去了鄉下找他的朋友</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Redundant</TYPE>
+<CORRECTION>昨天晚上天氣很好所以李明德要去鄉下找他的朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0343">張愛文想了：「如果我現在不告訴她，我沒有別的機會」</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>張愛文想：「如果我現在不告訴她，我沒有別的機會」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0344">連那個時候他們也聊天了</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>連那個時候他們也聊天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0345">愛文不喜歡數學所以跟朋友一直聊天了</SENTENCE>
+<MISTAKE start_off="17" end_off="17">
+<TYPE>Redundant</TYPE>
+<CORRECTION>愛文不喜歡數學所以跟朋友一直聊天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0346">他們決定他們會看「Ｗａｌｌ－Ｅ」</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們決定他們看「Ｗａｌｌ－Ｅ」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0347">你開一個慶祝會的時候我不能參加</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你開慶祝會的時候我不能參加</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0349">希望你們要來參加</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>希望你們來參加</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0350">希望你應該好好的工作啊</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>希望你好好的工作啊</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0351">我不能會參加</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我不能參加</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0352">春天的時候什麼地方都可以看起來很美</SENTENCE>
+<MISTAKE start_off="11" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>春天的時候什麼地方都看起來很美</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0353">下個次您喜歡爬山</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>下次您喜歡爬山</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0354">那個一輛車只好停下來</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那一輛車只好停下來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0355">還有休息幾個天</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>還有休息幾天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0356">今天他只有數學的課</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>今天他只有數學課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0357">今天我上了一堂數學的課</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>今天我上了一堂數學課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0358">公園在我們的家的對面</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>公園在我們家的對面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0360">因為你們是我弟弟的很好的朋友</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為你們是我弟弟很好的朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0362">你的慶祝會一定開得很熱鬧</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你的慶祝會一定很熱鬧</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0363">我在我的國家已經學了１００個的中文字</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我在我的國家已經學了１００個中文字</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0364">我知道有很好吃的韓國菜的餐廳</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我知道有很好吃的韓國菜餐廳</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0365">那個的顏色是紅色的</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個顏色是紅色的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0366">所以如果到日本的旅行的時候哪裡都很漂亮</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以如果到日本旅行的時候哪裡都很漂亮</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0369">聽說成功大學的旁邊的那家餐廳很好</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>聽說成功大學旁邊的那家餐廳很好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0370">他以為他是在另外別的山爬山的</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他以為他是在另外的山爬山的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0371">再說他帶著另外別的山的地圖</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>再說他帶著別的山的地圖</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0372">該那日下午六點在學校『來我家烤肉店』附近見面</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那日下午六點在學校『來我家烤肉店』附近見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0373">我們可以看到一個漂亮的風景</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們可以看到漂亮的風景</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0374">跟一個醫院差不多一樣</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>跟醫院差不多一樣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0375">他告訴那個人是他的電話號碼</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他告訴那個人他的電話號碼</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0376">他是找到一條馬路</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他找到一條馬路</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0377">考試上的時候</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>考試的時候</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0378">李台生站在馬路上中間</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>李台生站在馬路中間</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0379">李台生就去火車站裡坐公車回家</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>李台生就去火車站坐公車回家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0380">下個星期四天是我弟弟的生日</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>下個星期四是我弟弟的生日</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0381">他們兩個都有一樣的班課</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們兩個都有一樣的課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0382">林美美的旁邊的位子是張愛文</SENTENCE>
+<MISTAKE start_off="7" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>林美美的旁邊是張愛文</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0383">我要請你買我一點東西</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我要請你買一點東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0384">秋天的時候在山上的風景真好看</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>秋天的時候山上的風景真好看</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0385">我昨天在學校的門口是等我女朋友</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我昨天在學校的門口等我女朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0386">大概十二點在一個他泰國餐廳</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>大概十二點在一個泰國餐廳</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0387">他一看到小安的汽車就放心起來了</SENTENCE>
+<MISTAKE start_off="13" end_off="14">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他一看到小安的汽車就放心了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0388">小明看不出來老師是５０歲</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>小明看不出來老師５０歲</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0389">這個男孩子是早上六點半起床</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>這個男孩子早上六點半起床</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0390">難怪你是非常漂亮</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>難怪你非常漂亮</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0391">你可不可以送我到火車站嗎？</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你可不可以送我到火車站？</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0392">甚麼時候開始工作嗎</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>甚麼時候開始工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0393">請你別擔心吧</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>請你別擔心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0394">但是別人他們都能去</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是他們都能去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0395">因為他覺得小白比他的同學聰明多很多</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為他覺得小白比他的同學聰明很多</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0396">下次請我給你好好兒的慶祝慶祝 </SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>下次我給你好好兒的慶祝慶祝 </CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0397">也很漂亮因為可以�到很多的開花</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Redundant</TYPE>
+<CORRECTION>也很漂亮因為可以看到很多的花</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0398">他在坐公車坐了四十分鐘</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他坐公車坐了四十分鐘</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0399">他們打算一塊兒在１０１大樓去看電影</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們打算一塊兒在１０１大樓看電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0400">他說：你可以上進去我的車</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他說：你可以上我的車</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0401">但是我十歲搬到在這裡</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是我十歲搬到這裡</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0402">你要請放假也不可以</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你要請假也不可以</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0403">你們明天下午二點開始有一個會</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你們明天下午二點有一個會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0404">我今天要出國去法國</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我今天要去法國</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0405">我去送林美美回家我才回家</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我送林美美回家我才回家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0406">我們在到了火車站</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們到了火車站</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0407">我們應該打算改天一起去別的地方玩兒</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們應該改天一起去別的地方玩兒</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0408">我想約妳下課去以後去看電影</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我想約妳下課以後去看電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0410">我聽說你要開一個慶祝慶祝的會</SENTENCE>
+<MISTAKE start_off="11" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我聽說你要開一個慶祝的會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0412">還有他請跟我到火車站去</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>還有他跟我到火車站去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0413">還有那個男生送給他到火車站</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>還有那個男生送他到火車站</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0414">他要走路去火車站回家</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他要走路去火車站</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0415">請你要是你在日本看到</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你要是你在日本看到</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0416">平常也不太常有下雨</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>平常也不太常下雨</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0417">已經都影響到我了</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>已經影響到我了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0418">他們都會成天大聲叫囂</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們成天大聲叫囂</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0419">因此我就不能了解的是</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因此我不能了解的是</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0420">她也不太習慣在怎麼這麼亂的客廳坐下</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她也不太習慣在這麼亂的客廳坐下</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0421">你的桌上都讓我覺得很不乾淨</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你的桌上讓我覺得很不乾淨</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0422">我每次出門去買東西的時候都會很開開心心地出門</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我每次出門去買東西的時候都會開開心心地出門</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0423">我爸爸媽媽都常常幫我減輕我給我自己的壓力</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我爸爸媽媽常常幫我減輕我給我自己的壓力</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0425">我現在住的套房是因為王菲幫我的</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我現在住的套房是王菲幫我的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0426">我還是這樣叫你</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我這樣叫你</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0427">我覺得很舒服得不得了</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得舒服得不得了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0429">要不然他就可能放棄努力好好地學習</SENTENCE>
+<MISTAKE start_off="12" end_off="14">
+<TYPE>Redundant</TYPE>
+<CORRECTION>要不然他就可能放棄努力學習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0431">然後再我們搬家了</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>然後我們搬家了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0432">菲律賓人也對客人很好得沒話說</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>菲律賓人也對客人好得沒話說</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0433">話題更是目前的事業以及未來的計劃</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>話題是目前的事業以及未來的計劃</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0434">一定不如在家裡了</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>一定不如在家裡</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0435">下了課我去了台北看看</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>下了課我去台北看看</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0436">上次我坐了ＭＲＴ去了圓山站參觀寺廟了</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>上次我坐了ＭＲＴ去圓山站參觀寺廟了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0437">也讓了我幫他做工作</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>也讓我幫他做工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0438">比方說要是你睡覺時間太晚了</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Redundant</TYPE>
+<CORRECTION>比方說要是你睡覺時間太晚</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0440">回家的路上碰到了一個很久沒見過的老朋友</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Redundant</TYPE>
+<CORRECTION>回家的路上碰到了一個很久沒見的老朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0441">她每天給我做了我所吃過的最好吃的東西之一</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她每天給我做我所吃過的最好吃的東西之一</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0442">如果考試在緊張或是得到不好的成績</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果考試緊張或是得到不好的成績</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0443">自然他的成績除了體育科以外都爛得不得了了</SENTENCE>
+<MISTAKE start_off="20" end_off="20">
+<TYPE>Redundant</TYPE>
+<CORRECTION>自然他的成績除了體育科以外都爛得不得了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0444">但我父母卻了解我支持我了</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但我父母卻了解我支持我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0445">但那個朋友很熱心地�顧我了</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但那個朋友很熱心地照顧我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0446">但是駕駛都裝作沒看到或者聽到我了</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是駕駛都裝作沒看到或者聽到我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0447">你應該去過打聽我在不在</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你應該去打聽我在不在</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0448">彷彿再也正常不過了</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>彷彿再也正常不過</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0449">我工作上的業績也受到了不好的影響了</SENTENCE>
+<MISTAKE start_off="17" end_off="17">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我工作上的業績也受到了不好的影響</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0450">我今年放暑假的時候去了台灣旅行</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我今年放暑假的時候去台灣旅行</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0452">我到了顧客家發現了那個女孩在那邊</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我到了顧客家發現那個女孩在那邊</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0453">我玩得很開心了</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我玩得很開心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0454">我們自己看的話應該會錯了</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們自己看的話應該會錯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0455">我們住在一起了兩個星期了</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們住在一起兩個星期了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0456">我發現了那個女孩就是我們顧客的女兒</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我發現那個女孩就是我們顧客的女兒</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0457">我幫了他們去學校的辦公室辦理他們的資料後</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我幫他們去學校的辦公室辦理他們的資料後</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0458">走不到了一半</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>走不到一半</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0459">那個時候我們真的很幸福了</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個時候我們真的很幸福</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0460">店員小姐一看到了我就說「您需要什麼東西呢？」</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>店員小姐一看到我就說「您需要什麼東西呢？」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0461">所以我利用了我的時間去看各式各樣的地方</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我利用我的時間去看各式各樣的地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0462">所以我每次都被你吵起來了</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我每次都被你吵起來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0463">所以我看很多寺廟也不會看膩了</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我看很多寺廟也不會看膩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0464">所以我就趁了這個機會好好地去玩一玩</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我就趁這個機會好好地去玩一玩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0465">很容易碰到了問題</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>很容易碰到問題</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0466">突然開始下大雨了</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>突然開始下大雨</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0467">從上個星期到昨天晚上我一直忙著在預備功課</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Redundant</TYPE>
+<CORRECTION>從上個星期到昨天晚上我一直忙著預備功課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0468">就知道了她是我很久以前一直找的人</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>就知道她是我很久以前一直找的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0469">就感覺到最好的收穫是得到那麼好的知己了</SENTENCE>
+<MISTAKE start_off="19" end_off="19">
+<TYPE>Redundant</TYPE>
+<CORRECTION>就感覺到最好的收穫是得到那麼好的知己</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0470">雖然我住在台灣過了一年了</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>雖然我住在台灣一年了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0471">難以到了我法國朋友家</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>難以到我法國朋友家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0472">也希望每一個人都會有善心</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>也希望每一個人都有善心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0473">父母只想可以知道我的生活快樂</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>父母只想知道我的生活快樂</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0474">他會考上高中了</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他考上高中了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0475">她越來越會懂他的想法</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她越來越懂他的想法</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0476">如果你那天會發生一些問題</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果你那天發生一些問題</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0477">收到我的錢兩個小孩子他們的眼睛都會亮起來</SENTENCE>
+<MISTAKE start_off="17" end_off="17">
+<TYPE>Redundant</TYPE>
+<CORRECTION>收到我的錢兩個小孩子他們的眼睛都亮起來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0478">但是在這邊我要希望你會改變</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是在這邊我希望你會改變</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0479">但是店裡的服務員都很好也很會幫忙</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是店裡的服務員都很好也很幫忙</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0480">你除了幫助我以外還給我會希望</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你除了幫助我以外還給我希望</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0481">我是因為想能維持我們的交情</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我是因為想維持我們的交情</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0482">我們可以在星期一的下午六點在士林夜市可以見面</SENTENCE>
+<MISTAKE start_off="19" end_off="20">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們可以在星期一的下午六點在士林夜市見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0483">我們要下個禮拜日見面好不好</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們下個禮拜日見面好不好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0484">甚至連怎麼可以訓練自己來得到生意頭腦都教我</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>甚至連怎麼訓練自己來得到生意頭腦都教我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0485">想好讓她休息</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>好讓她休息</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0486">戴一副黃色的太陽眼鏡和會穿一件黑色的衣服</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>戴一副黃色的太陽眼鏡和穿一件黑色的衣服</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0488">你是個我的好朋友之一</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你是我的好朋友之一</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0490">我遇到了一個件很難忘的事情</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我遇到了一件很難忘的事情</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0491">如果萬一我不來</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果我不來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0493">全部的都準備好了</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>全部都準備好了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0495">我今年夏天的放假的時候去歐洲了</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我今年夏天放假的時候去歐洲了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0496">我在這裡先寫好我們見面那一天的我的穿著</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我在這裡先寫好我們見面那一天我的穿著</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0497">我們一起學中國的歌的話</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們一起學中國歌的話</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0498">我們希望給老師看我們跳舞的時有沒有整齊等等</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們希望給老師看我們跳舞時有沒有整齊等等</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0499">我剛從台北回來的就想寫一封信給你</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我剛從台北回來就想寫一封信給你</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0500">我跟同學想要看人妖的唱跳的表演</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我跟同學想要看人妖唱跳的表演</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0502">我覺得沒有更好的辦法感謝與紀念我的高中文學的老師</SENTENCE>
+<MISTAKE start_off="22" end_off="22">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得沒有更好的辦法感謝與紀念我的高中文學老師</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0503">所以我從小就習慣給人拿來跟姊姊的比較</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我從小就習慣給人拿來跟姊姊比較</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0505">這個貴人就是我的高中數學的老師</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Redundant</TYPE>
+<CORRECTION>這個貴人就是我的高中數學老師</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0506">對那種的人來說這�歌很有意思</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>對那種人來說這首歌很有意思</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0507">應該可以用對面的校園裡的體育館</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>應該可以用對面校園裡的體育館</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0508">你聽的音樂聽得太大聲</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你聽音樂聽得太大聲</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0509">我也覺得那裏的人一切都對我們很好</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我也覺得那裏的人都對我們很好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0510">因為我們班有各種各國的同學們</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為我們班有各國的同學們</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0511">我在台北沒有發生一個大問題</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我在台北沒有發生大問題</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0512">所以如果你有一個問題</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以如果你有問題</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0513">我們的班上裡的同學都是音樂系的</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們的班裡的同學都是音樂系的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0514">我認為你的習慣上有三個要改善的問題</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我認為你的習慣有三個要改善的問題</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0515">跟你一起生活裡</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>跟你一起生活</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0516">今天早上時看新聞</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>今天早上看新聞</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0517">他現在的目標都跟音樂界方面有關係</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他現在的目標都跟音樂方面有關係</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0519">我們當室友之後過了幾個禮拜了</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們當室友過了幾個禮拜了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0520">事後我得知這件事情後</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>事後我得知這件事情</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0523">其實我從小時候就長得很不起眼</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>其實我從小就長得很不起眼</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0524">抽菸增加癌症病的可能性</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>抽菸增加癌症的可能性</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0525">看到了很多小孩的樣子</SENTENCE>
+<MISTAKE start_off="8" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>看到了很多小孩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0526">所以我就幫他報名到那個學校</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我就幫他報名那個學校</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0527">當過了兩、三天</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>過了兩、三天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0528">他們是第一次來到台灣學習中文的</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們是第一次來到台灣學習中文</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0530">雖然每天去幫她是相當辛苦的</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>雖然每天去幫她相當辛苦的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0531">所有的同學們都是我的戰友</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所有的同學都是我的戰友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0533">希望你在太晚的時候早點去睡</SENTENCE>
+<MISTAKE start_off="4" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>希望你早點去睡</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0535">我們一定要小心垃圾處理怎麼樣</SENTENCE>
+<MISTAKE start_off="12" end_off="14">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們一定要小心垃圾處理</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0536">請您把垃圾拿去倒好</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>請您把垃圾拿去倒</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0537">也是可以看很美的環境</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>也可以看很美的環境</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0539">如果我需要選一個人我自己覺得對我是有最多幫助就是我媽</SENTENCE>
+<MISTAKE start_off="17" end_off="17">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果我需要選一個人我自己覺得對我有最多幫助就是我媽</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0540">有人說我是聰明</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>有人說我聰明</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0541">我希望是選一個你方便的時間</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我希望選一個你方便的時間</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0542">我是因為你這樣而有很大的影響</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我因為你這樣而有很大的影響</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0543">我最感謝的人是我現在的是先生</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我最感謝的人是我現在的先生</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0545">要不然如果成績不那麼好大概會是傷她的心</SENTENCE>
+<MISTAKE start_off="15" end_off="15">
+<TYPE>Redundant</TYPE>
+<CORRECTION>要不然如果成績不那麼好大概會傷她的心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0546">原來她和她的家人是住在台北</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>原來她和她的家人住在台北</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0547">媽媽說她的果汁是對我的身體很健康</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>媽媽說她的果汁對我的身體很健康</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0548">雖然我現在在台灣是過得很開心也很自在</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>雖然我現在在台灣過得很開心也很自在</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0549">不知你有沒有覺得驚訝嗎</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>不知你有沒有覺得驚訝</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0550">老師可不可以幫我們找幾把劍和飛鏢嗎</SENTENCE>
+<MISTAKE start_off="17" end_off="17">
+<TYPE>Redundant</TYPE>
+<CORRECTION>老師可不可以幫我們找幾把劍和飛鏢</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0551">你可不可以那天五點在台北車站五號出口等我嗎？</SENTENCE>
+<MISTAKE start_off="21" end_off="21">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你可不可以那天五點在台北車站五號出口等我？</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0553">她看不出來她還是年輕人</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她看不出來還是年輕人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0554">但是因為我今年去台灣我沒有去找她</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是因為我今年去台灣沒有去找她</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0555">我打算下個週末早上十點我到你的家接你</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我打算下個週末早上十點到你的家接你</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0556">為了他們我有很多東西我想做</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>為了他們我有很多東西想做</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0557">以前已經給你我的大電話號碼</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>以前已經給你我的電話號碼</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0558">我得睡覺好</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我得睡覺</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0559">我很開心我們這個週末星期六會見面</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我很開心我們這個星期六會見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0560">想到當時一年前在網上交友</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>想到一年前在網上交友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0562">可是我覺得這樣做是一定要做的</SENTENCE>
+<MISTAKE start_off="6" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是我覺得是一定要做的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0563">她的說明很容易懂了解</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她的說明很容易了解</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0564">但你還是能夠開始改進</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但你還是能夠改進</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0565">我先一直跟你說抱怨</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我先一直跟你抱怨</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0566">我爸爸跟我回答說：「你可以不要當她的朋友」</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我爸爸跟我說：「你可以不要當她的朋友」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0567">我們可以去地下室來吃點東西</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們可以去地下室吃點東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0568">我們來去微風廣場集合</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們去微風廣場集合</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0569">我們家人都學得很用功</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們家人都很用功</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0570">我們覺得每個班做表演太多</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們覺得每個班表演太多</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0571">我現在打算說我們這個禮拜六早上見面</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我現在打算我們這個禮拜六早上見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0573">每個人都帶東西給去拜拜</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>每個人都帶東西去拜拜</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0574">所以我去機場接他帶到我的家</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我去機場接他到我的家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0575">所以沒辦法找買</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以沒辦法買</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0576">突然聽到快要想哭的聲音</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>突然聽到快要哭的聲音</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0577">聽起來感覺上很有意思</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>聽起來很有意思</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0578">擔心得害我每天都睡不著</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>擔心得每天都睡不著</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0579">父親和老師對我來說都有給我很多的幫助</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>父親和老師對我來說都給我很多的幫助</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0580">他有說他的眼晴不太好</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他說他的眼晴不太好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0581">我也希望說當他們有需要幫忙的時候</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我也希望說當他們需要幫忙的時候</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0582">我有接受到很多人的幫助</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我接受到很多人的幫助</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0583">我們決定每個禮拜三四五點半有練習</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們決定每個禮拜三四五點半練習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0584">我還有希望您幫忙我們這部分</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我還希望您幫忙我們這部分</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0585">我還記得那天我的室友有看到我在哭以為阿兔是我的男朋友</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我還記得那天我的室友看到我在哭以為阿兔是我的男朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0586">記得你以前有提過很喜歡吃牛肉麵不是嗎</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>記得你以前提過很喜歡吃牛肉麵不是嗎</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0587">禮拜六你有請很多朋友來這裡吃飯</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>禮拜六你請很多朋友來這裡吃飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0588">我們去動物園去看貓熊</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們去動物園看貓熊</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0589">還有我們第一天一起到我家來吃飯</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Redundant</TYPE>
+<CORRECTION>還有我們第一天一起到我家吃飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0590">反而竟然被罵的那麼慘</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>反而被罵的那麼慘</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0591">以後很慢慢地了解他們了</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>以後慢慢地了解他們了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0592">他每一個很運動都會</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他每一個運動都會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0593">可是他們都沒辦法找到他們所理想的工作包括薪水高的工作</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是他們都沒辦法找到他們理想的工作包括薪水高的工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0594">可是所有的事情總是都有好處跟壞處</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是所有的事情總是有好處跟壞處</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0595">可是發生事情後也又說謊</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是發生事情後又說謊</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0596">吃的會比一般超級市場較安心又健康</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>吃的會比一般超級市場安心又健康</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0597">因為一般人沒有辦法自己親自找到自己的興趣</SENTENCE>
+<MISTAKE start_off="12" end_off="13">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為一般人沒有辦法自己找到自己的興趣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0598">她經常剛有跟我一樣的經驗</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她經常有跟我一樣的經驗</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0599">我千萬也不會忘記他的愛心</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我也不會忘記他的愛心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-0600">找到好朋友是在學校、公司也好不容易的事情</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Redundant</TYPE>
+<CORRECTION>找到好朋友是在學校、公司也不容易的事情</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0602">他不會想去哪裡就去哪裡</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>他無法想去哪裡就去哪裡</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0603">他是很聰明的學生和很用功</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>他是很聰明的學生也很用功</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0604">因為天快點黑了</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為天快要黑了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0606">她覺得一點奇怪</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>她覺得有一點奇怪</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0607">安卡拉不那麼熱</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>安卡拉沒那麼熱</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0609">我一點著急</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我有一點著急</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0610">我又祝你萬事如意</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我也祝你萬事如意</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0611">我知道你從來很想去台灣的東部玩</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>我知道你一直很想去台灣的東部玩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0612">我很多努力</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我很努力</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0613">我們一定看吧</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們一起看吧</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0614">我們只好買了吃的東西再馬上去電影院</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們只好買了吃的東西就馬上去電影院</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0615">我還不決定要在哪一家餐廳吃</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我還沒決定要在哪一家餐廳吃</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0616">我覺得春天的天氣真奇怪 </SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>我覺得春天的天氣很奇怪 </CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0617">那個地方很漂亮還有一個有意思的地方</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>那個地方很漂亮也是一個有意思的地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0618">那部電影很有意思和很好笑</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>那部電影很有意思也很好笑</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0622">要是他的同學念不懂還是聽不懂老師教的</SENTENCE>
+<MISTAKE start_off="10" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>要是他的同學念不懂或是聽不懂老師教的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0623">樣子是金色的扣子再說黑色的口袋</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>樣子是金色的扣子還有黑色的口袋</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0626">我去年一直都上班</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我去年一直都在上班</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0627">我們看了電影好像是最有名的</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們看的電影好像是最有名的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0628">走過半天他很累</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>走了半天他很累</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0629">對他們來說是開心了一天吧</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>對他們來說是開心的一天吧</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0630">他還想睡覺可是要去上課</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>他還想睡覺可是得去上課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0631">她一個人住所以我們一定去她的家</SENTENCE>
+<MISTAKE start_off="10" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>她一個人住所以我們得去她的家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0632">有一部電影我很要看</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>有一部電影我很想看</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0633">老師說：「現在不必說話！」</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>老師說：「現在不可以說話！」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0634">希望你要跟我一起去</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>希望你會跟我一起去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0635">我希望你要喜歡在那個公司上班</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我希望你會喜歡在那個公司上班</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0636">我記得今天我跟林美美下了課再跟她一起去看電影</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Selection</TYPE>
+<CORRECTION>我記得今天我跟林美美下了課要跟她一起去看電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0637">我覺得我那時候不能參加</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我想我那時候不能參加</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0638">李台生到火車站也建議他不去一個人爬山</SENTENCE>
+<MISTAKE start_off="12" end_off="13">
+<TYPE>Selection</TYPE>
+<CORRECTION>李台生到火車站也建議他不要一個人爬山</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0639">放假的時候一定可能跟你一起見面</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>放假的時候一定可以跟你一起見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0640">我希望你的工作讓你覺得不太累</SENTENCE>
+<MISTAKE start_off="12" end_off="14">
+<TYPE>Selection</TYPE>
+<CORRECTION>我希望你的工作讓你覺得不會累</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0642">他們覺得那片電影很有意思</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>他們覺得那部電影很有意思</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0643">她說她有一張電影要看</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>她說她有一部電影要看</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0644">李台生不敢說也怕這位人聽不懂他要去的地方</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>李台生不敢說也怕這個人聽不懂他要去的地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0645">每件外套樣子都可以</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>每種外套樣子都可以</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0646">忽然看到一個紅色的車</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>忽然看到一輛紅色的車</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0647">這一位人</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>這一個人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0648">這篇電影很有意思</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>這部電影很有意思</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0649">最近聽到一個好事</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>最近聽到一件好事</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0650">就看到一個車子過來</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>就看到一輛車子過來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0652">你可以三點來做菜還是八點半來玩</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>你可以三點來做菜或是八點半來玩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0654">我可以給你那麼錢</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>我可以給你那些錢</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0655">所以我得全夏天工作</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我得整個夏天工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0656">個個人都不知道電影館在哪裡</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Selection</TYPE>
+<CORRECTION>每個人都不知道電影館在哪裡</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0657">一個小時以前我決定休息一點</SENTENCE>
+<MISTAKE start_off="12" end_off="13">
+<TYPE>Selection</TYPE>
+<CORRECTION>一個小時以前我決定休息一下</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0658">第一課時間是數學</SENTENCE>
+<MISTAKE start_off="1" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>第一堂課是數學</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0659">上課的時候我跟愛文常常談一談不知道的問題</SENTENCE>
+<MISTAKE start_off="12" end_off="14">
+<TYPE>Selection</TYPE>
+<CORRECTION>上課的時候我跟愛文常常談不知道的問題</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0660">他在路上走著想想他的功課</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>他在路上走著邊想他的功課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0661">他趕快下了山去找一找人</SENTENCE>
+<MISTAKE start_off="8" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>他趕快下了山去找人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0662">可是在電影院他沒看下去</SENTENCE>
+<MISTAKE start_off="8" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是在電影院他看不下去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0663">如果他沒碰到這樣的好人一定不會回家了</SENTENCE>
+<MISTAKE start_off="14" end_off="17">
+<TYPE>Selection</TYPE>
+<CORRECTION>如果他沒碰到這樣的好人一定回不了家了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0664">但是他一定會上去</SENTENCE>
+<MISTAKE start_off="6" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>但是他一定上得去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0665">我不會記得到火車站怎麼走</SENTENCE>
+<MISTAKE start_off="2" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我記不得到火車站怎麼走</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0666">我走著走著就找到一個很漂漂亮亮的花</SENTENCE>
+<MISTAKE start_off="12" end_off="15">
+<TYPE>Selection</TYPE>
+<CORRECTION>我走著走著就找到一個很漂亮的花</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0667">我知道你一定找到很好的工作</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>我知道你一定找得到很好的工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0668">我要買一本特別的中文書可是我不能找到了</SENTENCE>
+<MISTAKE start_off="15" end_off="18">
+<TYPE>Selection</TYPE>
+<CORRECTION>我要買一本特別的中文書可是我找不到了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0670">我覺得不舒服得不得了</SENTENCE>
+<MISTAKE start_off="4" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>我覺得非常不舒服</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0672">想一想的時候</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>想的時候</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0674">聽說你找得到很好的工作</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>聽說你找到很好的工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0675">他覺得在黑板寫著的問題很簡單</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>他覺得黑板上寫著的問題很簡單</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0676">上山的空氣很好</SENTENCE>
+<MISTAKE start_off="1" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>山上的空氣很好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0677">他教他的女朋友算課</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>他教他的女朋友數學</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0678">他第一次的中文上課</SENTENCE>
+<MISTAKE start_off="6" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>他第一次的中文課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0679">回家的時候天氣已經黑了</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>回家的時候天色已經黑了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0680">我也去一樣的方面</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>我也去一樣的方向</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0681">我也喜歡這些月</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>我也喜歡這些月份</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0682">我不知道這個區</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>我不知道這個地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0683">我不能去妳的祝會</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>我不能去妳的慶祝會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0684">我告訴你不太好的新聞</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>我告訴你不太好的消息</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0685">我坐公車到那去</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>我坐公車到那裡去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0686">我想要買一個小意思給他</SENTENCE>
+<MISTAKE start_off="7" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>我想要買一個小禮物給他</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0687">把床衣服脫下來</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>把睡衣脫下來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0688">所以你的祝會一定很好玩</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以你的慶祝會一定很好玩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0689">所以我昨天跟他說了英國的話</SENTENCE>
+<MISTAKE start_off="10" end_off="13">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我昨天跟他說了英文</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0690">空氣好還有看法很漂亮</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>空氣好還有風景很漂亮</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0691">剛剛有很多木</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>剛剛有很多樹</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0692">差不多下午一點鐘頭</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>差不多下午一點鐘</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0694">馬英九的中學給學生很多的困難</SENTENCE>
+<MISTAKE start_off="13" end_off="14">
+<TYPE>Selection</TYPE>
+<CORRECTION>馬英九的中學給學生很多的挑戰</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0695">張愛文覺得今天真是個好天</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Selection</TYPE>
+<CORRECTION>張愛文覺得今天真是個好日子</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0696">這是一個很好的新聞</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>這是一個很好的消息</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0697">最後的課是數學的</SENTENCE>
+<MISTAKE start_off="6" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>最後的課是數學課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0698">買了本以後</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>買了書以後</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0699">愛文跟美美談了學校的話</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>愛文跟美美談了學校的事</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0701">對門有一家書店</SENTENCE>
+<MISTAKE start_off="1" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>對面有一家書店</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0702">謝謝你請我去你的會</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>謝謝你請我去你的慶祝會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0705">小王是一個兩年級的高中學生</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>小王是一個二年級的高中學生</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0706">我一直著急的時候</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我在著急的時候</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0707">我想給你直接說「恭喜！」</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我想跟你直接說「恭喜！」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0708">那裡的天氣比台灣的不一樣</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>那裡的天氣跟台灣的不一樣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0709">我的老師又我的同學都很好</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我的老師和我的同學都很好 </CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0710">什麼去？</SENTENCE>
+<MISTAKE start_off="1" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>怎麼去？</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0711">我覺得餐廳在你家旁邊的好像很好吃</SENTENCE>
+<MISTAKE start_off="4" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我覺得在你家旁邊的餐廳好像很好吃</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0712">下個星期什麼空我都有</SENTENCE>
+<MISTAKE start_off="5" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>下個星期什麼時候我都有空</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0713">下個禮拜三是我弟弟有生日</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>下個禮拜三是我弟弟的生日</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0714">他用他的手指告訴那個開車的人請讓我上車</SENTENCE>
+<MISTAKE start_off="2" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>他比了一個手勢告訴那個開車的人請讓我上車</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0715">他早得起床</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>他得早一點起床</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0716">他是高中從８點半開始上課</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>他的高中從８點半開始上課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0717">他們一塊決定甚麼電影他們會看</SENTENCE>
+<MISTAKE start_off="7" end_off="14">
+<TYPE>Selection</TYPE>
+<CORRECTION>他們一塊決定要看甚麼電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0718">他們很高興也很好玩</SENTENCE>
+<MISTAKE start_off="7" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>他們很高興也玩得很開心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0719">他們都有很好的聊天</SENTENCE>
+<MISTAKE start_off="4" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>他們都聊得很愉快</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0721">可是我的工作很事情</SENTENCE>
+<MISTAKE start_off="7" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是我的工作事情很多</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0722">可是現在我把什麼事都不記得</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是現在我什麼事都不記得</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0723">因為捷運有很少人</SENTENCE>
+<MISTAKE start_off="5" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為捷運人很少</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0724">在冬天我有好多感冒</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>在冬天我常常感冒</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0725">告訴我你有時間的天</SENTENCE>
+<MISTAKE start_off="5" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>告訴我你有空的時間</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0726">希望你們會好玩</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>希望你們玩得很開心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0727">我一定要帶送給你禮物</SENTENCE>
+<MISTAKE start_off="6" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我一定要帶禮物送給你</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0729">我不忘這個人</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我不會忘記這個人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0730">我那天就對考試準備準備</SENTENCE>
+<MISTAKE start_off="5" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>我那天就要準備考試了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0732">我們可能不喜歡一樣的電影</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們不可能喜歡一樣的電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0733">我們說著坐著車</SENTENCE>
+<MISTAKE start_off="3" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們在車上說著話</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0735">我高興得早就醒過來了</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我高興得很早就醒過來了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0736">我想一想的時候剛剛見面的人進來了</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我在想的時候剛剛見面的人進來了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0737">我跟他說明天下課了以後我就跟他做功課了</SENTENCE>
+<MISTAKE start_off="7" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>我跟他說明天下了課後我就跟他做功課了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0739">我請你們為這件事來</SENTENCE>
+<MISTAKE start_off="1" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>為這件事我請你們來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0740">我覺得你們會好好的玩</SENTENCE>
+<MISTAKE start_off="7" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>我覺得你們會玩得很開心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0742">其實我對看電影有很多興趣</SENTENCE>
+<MISTAKE start_off="8" end_off="12">
+<TYPE>Selection</TYPE>
+<CORRECTION>其實我對看電影很有興趣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0743">所以他起一點床了</SENTENCE>
+<MISTAKE start_off="4" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以他早一點起床</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0744">所以他問開車的先生要是他可不可以送他下山</SENTENCE>
+<MISTAKE start_off="10" end_off="16">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以他問開車的先生是否可以送他下山</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0745">連忙我都沒有時間跟父母見面</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我忙到都沒有時間跟父母見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0746">對不起讓你等久了</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>對不起讓你久等了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0748">還有他走路很多</SENTENCE>
+<MISTAKE start_off="4" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>還有他走了很多路</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0749">他真是很聰明的學生也很用功</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>他是很聰明的學生也很用功</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0750">我覺得一件白色跟藍色格子的褲子想很好的禮物</SENTENCE>
+<MISTAKE start_off="16" end_off="16">
+<TYPE>Selection</TYPE>
+<CORRECTION>我覺得一件白色跟藍色格子的褲子是很好的禮物</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0751">如果你有空我想再開一個好吧</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Selection</TYPE>
+<CORRECTION>如果你有空我想再開一個好嗎</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0752">天氣已經黑了</SENTENCE>
+<MISTAKE start_off="1" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>天色已經黑了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0753">坐公車的時候他們坐不下</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>坐公車的時候公車坐不下</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0754">今天他有一個很難的考試所以他一點不放心</SENTENCE>
+<MISTAKE start_off="15" end_off="19">
+<TYPE>Selection</TYPE>
+<CORRECTION>今天他有一個很難的考試所以他很擔心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0755">日本的天氣非常清楚</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>日本的天氣非常清爽</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0756">可是小明覺得電影有一點長</SENTENCE>
+<MISTAKE start_off="12" end_off="12">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是小明覺得電影有一點久</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0757">因為山上的空氣比那裡很好</SENTENCE>
+<MISTAKE start_off="11" end_off="11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為山上的空氣比那裡好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0758">在學校學生很小</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>在學校學生很少</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0759">你找到了很漂的工作</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>你找到了很好的工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0760">我知道妳很著急找工作</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>我知道妳急著找工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0765">妳找到好好的工作了</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>妳找到很好的工作了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0766">所以林小安真很高興</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以林小安真的很高興</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0768">林美美是我的好好的朋友</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>林美美是我的很好的朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0771">下了課的時候張愛文和她的好朋友去看電影</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>下了課以後張愛文和她的好朋友去看電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0772">他平常現在起不來</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>他平常這個時候起不來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0773">他們正在還在電影院一邊看電影一邊聊天</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>他們現在還在電影院一邊看電影一邊聊天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0774">因為他明天沒洗澡</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為他昨天沒洗澡</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0775">我上個年一直都上班</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我去年一直都上班</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0776">我起床的時候吃早飯</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>我起床以後吃早飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0777">一天完了</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>一天結束了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0778">下了電影我就回家了</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Selection</TYPE>
+<CORRECTION>看完了電影我就回家了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0779">下次爬山忘不了得帶一張地圖</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>下次爬山要記得帶一張地圖</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0780">今天有新的電影進來了</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>今天有新的電影上映了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0781">天氣非常熱，我覺得：「怎麼辦！」然後我看到一輛紅紅的車</SENTENCE>
+<MISTAKE start_off="8" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>天氣非常熱，我想：「怎麼辦！」然後我看到一輛紅紅的車</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0783">他一看他的老師</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>他一看到他的老師</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0784">他不想到我們有一個生日會所以別告訴我弟弟</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>他想不到我們有一個生日會所以別告訴我弟弟</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0785">他在學校念著書的時候跟林美美說話</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>他在學校上課的時候跟林美美說話</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0786">他每天六點半上床</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>他每天六點半起床</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0787">他的位子就是我的後面 </SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>他的位子就在我的後面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0789">他恐怖那地方</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>他害怕那地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0791">他跟同學聊談</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>他跟同學聊天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0792">他請林小安吃</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Missing</TYPE>
+<CORRECTION>他請林小安吃飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0793">只要他告訴那個地方的名字就好了</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>只要他說出來那個地方的名字就好了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0794">在公車的時候她問我</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Selection</TYPE>
+<CORRECTION>坐公車的時候她問我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0796">她姓林美美</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>她叫林美美</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0799">你好好地熱一熱</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>你好好地慶祝慶祝</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0801">你們到了那邊就可以看一家書店</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>你們到了那邊就可以看到一家書店</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0802">你能買很好的東西</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>你能買到很好的東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0803">我一班公共汽車都沒找到</SENTENCE>
+<MISTAKE start_off="10" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>我一班公共汽車都沒搭到</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0805">我以為她不會跟我約</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>我以為她不會跟我約會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0806">我在那裡找一個很好的人</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我在那裡找到一個很好的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0807">我告訴他不能給別人聽這個秘密</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>我告訴他不能給別人知道這個秘密</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0808">我希望你很愛你的新工作</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>我希望你喜歡你的新工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0809">我到了學校學很多的課</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>我到了學校上很多的課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0810">我的朋友跟我介紹一家新的日本料理</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我的朋友給我介紹一家新的日本料理</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0811">我很高興聽這件事</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我很高興聽到這件事</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0812">我看到一輛汽車往我開</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>我看到一輛汽車往我開過來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0814">我們全家要去看到她</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們全家要去看她</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0815">我真的慶祝你</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我真的恭喜你</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0817">我問他可不可以幫我到火車站去</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>我問他可不可以幫助我到火車站去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0818">我常常看過你們跟我弟弟出去玩</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我常常看到你們跟我弟弟出去玩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0819">我得去台南看見我父母</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>我得去台南見我父母</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0820">我進去跟她說話</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我過去跟她說話</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0821">我想祝你找到工作</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想慶祝你找到工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0822">我寫你這封信</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我寫給你這封信</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0823">我懂一個有名的飯館</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我知道一個有名的飯館</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0824">我聽到你已經找到一份工作</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我聽說你已經找到一份工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0825">我聽到你找到工作</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我聽說你找到工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0831">所以下次我們一起祝吧！</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以下次我們一起慶祝吧！</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0832">所以他請明德進車去要把明德送到火車站</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以他請明德上車去要把明德送到火車站</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0833">所以我問你們來</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我請你們來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0834">明天再見</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>明天見</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0836">很高興見會面你</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>很高興能見到你</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0837">星期一到星期五他得到學校學</SENTENCE>
+<MISTAKE start_off="13" end_off="13">
+<TYPE>Selection</TYPE>
+<CORRECTION>星期一到星期五他得到學校上課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0838">看電影以後</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Selection</TYPE>
+<CORRECTION>看完電影以後</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0839">看電影以後我送她回家</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Selection</TYPE>
+<CORRECTION>看完電影以後我送她回家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0840">美美告訴我：「我們做什麼？」</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>美美問我：「我們做什麼？」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0841">祝你找到了工作 </SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Selection</TYPE>
+<CORRECTION>恭喜你找到了工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0842">祝你找到工作</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Selection</TYPE>
+<CORRECTION>恭喜你找到工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0843">張愛文請林美美跟他一起到電影院去看一部新電影</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>張愛文約林美美跟他一起到電影院去看一部新電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0844">從上次我們聚餐多久了呢</SENTENCE>
+<MISTAKE start_off="1" end_off="1">
+<TYPE>Selection</TYPE>
+<CORRECTION>離上次我們聚餐多久了呢</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0846">慶祝妳找到了工作 </SENTENCE>
+<MISTAKE start_off="1" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>恭喜妳找到了工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0847">慶祝慶祝你找到工作</SENTENCE>
+<MISTAKE start_off="1" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>恭喜你找到工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0848">請那個開車的人接我到火車站</SENTENCE>
+<MISTAKE start_off="8" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>請那個開車的人送我到火車站</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0849">還有過不了幾天我的生日就到了</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>還有再過幾天我的生日就到了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0850">聽到最近你找到了一個工作</SENTENCE>
+<MISTAKE start_off="1" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>聽說最近你找到了一個工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0853">他們去學校前的公車站等一等</SENTENCE>
+<MISTAKE start_off="11" end_off="13">
+<TYPE>Selection</TYPE>
+<CORRECTION>他們去學校前的公車站等公車</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0854">先慶祝妳找到妳的工作</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>先恭喜妳找到妳的工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0855">我等不及跟他約會的時間</SENTENCE>
+<MISTAKE start_off="5" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>我等不及要跟他約會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0856">然後他爬起山來了</SENTENCE>
+<MISTAKE start_off="4" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>然後他開始爬山</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0857">因為北海道是很多好吃的東西和漂亮的風景</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為北海道有很多好吃的東西和漂亮的風景</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0858">因為我明天要很重要的考試所以不能參加</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為我明天有很重要的考試所以不能參加</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0859">排隊了很多時間才輪到我</SENTENCE>
+<MISTAKE start_off="1" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>排了很久才輪到我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0861">可是他還每天想他的哥哥</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是他還是每天想他的哥哥</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0862">可是你有時候因為打報告打得很久</SENTENCE>
+<MISTAKE start_off="14" end_off="14">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是你有時候因為打報告打得太久</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0863">可是美國人真的對我不但客氣還有很熱心</SENTENCE>
+<MISTAKE start_off="14" end_off="15">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是美國人真的對我不但客氣也很熱心</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0864">在生活當中每個人都有受到別人的幫助</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>在生活當中每個人都曾經受到別人的幫助</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0866">很溫暖也好溫和</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>很溫暖也很溫和</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0867">她常常不看到我來上課</SENTENCE>
+<MISTAKE start_off="4" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>她常常沒看到我來上課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0868">有很多文法跟發音不對多麼怎麼練習也很浪費</SENTENCE>
+<MISTAKE start_off="11" end_off="12">
+<TYPE>Selection</TYPE>
+<CORRECTION>有很多文法跟發音不對再怎麼練習也很浪費</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0869">但寫論文的時候還需要日本人的幫助</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>但寫論文的時候還是需要日本人的幫助</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0870">你大概會想這是一點麻煩</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>你大概會想這有一點麻煩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0871">你的桌上通常都亂七八糟</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>你的桌上常常都亂七八糟</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0872">你總是打電腦沒睡覺</SENTENCE>
+<MISTAKE start_off="7" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>你總是打電腦不睡覺</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0873">你還沒習慣現在的生活嘍</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>你還不習慣現在的生活嘍</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0874">我沒習慣看和歌</SENTENCE>
+<MISTAKE start_off="2" end_off="2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我不習慣看和歌</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0875">我的車子不裝冷氣</SENTENCE>
+<MISTAKE start_off="5" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我的車子沒裝冷氣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0877">我們不得不給大家聽忘不了的音樂會</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們一定要給大家聽忘不了的音樂會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0878">我們就是學生</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們都是學生</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0879">我真希望我們快要見面</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>我真希望我們快點見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0880">我真很高興你要來啊</SENTENCE>
+<MISTAKE start_off="3" end_off="3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我真的很高興你要來啊</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0881">我從我小到大的時候我媽媽做了很多的事情幫助我成長</SENTENCE>
+<MISTAKE start_off="1" end_off="9">
+<TYPE>Selection</TYPE>
+<CORRECTION>從小到大我媽媽做了很多的事情幫助我成長</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0882">我從來不會忘記他的例子</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我永遠不會忘記他的例子</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0884">我誠實地建議你得更注意這些方面</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我誠心地建議你得更注意這些方面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0885">我認為你會很簡單地把我認出來</SENTENCE>
+<MISTAKE start_off="7" end_off="8">
+<TYPE>Selection</TYPE>
+<CORRECTION>我認為你會很容易地把我認出來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0886">我總是花了兩百人民幣，算是不貴</SENTENCE>
+<MISTAKE start_off="2" end_off="3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我總共花了兩百人民幣，算是不貴</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0888">所以不論我的英文是流利</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以不論我的英文是否流利</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0889">所以我看很多寺廟也沒有看膩</SENTENCE>
+<MISTAKE start_off="10" end_off="11">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我看很多寺廟也不會看膩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0890">後來我們的關係很好又密切了</SENTENCE>
+<MISTAKE start_off="10" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>後來我們的關係很好更密切了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0891">甚於付材料的錢都不會</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Selection</TYPE>
+<CORRECTION>甚於付材料的錢都沒有</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0892">首先你往往吸菸</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Selection</TYPE>
+<CORRECTION>首先你常常吸菸</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0893">原來如此她是我的同胞</SENTENCE>
+<MISTAKE start_off="1" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>原來她是我的同胞</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0894">這個時候我那麼高興有機會來幫助他們</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Selection</TYPE>
+<CORRECTION>這個時候我很高興有機會來幫助他們</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0895">這樣的話他都不會想放棄學外語</SENTENCE>
+<MISTAKE start_off="6" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>這樣的話他才不會想放棄學外語</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0896">當時的我好像充滿正義感</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Selection</TYPE>
+<CORRECTION>當時的我真是充滿正義感</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0901">下星期有空我們一起吃飯去怎麼樣？</SENTENCE>
+<MISTAKE start_off="10" end_off="12">
+<TYPE>Disorder</TYPE>
+<CORRECTION>下星期有空我們一起去吃飯怎麼樣？</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0903">也他的成績非常好</SENTENCE>
+<MISTAKE start_off="1" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他的成績也非常好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0904">也我家人住在這個城市</SENTENCE>
+<MISTAKE start_off="1" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我家人也住在這個城市</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0905">已經我把錢拿給你的朋友了</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我已經把錢拿給你的朋友了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0906">今天他先要做功課再到學校去上課</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>今天他要先做功課再到學校去上課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0908">我希望你跟朋友們慶祝高高興興地</SENTENCE>
+<MISTAKE start_off="9" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我希望你跟朋友們高高興興地慶祝</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0909">我要帶你們首先去一個有很好吃的東西的飯館</SENTENCE>
+<MISTAKE start_off="2" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我首先要帶你們去一個有很好吃的東西的飯館</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0910">我們好久一起沒吃飯</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們好久沒一起吃飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0911">到電影院前面他們一定先要買票才可以進去</SENTENCE>
+<MISTAKE start_off="11" end_off="12">
+<TYPE>Disorder</TYPE>
+<CORRECTION>到電影院前面他們一定要先買票才可以進去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0912">昨天晚上他睡只三個鐘頭的覺</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>昨天晚上他只睡三個鐘頭的覺</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0914">他叫我下課了以後跟他一起做功課</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他叫我下了課以後跟他一起做功課</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0915">所以他洗澡了就去睡覺</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以他洗了澡就去睡覺</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0916">下課以後他跟林美美要見面</SENTENCE>
+<MISTAKE start_off="6" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>下課以後他要跟林美美見面。</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0917">他已經跟老師說了他從昨天會開始用功</SENTENCE>
+<MISTAKE start_off="10" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他已經跟老師說了他會從昨天開始用功</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0918">我覺得當天會知道他特別高興啊</SENTENCE>
+<MISTAKE start_off="6" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我覺得當天知道他會特別高興啊</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0919">要是你坐公車要上公車二五三到新店站下車</SENTENCE>
+<MISTAKE start_off="9" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>要是你坐公車要上二五三公車新店站下車</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0920">我知道有名的一個飯館</SENTENCE>
+<MISTAKE start_off="4" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我知道一個有名的飯館</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0921">然後去一個台北附近的山</SENTENCE>
+<MISTAKE start_off="4" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>然後去台北附近的一個山</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0923">六點請你們等我在公車站</SENTENCE>
+<MISTAKE start_off="6" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>六點請你們在公車站等我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0924">他決定等在路的旁邊</SENTENCE>
+<MISTAKE start_off="4" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他決定在路的旁邊等</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0925">他要走上去那個大山所以他可以照相</SENTENCE>
+<MISTAKE start_off="5" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他要走上那個大山去所以他可以照相</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0926">他教書在那個很有名的大學</SENTENCE>
+<MISTAKE start_off="2" end_off="12">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他在那個很有名的大學教書</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0927">可是不能買在美國</SENTENCE>
+<MISTAKE start_off="5" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可是不能在美國買</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0928">在家我準備麵包點心還有多一點飲料</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我在家準備麵包點心還有多一點飲料</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0929">有空的時候歡迎我這裡來</SENTENCE>
+<MISTAKE start_off="8" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>有空的時候歡迎來我這裡</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0930">你們坐捷運下車在台電大樓出口三就到了</SENTENCE>
+<MISTAKE start_off="6" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你們坐捷運在台電大樓出口三下車就到了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0931">我長大在德國的ＭＵＮＩＨＥ</SENTENCE>
+<MISTAKE start_off="2" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我在德國的ＭＵＮＩＨＥ長大</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0932">我要請你吃飯在〝成功〞餐廳</SENTENCE>
+<MISTAKE start_off="5" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我要請你在〝成功〞餐廳吃飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0933">我們一起吃在他家午飯</SENTENCE>
+<MISTAKE start_off="5" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們一起在他家吃午飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0934">我們九點半可以見面在紐約紐約</SENTENCE>
+<MISTAKE start_off="8" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們九點半可以在紐約紐約見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0935">我們火車站到了</SENTENCE>
+<MISTAKE start_off="3" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們到了火車站</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0936">我想請你們吃日本菜在學校前面的日本飯館</SENTENCE>
+<MISTAKE start_off="6" end_off="19">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我想請你們在學校前面的日本飯館吃日本菜</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0938">明天有我弟弟的生日會在我家</SENTENCE>
+<MISTAKE start_off="3" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>明天在我家有我弟弟的生日會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0939">晚上的時候你在那邊可以跟朋友一塊</SENTENCE>
+<MISTAKE start_off="7" end_off="16">
+<TYPE>Disorder</TYPE>
+<CORRECTION>晚上的時候你可以跟朋友一塊在那邊</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0940">這個星期六你開一個慶祝會在你的家裡</SENTENCE>
+<MISTAKE start_off="7" end_off="17">
+<TYPE>Disorder</TYPE>
+<CORRECTION>這個星期六你在你的家裡開一個慶祝會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0941">就看到一輛車子在旁邊的路上過來</SENTENCE>
+<MISTAKE start_off="1" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>在旁邊的路上就看到一輛車子過來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0942">很多人也沒有</SENTENCE>
+<MISTAKE start_off="1" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>也沒有很多人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0945">我跟我旁邊坐的同學都喜歡念數學</SENTENCE>
+<MISTAKE start_off="3" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我跟坐我旁邊的同學都喜歡念數學</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0947">後天我弟弟是生日</SENTENCE>
+<MISTAKE start_off="2" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>後天是我弟弟生日</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0948">我等了很久幫忙我的人</SENTENCE>
+<MISTAKE start_off="4" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我等了幫忙我的人很久</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0949">有的時候你還可以一個明星碰到</SENTENCE>
+<MISTAKE start_off="9" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>有的時候你還可以碰到一個明星</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0950">我他說的一聽到就很放心了</SENTENCE>
+<MISTAKE start_off="2" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我一聽到他說的就很放心了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0951">我你的慶祝會去不了</SENTENCE>
+<MISTAKE start_off="2" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我去不了你的慶祝會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0952">我的日本朋友晚上從日本台灣來</SENTENCE>
+<MISTAKE start_off="12" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我的日本朋友晚上從日本來台灣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0953">我們可以你的生日好好兒地慶祝</SENTENCE>
+<MISTAKE start_off="5" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們可以好好兒地慶祝你的生日</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0954">我慶祝會不能參加</SENTENCE>
+<MISTAKE start_off="2" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我不能參加慶祝會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0955">我覺得最近工作找到越來越難了</SENTENCE>
+<MISTAKE start_off="6" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我覺得最近找到工作越來越難了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0957">所以我替老師教數學她</SENTENCE>
+<MISTAKE start_off="8" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以我替老師教她數學</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0958">還有下個禮拜我應該出差日本去</SENTENCE>
+<MISTAKE start_off="12" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>還有下個禮拜我應該出差去日本</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0959">我想慶祝你找到工作跟還有你好好兒地聊天</SENTENCE>
+<MISTAKE start_off="10" end_off="12">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我想慶祝你找到工作還有跟你好好兒地聊天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0960">最近找到工作越來越難</SENTENCE>
+<MISTAKE start_off="3" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>最近越來越難找到工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0962">因為那天我跟我的弟弟打算一起去台中玩</SENTENCE>
+<MISTAKE start_off="6" end_off="12">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為那天我打算跟我的弟弟一起去台中玩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0963">我已經跟我的弟弟打算去台灣</SENTENCE>
+<MISTAKE start_off="4" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我已經打算跟我的弟弟去台灣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0964">要不要下了課去西門跟我看電影</SENTENCE>
+<MISTAKE start_off="7" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>要不要下了課跟我去西門看電影</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0965">起來總是很難</SENTENCE>
+<MISTAKE start_off="1" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>總是很難起來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0966">你是真的很好的人</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你真的是很好的人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0967">我來自地方的天氣比很多別的地方好</SENTENCE>
+<MISTAKE start_off="10" end_off="16">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我來自地方的天氣比別的地方好很多</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0968">我們說話很多</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們說很多話</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0969">下了課以後他平常馬上回家</SENTENCE>
+<MISTAKE start_off="1" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>平常下了課以後他馬上回家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0970">小明覺得生氣的時候老師真的很嘮叨</SENTENCE>
+<MISTAKE start_off="5" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>小明覺得老師生氣的時候真的很嘮叨</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0971">五點半晚上</SENTENCE>
+<MISTAKE start_off="1" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>晚上五點半 </CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0972">你要一個星期回國嗎？</SENTENCE>
+<MISTAKE start_off="3" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你要回國一個星期嗎？</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0973">我以為你打算開慶祝會下個禮拜五</SENTENCE>
+<MISTAKE start_off="7" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我以為你打算下個禮拜五開慶祝會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0974">我打算跟你們在學校門口晚上六點半見面好不好</SENTENCE>
+<MISTAKE start_off="4" end_off="16">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我打算晚上六點半跟你們在學校門口見面好不好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0975">每天愛文去六點半</SENTENCE>
+<MISTAKE start_off="5" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>每天愛文六點半去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0976">每個月一次他喜歡看電影</SENTENCE>
+<MISTAKE start_off="4" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>每個月他喜歡看電影一次</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0977">電影八點鐘到十點鐘晚上放映</SENTENCE>
+<MISTAKE start_off="3" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>電影晚上八點鐘到十點鐘放映</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0978">請你們來我家六點</SENTENCE>
+<MISTAKE start_off="4" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>請你們六點來我家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0979">我一完考試就回家</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我一考完試就回家</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0980">我不知道你可不可以幫我拿回來一瓶紅酒</SENTENCE>
+<MISTAKE start_off="13" end_off="18">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我不知道你可不可以幫我拿一瓶紅酒回來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0981">在路上回家他想今天是特別的一天</SENTENCE>
+<MISTAKE start_off="2" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>在回家路上他想今天是特別的一天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="A2-0982">有問題的話他們可以到我們家來打電話</SENTENCE>
+<MISTAKE start_off="10" end_off="17">
+<TYPE>Disorder</TYPE>
+<CORRECTION>有問題的話他們可以打電話到我們家來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0985">也她不會說日語</SENTENCE>
+<MISTAKE start_off="1" end_off="2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>她也不會說日語</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0986">也她的宿舍跟我是一樣的大樓</SENTENCE>
+<MISTAKE start_off="1" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>她的宿舍跟我也是一樣的大樓</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0987">才決定表演「中國跟台灣民族舞蹈」節目最好</SENTENCE>
+<MISTAKE start_off="4" end_off="20">
+<TYPE>Disorder</TYPE>
+<CORRECTION>才決定最好表演「中國跟台灣民族舞蹈」節目</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0988">不是她把錢寄給別男人</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>她不是把錢寄給別男人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0989">他為何那麼渴望看到我再一次</SENTENCE>
+<MISTAKE start_off="8" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他為何那麼渴望再一次看到我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0990">他們讓我不找工作</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他們不讓我找工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0991">他會打我：「孩子，念多都有好處」</SENTENCE>
+<MISTAKE start_off="10" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他會打我：「孩子，多念都有好處」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0992">因為住在這麼好的鄰居旁邊沒辦法</SENTENCE>
+<MISTAKE start_off="3" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為沒辦法住在這麼好的鄰居旁邊</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0993">因為我們都從來沒做過這樣的表演</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為我們從來都沒做過這樣的表演</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0994">回家以後把門沒關上</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>回家以後沒把門關上</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0995">好像大家都平常沒有事</SENTENCE>
+<MISTAKE start_off="3" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>好像平常大家都沒有事</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0996">有的也每天下課以後要回家自己做飯</SENTENCE>
+<MISTAKE start_off="3" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>有的每天下課以後也要回家自己做飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0997">你也可能很難改自己的生活方式</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你可能也很難改自己的生活方式</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0998">我打算帶你先去看台北１０１</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我打算先帶你去看台北１０１</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-0999">我的朋友想他不去因為他不愛她</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我的朋友不想他去因為他不愛她</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1000">我們今天討論終於新年晚會要做什麼</SENTENCE>
+<MISTAKE start_off="5" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們今天終於討論新年晚會要做什麼</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1001">我們先就這樣吧</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們就先這樣吧</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1002">我們沒有常常這樣的機會</SENTENCE>
+<MISTAKE start_off="3" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們常常沒有這樣的機會</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1003">我現在寫這封信就肚子開始餓了</SENTENCE>
+<MISTAKE start_off="8" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我現在寫這封信肚子就開始餓了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1004">我想要快到週末了</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我想快要到週末了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1006">我跟他已經國中時認識了</SENTENCE>
+<MISTAKE start_off="4" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我跟他國中時已經認識了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1007">那個時候百貨公司打折</SENTENCE>
+<MISTAKE start_off="9" end_off="9">
+<TYPE>Missing</TYPE>
+<CORRECTION>那個時候百貨公司在打折</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1008">居然我看到一家商店的窗戶裡有一雙漂亮的鞋子</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我居然看到一家商店的窗戶裡有一雙漂亮的鞋子</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1009">所以如果開窗戶換空氣也房間裡馬上就臭了</SENTENCE>
+<MISTAKE start_off="11" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以如果開窗戶換空氣房間裡也馬上就臭了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1011">所以從前總是照顧我弟弟的我媽媽</SENTENCE>
+<MISTAKE start_off="5" end_off="12">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以從前照顧我弟弟的總是我媽媽</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1012">為了戒菸你先可以去看醫生</SENTENCE>
+<MISTAKE start_off="6" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>為了戒菸你可以先去看醫生</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1013">為什麼你不常丟垃圾</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>為什麼你常不丟垃圾</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1014">突然你收到這樣的信</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你突然收到這樣的信</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1015">要不然就他可能放棄努力好好地學習</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>要不然他就可能放棄努力好好地學習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1016">氣氛會一定好的</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>氣氛一定會好的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1017">商店裡面的氣氛對我的確買或不買東西有很大的影響</SENTENCE>
+<MISTAKE start_off="10" end_off="17">
+<TYPE>Disorder</TYPE>
+<CORRECTION>商店裡面的氣氛對我買或不買東西的確有很大的影響</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1018">唱大聲是很好的發音練習</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>大聲唱是很好的發音練習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1019">現在也我們繼續交流</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>現在我們也繼續交流</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1020">終於我們要見面</SENTENCE>
+<MISTAKE start_off="1" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們終於要見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1022">這是真的一舉兩得</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>這真的是一舉兩得</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1023">造成他在學校的學習無法完全跟上其他學生</SENTENCE>
+<MISTAKE start_off="10" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>造成他在學校的學習完全無法跟上其他學生</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1024">當然他嚇一跳了</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他當然嚇一跳了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1025">練習簡單一下</SENTENCE>
+<MISTAKE start_off="1" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>簡單練習一下</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1026">誰都的生活非常辛苦</SENTENCE>
+<MISTAKE start_off="2" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>誰的生活都非常辛苦</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1027">雖然我也聽音樂時要大聲聽</SENTENCE>
+<MISTAKE start_off="4" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>雖然我聽音樂時也要大聲聽</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1028">雖然現在也他的頭腦不清楚</SENTENCE>
+<MISTAKE start_off="5" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>雖然現在他的頭腦也不清楚</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1029">工作上的錯誤多起來了</SENTENCE>
+<MISTAKE start_off="8" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>工作上的錯誤多了起來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1030">但是從來沒有跟你過碰面</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>但是從來沒有跟你碰過面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1031">你為甚麼停止了上大學</SENTENCE>
+<MISTAKE start_off="7" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你為甚麼停止上大學了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1032">我幫過他報名來台灣念書</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我幫他報過名來台灣念書</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1033">其中有一個人丟護照了</SENTENCE>
+<MISTAKE start_off="8" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>其中有一個人丟了護照</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1034">為了他們做錄音帶了</SENTENCE>
+<MISTAKE start_off="6" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>為了他們做了錄音帶</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1035">這十天我常常看過你吃飯以後</SENTENCE>
+<MISTAKE start_off="8" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>這十天我常常看你吃過飯以後</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1037">一點鐘在那裡可不可以跟你見面</SENTENCE>
+<MISTAKE start_off="1" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可不可以一點鐘在那裡跟你見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1038">吃飽以後再要運動一下吧</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>吃飽以後要再運動一下吧</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1039">我已經知道他會很快死了</SENTENCE>
+<MISTAKE start_off="7" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我已經知道他很快會死了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1040">我要告訴她怎麼走</SENTENCE>
+<MISTAKE start_off="2" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我告訴她要怎麼走</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1041">我們想每周三次下課以後可以練習</SENTENCE>
+<MISTAKE start_off="4" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們想可以每周三次下課以後練習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1042">我都不想會有什麼結果</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我都不會想有什麼結果</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1043">我覺得你在餐廳可以吃飯</SENTENCE>
+<MISTAKE start_off="5" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我覺得你可以在餐廳吃飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1044">現在我不知道怎麼可以謝他</SENTENCE>
+<MISTAKE start_off="7" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>現在我不知道可以怎麼謝他</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1045">就立刻會開始不舒服</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>就會立刻開始不舒服</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1046">讓我們每個禮拜有兩三天在５０４演講廳可以好好地準備</SENTENCE>
+<MISTAKE start_off="12" end_off="20">
+<TYPE>Disorder</TYPE>
+<CORRECTION>讓我們每個禮拜有兩三天可以在５０４演講廳好好地準備</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1047">我應該買新個皮帶</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我應該買個新皮帶</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1048">其實我不是他的最好朋友</SENTENCE>
+<MISTAKE start_off="7" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>其實我不是他最好的朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1049">突然我的另外朋友打電話給我說</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>突然我另外的朋友打電話給我說</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1050">我們可以做這樣就可以跟新朋友過一個很快樂的一天</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們可以這樣做就可以跟新朋友過一個很快樂的一天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1051">我們到我家一個附近的健康中心去游泳</SENTENCE>
+<MISTAKE start_off="6" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們到我家附近的一個健康中心去游泳</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1052">剛來的時候我中文一�都不懂</SENTENCE>
+<MISTAKE start_off="7" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>剛來的時候我一點中文都不懂</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1053">一點左右雪山才到了</SENTENCE>
+<MISTAKE start_off="5" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>一點左右才到了雪山</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1055">因為我想跟你見面在很特別的地方</SENTENCE>
+<MISTAKE start_off="7" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為我想跟你在很特別的地方見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1056">在他的家我睡了</SENTENCE>
+<MISTAKE start_off="1" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我在他的家睡了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1057">但是他每個禮拜會來到家裡看一看</SENTENCE>
+<MISTAKE start_off="9" end_off="12">
+<TYPE>Disorder</TYPE>
+<CORRECTION>但是他每個禮拜會到家裡來看一看</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1058">我知道有很多好吃的地方在東區那邊</SENTENCE>
+<MISTAKE start_off="4" end_off="16">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我知道在東區那邊有很多好吃的地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1059">我們可以先見在忠孝復興</SENTENCE>
+<MISTAKE start_off="6" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們可以先在忠孝復興見</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1060">所以我讓他住了幾天在我的家</SENTENCE>
+<MISTAKE start_off="6" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以我讓他在我的家住了幾天</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1061">為了準備帶台灣去的東西才去逛街的日子</SENTENCE>
+<MISTAKE start_off="6" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>為了準備帶去台灣的東西才去逛街的日子</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1062">最好見在捷運站的裡面</SENTENCE>
+<MISTAKE start_off="3" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>最好在捷運站的裡面見</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1063">然後樓上去一邊喝咖啡一邊讀書</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>然後去樓上一邊喝咖啡一邊讀書</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1064">現在我知道甚麼樣的買東西是值得的</SENTENCE>
+<MISTAKE start_off="6" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>現在我知道買甚麼樣的東西是值得的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1065">中國新年到了的時候</SENTENCE>
+<MISTAKE start_off="1" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>到了中國新年的時候</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1066">平時我們下課後玩完社團就會回寢室休息</SENTENCE>
+<MISTAKE start_off="7" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>平時我們下課玩完社團後就會回寢室休息</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1067">你應該也有一些問題要我改善的</SENTENCE>
+<MISTAKE start_off="8" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你應該也有一些要我改善的問題</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1068">需要一些東西修理好</SENTENCE>
+<MISTAKE start_off="1" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>一些東西需要修理好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1069">而且有的時候蟑螂出現</SENTENCE>
+<MISTAKE start_off="7" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>而且有的時候出現蟑螂</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1070">而且我一點都不知道台灣的事</SENTENCE>
+<MISTAKE start_off="6" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>而且我一點台灣的事都不知道</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1071">你也有我該要改的部分</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你也有該要我改的部分</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1072">希望老師我的想法同意</SENTENCE>
+<MISTAKE start_off="5" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>希望老師同意我的想法</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1073">我希望我的同學們我同意</SENTENCE>
+<MISTAKE start_off="9" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我希望我的同學們同意我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1074">我媽媽希望你請吃飯</SENTENCE>
+<MISTAKE start_off="6" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我媽媽希望請你吃飯</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1075">我認為你最好搭來台北火車站八點的火車</SENTENCE>
+<MISTAKE start_off="8" end_off="18">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我認為你最好搭八點的火車來台北火車站</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1076">我願意幫過馬路之</SENTENCE>
+<MISTAKE start_off="5" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我願意幫之過馬路</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1077">我覺得如果你們我們同意</SENTENCE>
+<MISTAKE start_off="8" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我覺得如果你們同意我們</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1078">沒想到我的背甚麼都沒有問題</SENTENCE>
+<MISTAKE start_off="9" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>沒想到我的背甚麼問題都沒有</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1079">那時候我對中學生教數學、英文什麼的</SENTENCE>
+<MISTAKE start_off="6" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>那時候我對教中學生數學、英文什麼的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1080">所以你期待看到我們的表演</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以期待你看到我們的表演</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1081">所以很多人在我生命中還沒認識到</SENTENCE>
+<MISTAKE start_off="3" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以在我生命中還沒認識到很多人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1082">所以很快就可以回家你們好好照顧</SENTENCE>
+<MISTAKE start_off="10" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以很快就可以回家好好照顧你們</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1083">然後我們自己嘗試寫劇本麻煩您請看一看</SENTENCE>
+<MISTAKE start_off="14" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>然後我們自己嘗試寫劇本麻煩請您看一看</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1084">我給你在寫這封信</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我在給你寫這封信</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1085">離台北車站淡水不太近</SENTENCE>
+<MISTAKE start_off="1" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>台北車站離淡水不太近</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1086">才會有笑容在生活當中</SENTENCE>
+<MISTAKE start_off="1" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>在生活當中才會有笑容</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1087">不知道從哪來一位老人家到我旁邊來坐</SENTENCE>
+<MISTAKE start_off="12" end_off="17">
+<TYPE>Disorder</TYPE>
+<CORRECTION>不知道從哪來一位老人家坐到我旁邊來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1088">他們滿足他們的環境</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Selection</TYPE>
+<CORRECTION>他們滿意他們的環境</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1089">可不可以加油替我們</SENTENCE>
+<MISTAKE start_off="5" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可不可以替我們加油</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1091">因為我不但看過「三國演義」從頭到尾五遍</SENTENCE>
+<MISTAKE start_off="6" end_off="17">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為我不但從頭到尾看過「三國演義」五遍</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1092">她說跟我不要等他了</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>她跟我說不要等他了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1093">但是我沒有生氣跟阿公</SENTENCE>
+<MISTAKE start_off="6" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>但是我沒有跟阿公生氣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1094">你常常到半夜在夜店喝酒</SENTENCE>
+<MISTAKE start_off="4" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你常常在夜店喝酒到半夜</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1095">我在那裡看得到台灣從上面的環境</SENTENCE>
+<MISTAKE start_off="5" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我在那裡從上面的環境看得到台灣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1096">我有很多的問題對他們的口音</SENTENCE>
+<MISTAKE start_off="2" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我對他們的口音有很多的問題</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1097">我有對你受不了的事情</SENTENCE>
+<MISTAKE start_off="2" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我對你有受不了的事情</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1098">我為他們想做很多事</SENTENCE>
+<MISTAKE start_off="2" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我想為他們做很多事</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1100">把我的位子請給她</SENTENCE>
+<MISTAKE start_off="1" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>請把我的位子給她</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1101">所以我們可以練習從每天早上</SENTENCE>
+<MISTAKE start_off="7" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以我們可以從每天早上練習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1102">所以我解釋她我需要的東西</SENTENCE>
+<MISTAKE start_off=" " end_off=" ">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我告訴她我需要的東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1103">所以我繼續走往海關櫃檯</SENTENCE>
+<MISTAKE start_off="6" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以我繼續往海關櫃檯走 </CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1104">還有兩個月離學校的晚會</SENTENCE>
+<MISTAKE start_off="1" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>離學校的晚會還有兩個月</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1106">你解決怎麼樣呢</SENTENCE>
+<MISTAKE start_off="2" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你怎麼樣解決呢</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1116">我要跟她說：「感謝老師很多」</SENTENCE>
+<MISTAKE start_off="8" end_off="13">
+<TYPE>Selection</TYPE>
+<CORRECTION>我要跟她說：「多謝老師」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1117">這個時候我很多買禮物</SENTENCE>
+<MISTAKE start_off="6" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>這個時候我買很多禮物</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1119">三月２００４年</SENTENCE>
+<MISTAKE start_off="1" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>２００４年三月</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1120">天天我的心情都很壞</SENTENCE>
+<MISTAKE start_off="1" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我的心情天天都很壞</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1123">我們在台北車站八號出口下個禮拜天兩點鐘見面最方便</SENTENCE>
+<MISTAKE start_off="3" end_off="19">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們下個禮拜天兩點鐘在台北車站八號出口見面最方便</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1124">我們在運動場練習三點開始</SENTENCE>
+<MISTAKE start_off="7" end_off="12">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們在運動場三點開始練習</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1125">我們希望國語中心幫忙準備房間給我們練習一個禮拜兩次</SENTENCE>
+<MISTAKE start_off="18" end_off="23">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們希望國語中心幫忙準備房間給我們一個禮拜練習兩次</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1126">我真不敢相信我們才兩個星期以前約好了見面</SENTENCE>
+<MISTAKE start_off="9" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我真不敢相信我們兩個星期以前才約好了見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1127">我就安排九點鐘在八月十五日見面</SENTENCE>
+<MISTAKE start_off="5" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我就安排在八月十五日九點鐘見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1128">我想要以後的日子我們都過得舒服</SENTENCE>
+<MISTAKE start_off="4" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我想要我們以後的日子都過得舒服</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1131">明天在我家下午２點３０分集合</SENTENCE>
+<MISTAKE start_off="3" end_off="12">
+<TYPE>Disorder</TYPE>
+<CORRECTION>明天下午２點３０分在我家集合</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1132">連去過的人都說一次看一定要再看好幾次</SENTENCE>
+<MISTAKE start_off="8" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>連去過的人都說看一次一定要再看好幾次</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1133">還有可以的話一次在新年晚會的時候用的地方練習</SENTENCE>
+<MISTAKE start_off="7" end_off="22">
+<TYPE>Disorder</TYPE>
+<CORRECTION>還有可以的話在新年晚會的時候用的地方練習一次</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1134">有三個日本學生入學在我們的學校</SENTENCE>
+<MISTAKE start_off="8" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>有三個日本學生在我們學校入學</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1135">我覺得野餐是最好的辦法認識新朋友</SENTENCE>
+<MISTAKE start_off="7" end_off="16">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我覺得野餐是認識新朋友最好的辦法</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1136">讓你比較容易認出來我</SENTENCE>
+<MISTAKE start_off="9" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>讓你比較容易認出我來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1137">所以那個時候我想起來了我們韓國的生活</SENTENCE>
+<MISTAKE start_off="10" end_off="18">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以那個時候我想起我們韓國的生活來了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1138">上個禮拜六他解釋給我這件事</SENTENCE>
+<MISTAKE start_off="7" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>上個禮拜六他給我解釋這件事</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1139">他們就給我退錢</SENTENCE>
+<MISTAKE start_off="4" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他們就退錢給我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1140">因為你不好習慣帶來給我不少麻煩</SENTENCE>
+<MISTAKE start_off="8" end_off="11">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為你不好習慣給我帶來不少麻煩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1141">在那個地方可以送給別人寫信</SENTENCE>
+<MISTAKE start_off="8" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>在那個地方可以寫信送給別人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1142">她給我幫助拒絕我跟朋友們所發生的糾紛</SENTENCE>
+<MISTAKE start_off="2" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>她拒絕給我幫助我跟朋友們所發生的糾紛</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1144">我希望你不會生氣看完這封信</SENTENCE>
+<MISTAKE start_off="5" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我希望你看完這封信不會生氣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1145">我們添給您很多麻煩</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們給您添很多麻煩</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1146">我送給我家人寫卡片</SENTENCE>
+<MISTAKE start_off="2" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我寫卡片送給我家人</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1147">那個時候我也要帶來白色的包包</SENTENCE>
+<MISTAKE start_off="9" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>那個時候我也要帶白色的包包來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1148">為什麼他沒有說明給我有什麼原因</SENTENCE>
+<MISTAKE start_off="7" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>為什麼他沒有給我說明有什麼原因</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B1-1149">就會成本降低</SENTENCE>
+<MISTAKE start_off="1" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>成本就會降低</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1150">１０１是真漂亮的大樓</SENTENCE>
+<MISTAKE start_off="4" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>１０１真是漂亮的大樓</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1151">也她為了我的台灣生活一切順利跟我一起準備需要的東西</SENTENCE>
+<MISTAKE start_off="1" end_off="2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>她也為了我的台灣生活一切順利跟我一起準備需要的東西</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1152">也當然比一般菜的價格稍微貴一點</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>當然也比一般的菜的價格稍微貴一點</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1153">也當然需要與朋友分享時光</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>當然也需要與朋友分享時光</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1154">反而他們不讓我們進去店裡</SENTENCE>
+<MISTAKE start_off="1" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他們反而不讓我們進去店裡</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1155">以後慢慢知道他這種方式是其實很普通的交朋友的方式</SENTENCE>
+<MISTAKE start_off="12" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>以後慢慢知道他這種方式其實是很普通的交朋友的方式</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1156">可是還是我很高興</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可是我還是很高興</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1157">我只一連四天去逛街</SENTENCE>
+<MISTAKE start_off="2" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我一連四天只去逛街</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1158">我朋友差不多那隻狗養了十年了</SENTENCE>
+<MISTAKE start_off="4" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我朋友那隻狗差不多養了十年了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1159">我們已經開始當筆友兩年了</SENTENCE>
+<MISTAKE start_off="3" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們開始當筆友已經兩年了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1160">我們先要在河的旁邊逛逛</SENTENCE>
+<MISTAKE start_off="3" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們要先在河的旁邊逛逛</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1161">我們的孩子算是都有兩位父母</SENTENCE>
+<MISTAKE start_off="6" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們的孩子都算是有兩位父母</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1162">那天吃的蔬菜是的確在那家超市購買的蔬菜</SENTENCE>
+<MISTAKE start_off="7" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>那天吃的蔬菜的確是在那家超市購買的蔬菜</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1164">所以我們先要去１０１大樓</SENTENCE>
+<MISTAKE start_off="5" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以我們要先去１０１大樓</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1165">所以我現在趁著在台灣學中文的時間跟他們常常見面</SENTENCE>
+<MISTAKE start_off="17" end_off="21">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以我現在趁著在台灣學中文的時間常常跟他們見面</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1166">果然他就說沒有叫我買</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他果然就說沒有叫我買</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1167">卻她好幾次經歷很悲哀的經驗</SENTENCE>
+<MISTAKE start_off="1" end_off="2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>她卻好幾次經歷很悲哀的經驗</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1168">家長也應該不讓小孩子亂玩網路遊戲</SENTENCE>
+<MISTAKE start_off="4" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>家長也不應該讓小孩子亂玩網路遊戲</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1169">現在我跟這瑞典人的關係是已經很好的朋友</SENTENCE>
+<MISTAKE start_off="12" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>現在我跟這瑞典人的關係已經是很好的朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1170">竟然妳瞞著這種讓人很難過的事情找我</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>妳竟然瞞著這種讓人很難過的事情找我</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1171">就我們大家一起在他的船上玩兒</SENTENCE>
+<MISTAKE start_off="1" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們大家就一起在他的船上玩兒</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1172">就很容易被她們淘汰了</SENTENCE>
+<MISTAKE start_off="1" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>很容易就被她們淘汰了</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1173">然後我們人類也遲早會受到經濟發展給我們的壞影響</SENTENCE>
+<MISTAKE start_off="7" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>然後我們人類遲早也會受到經濟發展給我們的壞影響</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1174">當然我們見面以後也我們的關係不會改變</SENTENCE>
+<MISTAKE start_off="9" end_off="14">
+<TYPE>Disorder</TYPE>
+<CORRECTION>當然我們見面以後我們的關係也不會改變</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1175">趕快要停止吃這裡賣的「有機農藥」</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>要趕快停止吃這裡賣的「有機農藥」</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1176">輕鬆地可以跟很多各種各樣的人交朋友</SENTENCE>
+<MISTAKE start_off="1" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可以輕鬆地跟很多各種各樣的人交朋友</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1177">請你也那天以前告訴我怎麼找到你</SENTENCE>
+<MISTAKE start_off="1" end_off="3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>也請你那天以前告訴我怎麼找到你</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1178">還好那時候我們還沒有那麼遠爬上去</SENTENCE>
+<MISTAKE start_off="11" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>還好那時候我們還沒有爬上那麼遠去</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1179">還常常他們開車送我們到有名的地方</SENTENCE>
+<MISTAKE start_off="1" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他們還常常開車送我們到有名的地方</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1180">雖然其實我沒那麼有用</SENTENCE>
+<MISTAKE start_off="3" end_off="5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>雖然我其實沒那麼有用</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1181">可能我們五點鐘左右看完那個展覽</SENTENCE>
+<MISTAKE start_off="1" end_off="4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們可能五點鐘左右看完那個展覽</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1182">我找個時間要去百貨公司退這個禮物</SENTENCE>
+<MISTAKE start_off="2" end_off="6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我要找個時間去百貨公司退這個禮物</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1183">所以現在如果我面對難題的時候可以我自己解釋</SENTENCE>
+<MISTAKE start_off="15" end_off="17">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以現在如果我面對難題的時候我可以自己解釋</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1184">要選的工作一定比別人好</SENTENCE>
+<MISTAKE start_off="1" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>選的工作一定要比別人好</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1185">可是現在的印尼工作很難找</SENTENCE>
+<MISTAKE start_off="5" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可是現在印尼的工作很難找</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1186">花蓮的高速公路的建設帶來了花蓮經濟發展</SENTENCE>
+<MISTAKE start_off="8" end_off="15">
+<TYPE>Disorder</TYPE>
+<CORRECTION>花蓮的高速公路建設帶來了花蓮的經濟發展</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1187">可是不一定畢業以後可以找到好的一份工作</SENTENCE>
+<MISTAKE start_off="3" end_off="9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可是畢業以後不一定可以找到一份好的工作</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1188">有打工的經驗一定會給他們針對將來的生活以及生活方式的一些觀念</SENTENCE>
+<MISTAKE start_off="13" end_off="28">
+<TYPE>Disorder</TYPE>
+<CORRECTION>有打工的經驗一定會給他們一些針對將來的生活以及生活方式的觀念</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1189">我換了專業幾次</SENTENCE>
+<MISTAKE start_off="4" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我換了幾次專業</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1190">還會戴黑色的一頂帽子</SENTENCE>
+<MISTAKE start_off="4" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>還會戴一頂黑色的帽子</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1191">我國的學費是聽說世界最貴的</SENTENCE>
+<MISTAKE start_off="6" end_off="8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我國的學費聽說是世界最貴的</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1192">在一家咖啡店約比較方便</SENTENCE>
+<MISTAKE start_off="1" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>約在一家咖啡店比較方便</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1193">我們直接去吃午餐全台知名的英式餐廳</SENTENCE>
+<MISTAKE start_off="6" end_off="17">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們直接去全台知名的英式餐廳吃午餐</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1194">我想見面在那個捷運站比較方便</SENTENCE>
+<MISTAKE start_off="3" end_off="10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我想在那個捷運站見面比較方便</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1195">要不要星期二早上九點在我家門口約</SENTENCE>
+<MISTAKE start_off="11" end_off="16">
+<TYPE>Disorder</TYPE>
+<CORRECTION>要不要星期二早上九點約在我家門口</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1196">從捷運站我們就開我的車子到烏來</SENTENCE>
+<MISTAKE start_off="1" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們就從捷運站開我的車子到烏來</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1197">進名校是在韓國非常重要的關鍵</SENTENCE>
+<MISTAKE start_off="4" end_off="7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>進名校在韓國是非常重要的關鍵</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1198">因為我朋友對它好像親妹妹一樣的態度</SENTENCE>
+<MISTAKE start_off="8" end_off="17">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為我朋友對它的態度好像親妹妹一樣</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1199">假設此高速公路能夠讓花蓮獲得頗大的經濟發展的進步</SENTENCE>
+<MISTAKE start_off="13" end_off="21">
+<TYPE>Disorder</TYPE>
+<CORRECTION>假設此高速公路能夠讓花蓮的經濟發展獲得頗大的進步</CORRECTION>
+</MISTAKE>
+</DOC>
+
+<DOC>
+<SENTENCE id="B2-1200">賣方卻說：他一點也沒有錯誤</SENTENCE>
+<MISTAKE start_off="9" end_off="13">
+<TYPE>Disorder</TYPE>
+<CORRECTION>賣方卻說：他一點錯誤也沒有</CORRECTION>
+</MISTAKE>
+</DOC>

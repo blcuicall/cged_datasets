@@ -1,0 +1,6884 @@
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0115-1">跟妳開個玩笑的啦</SENTENCE>
+<SENTENCE id="B1-0115-2">如果妳有想去哪裡</SENTENCE>
+<SENTENCE id="B1-0115-3">希望我們能夠過開心的一天</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0115-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>跟妳開玩笑的啦</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0115-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果妳想去哪裡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0115-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>希望我們能夠有開心的一天</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0122-1">所以我得先跟你說那天的打扮</SENTENCE>
+<SENTENCE id="B1-0122-2">希望你使我的願望成真</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0122-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我得先跟你說我那天的打扮</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0122-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>希望你會使我的願望成真</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0126-1">聽說下個禮拜你的學校開始放假</SENTENCE>
+<SENTENCE id="B1-0126-2">跟我的大學也一樣</SENTENCE>
+<SENTENCE id="B1-0126-3">大概很有意思</SENTENCE>
+<SENTENCE id="B1-0126-4">聽說自從開始每天滿座</SENTENCE>
+<SENTENCE id="B1-0126-5">還是有什麼問題請你告訴我</SENTENCE>
+<SENTENCE id="B1-0126-6">牛褲仔跟黃色的帽子</SENTENCE>
+<SENTENCE id="B1-0126-7">如果看不到我在那</SENTENCE>
+<SENTENCE id="B1-0126-8">請你給我打電話</SENTENCE>
+<SENTENCE id="B1-0126-9">希望我們的計畫要見面沒有甚麼問題</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0126-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>聽說你的學校下個禮拜開始放假</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0126-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>跟我的大學一樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0126-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>大概會很有意思</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0126-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>聽說自從開始後每天滿座</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0126-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>如果有什麼問題請你告訴我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0126-6">
+<TYPE>Selection</TYPE>
+<CORRECTION>牛仔褲跟黃色的帽子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0126-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>如果看不到我在那裡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0126-8">
+<TYPE>Disorder</TYPE>
+<CORRECTION>請你打電話給我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0126-9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>希望我們要見面的計畫沒有甚麼問題</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0130-1">我從那時候每天都在想這件事</SENTENCE>
+<SENTENCE id="B1-0130-2">我很好奇見到你我會改變我現在對你的印象嗎</SENTENCE>
+<SENTENCE id="B1-0130-3">今天過了</SENTENCE>
+<SENTENCE id="B1-0130-4">我們先就這樣吧</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0130-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我從那時候開始每天都在想這件事</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0130-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我很好奇見到你以後我會改變我現在對你的印象嗎</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0130-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>過了今天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0130-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們就先這樣吧</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0135-1">真好開心你會來台北跟我見面</SENTENCE>
+<SENTENCE id="B1-0135-2">第一次見面一定會是一個很幸福的事情</SENTENCE>
+<SENTENCE id="B1-0135-3">我記得你說你是在台北出生的</SENTENCE>
+<SENTENCE id="B1-0135-4">早上我們去我住的附近的特別台灣早餐</SENTENCE>
+<SENTENCE id="B1-0135-5">會一定很刺激</SENTENCE>
+<SENTENCE id="B1-0135-6">我會穿一個很花的衣服</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0135-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>真開心你會來台北跟我見面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0135-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>第一次見面一定會是一件很幸福的事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0135-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我記得你說過你是在台北出生的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0135-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>早上我們去吃我住的附近的特別台灣早餐</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0135-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>一定會很刺激</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0135-6">
+<TYPE>Selection</TYPE>
+<CORRECTION>我會穿一件很花的衣服</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0146-1">我們到現在都是以寫信為連絡</SENTENCE>
+<SENTENCE id="B1-0146-2">應該你也是吧</SENTENCE>
+<SENTENCE id="B1-0146-3">順便我也想買衣服還有鞋子</SENTENCE>
+<SENTENCE id="B1-0146-4">要穿哪一件還是要拿什麼東西讓你知道我是誰</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0146-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們到現在都是以寫信為連絡方式</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0146-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你應該也是吧</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0146-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我也想買衣服還有鞋子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0146-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>要穿哪一件衣服還是要拿什麼東西讓你知道我是誰</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0150-1">我非常期待我們終於要見面</SENTENCE>
+<SENTENCE id="B1-0150-2">使得我對你有一個熟悉的感覺</SENTENCE>
+<SENTENCE id="B1-0150-3">其實我是想說飛機場人山人海怕你找不到我</SENTENCE>
+<SENTENCE id="B1-0150-4">然後我們就會去到湖邊划船</SENTENCE>
+<SENTENCE id="B1-0150-5">逛完就帶你回家吃飯</SENTENCE>
+<SENTENCE id="B1-0150-6">然後我就聊聊天吧</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0150-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我非常期待我們終於要見面了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0150-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我對你有一個熟悉的感覺</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0150-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>其實我是想飛機場人山人海怕你找不到我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0150-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>然後我們就會去湖邊划船</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0150-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>逛完街帶你回家吃飯</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0150-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>然後我們就聊聊天吧</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0155-1">尤其是用肉的菜非常好吃</SENTENCE>
+<SENTENCE id="B1-0155-2">我送你到你的家</SENTENCE>
+<SENTENCE id="B1-0155-3">我忘記了告訴你很重要的事</SENTENCE>
+<SENTENCE id="B1-0155-4">還有在動物園應該走很久的時間</SENTENCE>
+<SENTENCE id="B1-0155-5">當然我會一定開心</SENTENCE>
+<SENTENCE id="B1-0155-6">如果那一天又下雨</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0155-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>尤其是用肉煮的菜非常好吃</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0155-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我送你到你家</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0155-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我忘記告訴你很重要的事</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0155-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>還有在動物園應該會走很久的時間</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0155-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>當然我一定會開心</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0155-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果那一天下雨</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0160-1">我希望早一點跟你見面</SENTENCE>
+<SENTENCE id="B1-0160-2">每天晚上都躺著床上一兩個小時睡不著</SENTENCE>
+<SENTENCE id="B1-0160-3">我從你寄給我的信看得出來</SENTENCE>
+<SENTENCE id="B1-0160-4">你週末幹嘛</SENTENCE>
+<SENTENCE id="B1-0160-5">我打給我</SENTENCE>
+<SENTENCE id="B1-0160-6">還有哪裡玩</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0160-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望能早一點跟你見面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0160-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>每天晚上都躺在床上一兩個小時睡不著</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0160-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>從你寄給我的信我看得出來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0160-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>你週末要幹嘛</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0160-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>打給我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0160-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>還有去哪裡玩</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0167-1">雖然我們從來沒見面過</SENTENCE>
+<SENTENCE id="B1-0167-2">每次你的信讓我開心</SENTENCE>
+<SENTENCE id="B1-0167-3">我想想看了</SENTENCE>
+<SENTENCE id="B1-0167-4">在下面我寫的內容看完了以後</SENTENCE>
+<SENTENCE id="B1-0167-5">那邊附近有一家超好吃的燒肉店</SENTENCE>
+<SENTENCE id="B1-0167-6">為了你馬上找到我</SENTENCE>
+<SENTENCE id="B1-0167-7">當天的我的樣子</SENTENCE>
+<SENTENCE id="B1-0167-8">別忘喔</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0167-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>雖然我們從來沒見過面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0167-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>每次你的信會讓我開心</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0167-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我想想看</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0167-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>在下面我寫的內容你看完了以後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0167-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那附近有一家超好吃的燒肉店</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0167-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>為了讓你馬上找到我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0167-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>當天我的樣子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0167-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>別忘了喔</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0171-1">我決定了我們約的地方跟時間了</SENTENCE>
+<SENTENCE id="B1-0171-2">所以怕你認不出來我</SENTENCE>
+<SENTENCE id="B1-0171-3">應該我看起來很好笑吧</SENTENCE>
+<SENTENCE id="B1-0171-4">我真的很等不及見到你</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0171-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我決定我們約的地方跟時間了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0171-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以怕你認不出我來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0171-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我應該看起來很好笑吧</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0171-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我真的等不及見到你</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0176-1">我有很多事需要對他當面說謝謝</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0176-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我有很多事需要當面對他說謝謝</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0181-1">在日常生活裡人們會總會受到別人的幫助</SENTENCE>
+<SENTENCE id="B1-0181-2">媽媽每次都會告訴我要養成好的習慣不要抖腳因為男抖貧女抖賤</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0181-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>在日常生活裡人們總會受到別人的幫助</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0181-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>媽媽每次都會告訴我要養成好的習慣不要抖腳因為男抖窮女抖賤</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0186-1">每個人需要別人的幫助</SENTENCE>
+<SENTENCE id="B1-0186-2">其實真的不容易選擇我最感謝的人是誰</SENTENCE>
+<SENTENCE id="B1-0186-3">我決定了上大學</SENTENCE>
+<SENTENCE id="B1-0186-4">我的目標是成為用中文來幫助別人的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0186-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>每個人都需要別人的幫助</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0186-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>其實選擇我最感謝的人是誰真的不容易</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0186-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我決定上大學</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0186-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我的目標是成為用中文來幫助別人的人</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0192-1">我覺得他們對我做最重要的事是帶我到處都旅行和付大學學費</SENTENCE>
+<SENTENCE id="B1-0192-2">所以我會從台灣寄一封信也告訴父母我很想感謝他們</SENTENCE>
+<SENTENCE id="B1-0192-3">因為上美國大學非常貴和我不要浪費父母的錢</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0192-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得他們對我做最重要的事是帶我到處旅行和付大學學費</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0192-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我會從台灣寄一封信也告訴父母我很感謝他們</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0192-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為上美國大學非常貴所以我不要浪費父母的錢</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0196-1">如果我只能選一個在我生活裡有幫助我的人</SENTENCE>
+<SENTENCE id="B1-0196-2">我有去過日本</SENTENCE>
+<SENTENCE id="B1-0196-3">你是世界最好的媽媽</SENTENCE>
+<SENTENCE id="B1-0196-4">她是我最大的粉絲然後我知道她永遠會在我後面照顧我</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0196-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果我只能選一個在我生活裡幫助我的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0196-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我去過日本</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0196-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>你是世界上最好的媽媽</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0196-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>她是我最大的粉絲因為我知道她永遠會在我後面照顧我</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0200-1">而我的感謝是他讓我去台北美國學校讀書</SENTENCE>
+<SENTENCE id="B1-0200-2">再出社會當一個有對社會幫助的人</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0200-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>而我感謝的是他讓我去台北美國學校讀書</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0200-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>再出社會當一個對社會有幫助的人</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0207-1">我有一次很小的時候有一個女生每天都每天對我不好</SENTENCE>
+<SENTENCE id="B1-0207-2">我對她很容易生氣</SENTENCE>
+<SENTENCE id="B1-0207-3">她一直打著我</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0207-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我有一次很小的時候有一個女生每天都對我不好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0207-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我很容易對她生氣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0207-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她一直打我</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0212-1">我就會跟她直接說</SENTENCE>
+<SENTENCE id="B1-0212-2">我小時候過了很愉快的生活也有交過很多朋友</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0212-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我就會直接跟她說</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0212-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我小時候過了很愉快的生活也交過很多朋友</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0216-1">雖然她只是一個不同朋友可是如果她現在在這裡</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0216-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>雖然她只是一個不同的朋友可是如果她現在在這裡</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0222-1">但是他對不認識的人還真很好</SENTENCE>
+<SENTENCE id="B1-0222-2">我常常想一想</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0222-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是他對不認識的人還真的很好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0222-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我常常想</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0226-1">養我從小到大</SENTENCE>
+<SENTENCE id="B1-0226-2">她賺錢得很辛苦</SENTENCE>
+<SENTENCE id="B1-0226-3">為了報恩她</SENTENCE>
+<SENTENCE id="B1-0226-4">又要做善事做功德</SENTENCE>
+<SENTENCE id="B1-0226-5">做為了對社會有幫助</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0226-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>從小養我到大</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0226-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>她賺錢賺得很辛苦</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0226-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>為了報恩</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0226-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>還要做善事做功德</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0226-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>做對社會有幫助</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0231-1">恐怕我一定沒有目前的成功</SENTENCE>
+<SENTENCE id="B1-0231-2">我要寫到他們之所以</SENTENCE>
+<SENTENCE id="B1-0231-3">將來找工作一定會發生了很多問題</SENTENCE>
+<SENTENCE id="B1-0231-4">爸爸說我的社會的地位會比較低</SENTENCE>
+<SENTENCE id="B1-0231-5">我因為他們的鼓勵而已經研究所畢業的學生</SENTENCE>
+<SENTENCE id="B1-0231-6">可是他們連一分鐘都沒罵我</SENTENCE>
+<SENTENCE id="B1-0231-7">希望我會表現像你們這麼理想</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0231-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>恐怕我沒有目前的成功</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0231-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我之所以要寫到他們</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0231-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>將來找工作一定會發生很多問題</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0231-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>爸爸說我的社會地位會比較低</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0231-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我因為他們的鼓勵而已經是個研究所畢業的學生</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0231-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是他們連一分鐘都沒罵過我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0231-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>希望我會表現得像你們這麼理想</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0349-1">短的頭髮</SENTENCE>
+<SENTENCE id="B1-0349-2">祝好</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0349-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>短頭髮</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0349-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>祝事事如意</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0354-1">我先說我非常高興可以見你了</SENTENCE>
+<SENTENCE id="B1-0354-2">吃飯後</SENTENCE>
+<SENTENCE id="B1-0354-3">你已經知道我的樣子</SENTENCE>
+<SENTENCE id="B1-0354-4">可是我會再說一次</SENTENCE>
+<SENTENCE id="B1-0354-5">我有紅色的短頭髮</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0354-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我先說我非常高興可以見你</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0354-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>吃完飯後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0354-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>你已經知道我的樣子嗎</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0354-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是我再說一次</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0354-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我有紅色的短髮</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0359-1">因為那裡附近不但有很多商店</SENTENCE>
+<SENTENCE id="B1-0359-2">你是不是說有想看的電影</SENTENCE>
+<SENTENCE id="B1-0359-3">然後那天</SENTENCE>
+<SENTENCE id="B1-0359-4">我知道你也有跟我一樣金色的鞋子</SENTENCE>
+<SENTENCE id="B1-0359-5">這樣我們比較容易找到</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0359-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為那附近不但有很多商店</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0359-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你不是說有想看的電影</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0359-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0359-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我知道你跟我一樣也有金色的鞋子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0359-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>這樣我們比較容易找到彼此</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0364-1">我們快可以見面吧</SENTENCE>
+<SENTENCE id="B1-0364-2">還是禮拜天有時間嗎</SENTENCE>
+<SENTENCE id="B1-0364-3">我想我們禮拜六早上十點在台北車站「第一號出口」見面</SENTENCE>
+<SENTENCE id="B1-0364-4">然後我還沒想到去哪裡</SENTENCE>
+<SENTENCE id="B1-0364-5">我有一點想跟你一起去看電影</SENTENCE>
+<SENTENCE id="B1-0364-6">雖然從來沒看過</SENTENCE>
+<SENTENCE id="B1-0364-7">可是這麼久會做朋友</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0364-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們快可以見面了吧</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0364-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>或者禮拜天有時間嗎</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0364-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我想我們禮拜六早上十點在台北車站「一號出口」見面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0364-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我還沒想到去哪裡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0364-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我有點想跟你一起去看電影</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0364-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>雖然從來沒看過你</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0364-7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可是會做朋友這麼久</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0368-1">所以我很好奇到底你是什麼樣的人</SENTENCE>
+<SENTENCE id="B1-0368-2">不過看幾次也不會看膩</SENTENCE>
+<SENTENCE id="B1-0368-3">我的大學附近有一家日本料理的餐廳</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0368-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以我很好奇你到底是什麼樣的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0368-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>不過多看幾次也不會看膩</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0368-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我的大學附近有一家日本料理餐廳</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0372-1">可惜到今天沒有機會跟你見面</SENTENCE>
+<SENTENCE id="B1-0372-2">我們總算有機會見面</SENTENCE>
+<SENTENCE id="B1-0372-3">我真很興奮</SENTENCE>
+<SENTENCE id="B1-0372-4">所以我們一起過的時間可以比較長</SENTENCE>
+<SENTENCE id="B1-0372-5">還會戴黑色的一個帽子</SENTENCE>
+<SENTENCE id="B1-0372-6">會很好玩</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0372-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>可惜到今天都沒有機會跟你見面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0372-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們總算有機會見面了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0372-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我很興奮</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0372-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>因此我們一起過的時間可以比較長</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0372-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>還會戴一個黑色的帽子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0372-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>應該會很好玩</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0377-1">祝</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0377-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>祝健康平安</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0384-1">也可以下在台電大樓站</SENTENCE>
+<SENTENCE id="B1-0384-2">都走路差不多10分鐘就到了</SENTENCE>
+<SENTENCE id="B1-0384-3">去陽明山的溫泉</SENTENCE>
+<SENTENCE id="B1-0384-4">吃午飯以後</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0384-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>也可以在台電大樓站下</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0384-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>走路差不多10分鐘就到了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0384-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>去泡陽明山的溫泉</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0384-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>吃過午飯以後</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0390-1">剛好百貨公司有打折</SENTENCE>
+<SENTENCE id="B1-0390-2">而帶你去我最佳的餐廳來吃飯</SENTENCE>
+<SENTENCE id="B1-0390-3">那天的行程由我安排</SENTENCE>
+<SENTENCE id="B1-0390-4">我們直接去吃午餐全台知名的英式餐廳</SENTENCE>
+<SENTENCE id="B1-0390-5">走著走著就很快到下午茶的時間</SENTENCE>
+<SENTENCE id="B1-0390-6">我們應該說定你怎麼在火車站認得我</SENTENCE>
+<SENTENCE id="B1-0390-7">我會拿著一本書和戴著一條紅領帶</SENTENCE>
+<SENTENCE id="B1-0390-8">如果你任何的問題</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0390-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>剛好百貨公司打折</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0390-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我帶你去最佳的餐廳來吃飯</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0390-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>那天的行程是由我安排</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0390-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們直接去全台知名的英式餐廳吃午餐</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0390-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>走著走著很快就到下午茶的時間</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0390-6">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們應該說定你怎麼在火車站認出我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0390-7">
+<TYPE>Selection</TYPE>
+<CORRECTION>我會拿著一本書還戴著一條紅領帶</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0390-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>如果你有任何的問題</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0394-1">看你的信以後我想我們的個性真的很合適</SENTENCE>
+<SENTENCE id="B1-0394-2">於是你可以坐早上的公共汽車到公館去</SENTENCE>
+<SENTENCE id="B1-0394-3">雖然你從來沒看我但是我知道一個方式讓你知道我是誰</SENTENCE>
+<SENTENCE id="B1-0394-4">要是你拿你的雨傘我可以認得你</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0394-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>看過你的信以後我想我們的個性真的很合適</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0394-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你可以坐早上的公共汽車到公館去</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0394-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>雖然你從來沒看過我但是我知道一個方式讓你知道我是誰</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0394-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>要是你拿你的雨傘我或許可以認得你</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0399-1">吃得過癮後應該買一杯珍珠奶茶</SENTENCE>
+<SENTENCE id="B1-0399-2">我昨天發現了用鮮奶做的珍珠奶茶比用奶粉的好喝得多</SENTENCE>
+<SENTENCE id="B1-0399-3">就沒關係</SENTENCE>
+<SENTENCE id="B1-0399-4">看起來沒有女朋友的人就是我</SENTENCE>
+<SENTENCE id="B1-0399-5">萬事如意</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0399-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>吃過癮後應該買一杯珍珠奶茶</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0399-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我昨天發現用鮮奶做的珍珠奶茶比用奶粉的好喝得多</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0399-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>沒關係</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0399-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>看起來還沒有女朋友的人就是我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0399-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>祝萬事如意</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫給即將初次見面的筆友的一封信">
+<TEXT>
+<SENTENCE id="B1-0409-1">所以我是想我們一大早見面</SENTENCE>
+<SENTENCE id="B1-0409-2">何況這些貓熊也才剛放出來沒多久給大家看</SENTENCE>
+<SENTENCE id="B1-0409-3">可能有比較便宜一點</SENTENCE>
+<SENTENCE id="B1-0409-4">我們去光華商場去看看電腦和電腦零件等等</SENTENCE>
+<SENTENCE id="B1-0409-5">跳舞地方</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0409-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>因此我是想我們一大早見面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0409-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>何況這些貓熊也才剛放出來給大家看沒多久</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0409-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可能比較便宜一點</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0409-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們去光華商場看看電腦和電腦零件等等</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0409-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>跳舞的地方</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0412-1">有一些次他當我的棒球隊的教練</SENTENCE>
+<SENTENCE id="B1-0412-2">他常請假為了看我的比賽</SENTENCE>
+<SENTENCE id="B1-0412-3">我長大以後就發現每個父母不一樣</SENTENCE>
+<SENTENCE id="B1-0412-4">我沒辦法讓他注意</SENTENCE>
+<SENTENCE id="B1-0412-5">下五點就來補習班學英文</SENTENCE>
+<SENTENCE id="B1-0412-6">現在我一看小朋友就知道他的父母喜不喜歡跟他花時間</SENTENCE>
+<SENTENCE id="B1-0412-7">我要告訴我爸爸我感謝他是我爸爸</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0412-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>有很多次他當我的棒球隊的教練</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0412-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他為了看我的比賽常請假</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0412-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我長大以後就發現每個父母都不一樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0412-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我沒辦法讓他注意我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0412-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>下課後五點就來補習班學英文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0412-6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>現在我一看小朋友就知道他的父母喜不喜歡花時間跟他</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0412-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我要告訴我爸爸我很感謝他是我爸爸</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0419-1">我覺得她只知怎麼道嘮叨</SENTENCE>
+<SENTENCE id="B1-0419-2">可是如果現在想一想</SENTENCE>
+<SENTENCE id="B1-0419-3">我知道她並不是只要嘮叨</SENTENCE>
+<SENTENCE id="B1-0419-4">沒有一個父母要他們孩子當不好的人</SENTENCE>
+<SENTENCE id="B1-0419-5">可是我媽更不要</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0419-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得她只知怎麼嘮叨</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0419-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是現在想一想</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0419-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我知道她並不是嘮叨</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0419-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>沒有一個父母要孩子當不好的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0419-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>尤其我媽更不要</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0423-1">爸爸每天晚上為了照顧家人上班</SENTENCE>
+<SENTENCE id="B1-0423-2">那個時候也爸爸不生氣</SENTENCE>
+<SENTENCE id="B1-0423-3">我很感謝那個事情</SENTENCE>
+<SENTENCE id="B1-0423-4">最後去溫泉的時候</SENTENCE>
+<SENTENCE id="B1-0423-5">你常常照顧我很高興</SENTENCE>
+<SENTENCE id="B1-0423-6">我對你感謝很多</SENTENCE>
+<SENTENCE id="B1-0423-7">我相信你的病一定就好了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0423-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>爸爸每天晚上為了照顧家人還去上班</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0423-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>那個時候爸爸也不生氣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0423-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我很感謝那綿事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0423-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>最後在去溫泉的時候</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0423-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>你常常照顧我我很高興</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0423-6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我對你很多感謝</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0423-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我相信你的病一定就會好了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0431-1">我是一個隨性的人了</SENTENCE>
+<SENTENCE id="B1-0431-2">警察給我爸爸打電話接我</SENTENCE>
+<SENTENCE id="B1-0431-3">爸爸接我以後</SENTENCE>
+<SENTENCE id="B1-0431-4">就打著我罵我了</SENTENCE>
+<SENTENCE id="B1-0431-5">我以為他從來不做這件事情</SENTENCE>
+<SENTENCE id="B1-0431-6">最近我想對他說我變成用功的學生</SENTENCE>
+<SENTENCE id="B1-0431-7">跟他們一起念</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0431-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我是一個隨性的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0431-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>警察給我爸爸打電話要他來接我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0431-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>爸爸來接我以後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0431-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>就打我罵我了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0431-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我以為他從來不會做這件事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0431-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>最近我想對他說我變成用功的學生了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0431-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>跟他們一起念書</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0435-1">到現在我接受過了很多別人的幫助</SENTENCE>
+<SENTENCE id="B1-0435-2">我跟她是在剛開始學期的時候見面的</SENTENCE>
+<SENTENCE id="B1-0435-3">我本來一個不太活潑的人</SENTENCE>
+<SENTENCE id="B1-0435-4">所以我開始學期的那一天</SENTENCE>
+<SENTENCE id="B1-0435-5">沒什麼人聊天</SENTENCE>
+<SENTENCE id="B1-0435-6">算是很特別</SENTENCE>
+<SENTENCE id="B1-0435-7">而且那高中不是我願意的</SENTENCE>
+<SENTENCE id="B1-0435-8">可是她一直站著我的旁邊照顧我</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0435-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>到現在我接受過很多別人的幫助</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0435-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我跟她是在學期剛開始的時候見面的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0435-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我本來就是一個不太活潑的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0435-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以我學期開始的那一天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0435-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>沒跟什麼人聊天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0435-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>算是很特別的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0435-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>而且那高中不是我願意唸的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0435-8">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是她一直陪伴我的旁邊照顧我</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0439-1">就是她教我</SENTENCE>
+<SENTENCE id="B1-0439-2">她還愛我</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0439-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>就是她教我的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0439-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為她還愛我</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0447-1">第一次去了英國留學</SENTENCE>
+<SENTENCE id="B1-0447-2">那裡沒朋友</SENTENCE>
+<SENTENCE id="B1-0447-3">我們兩個人每天在我們的宿舍附近去了跑步</SENTENCE>
+<SENTENCE id="B1-0447-4">他每一個運動都會</SENTENCE>
+<SENTENCE id="B1-0447-5">我們好久不見</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0447-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>第一次去英國留學</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0447-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>在那裡沒朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0447-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們兩個人每天在我們的宿舍附近跑步</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0447-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>他每一種運動都會</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0447-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們好久不見了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0453-1">所有費用由父母來付</SENTENCE>
+<SENTENCE id="B1-0453-2">雖然不容易決定這件事</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0453-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>所有費用都由父母來付</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0453-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>雖然決定這件事不容易</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0459-1">父母都也愛他們的孩子</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0459-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>父母也都愛他們的孩子</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0465-1">有可能你一個人可以解決解得好</SENTENCE>
+<SENTENCE id="B1-0465-2">我們就有人幫我們</SENTENCE>
+<SENTENCE id="B1-0465-3">跟我們同感</SENTENCE>
+<SENTENCE id="B1-0465-4">但是有一個人我最感謝的</SENTENCE>
+<SENTENCE id="B1-0465-5">那就是我王老師</SENTENCE>
+<SENTENCE id="B1-0465-6">然後她知道我家環境了</SENTENCE>
+<SENTENCE id="B1-0465-7">她跟我說很多</SENTENCE>
+<SENTENCE id="B1-0465-8">聽她說的後</SENTENCE>
+<SENTENCE id="B1-0465-9">還給我會希望</SENTENCE>
+<SENTENCE id="B1-0465-10">再可以幫助別的學生</SENTENCE>
+<SENTENCE id="B1-0465-11">明天不一定會好的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0465-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>有可能你一個人可以解決得好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>就有人幫我們</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>跟我們有同感</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是有一個人是我最感謝的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>那就是我的王老師</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>然後她知道我家的環境了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>她跟我說了很多</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>聽她說的以後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>還給我希望</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-10">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可以再幫助別的學生</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0465-11">
+<TYPE>Missing</TYPE>
+<CORRECTION>明天不一定會更好的</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最想感謝的人">
+<TEXT>
+<SENTENCE id="B1-0469-1">三月２００４年</SENTENCE>
+<SENTENCE id="B1-0469-2">我還記得清楚</SENTENCE>
+<SENTENCE id="B1-0469-3">那時候我很煩惱要在哪一個大學念</SENTENCE>
+<SENTENCE id="B1-0469-4">當時不想在國內念大學</SENTENCE>
+<SENTENCE id="B1-0469-5">我就很煩惱</SENTENCE>
+<SENTENCE id="B1-0469-6">他就跟我們用英說話</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0469-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>２００４年三月</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0469-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我還記得很清楚</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0469-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>那時候我很煩惱要在哪一個大學念書</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0469-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我當時不想在國內念大學</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0469-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>因此我就很煩惱</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0469-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>他就跟我們用英語說話</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-0552-1">親愛老師</SENTENCE>
+<SENTENCE id="B1-0552-2">多笑能帶運氣</SENTENCE>
+<SENTENCE id="B1-0552-3">國語中心為了觀眾享受我們的表演</SENTENCE>
+<SENTENCE id="B1-0552-4">幫我們準備像音響</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0552-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>親愛的老師</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0552-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>多笑能帶來好運氣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0552-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>國語中心為了讓觀眾享受我們的表演</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0552-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>貼心幫我們準備像音響</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-0557-1">我寫給您這封信</SENTENCE>
+<SENTENCE id="B1-0557-2">再說是很幽默</SENTENCE>
+<SENTENCE id="B1-0557-3">可以讓我表現我的風趣的個性</SENTENCE>
+<SENTENCE id="B1-0557-4">給我們評價相聲怎麼樣</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0557-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我寫這封信給您</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0557-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>再說是因為很幽默</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0557-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可以讓我表現我風趣的個性</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0557-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>給我們評價看看相聲怎麼樣</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-0563-1">的唱跳的表演</SENTENCE>
+<SENTENCE id="B1-0563-2">也不要表演</SENTENCE>
+<SENTENCE id="B1-0563-3">可以喔問你的意見</SENTENCE>
+<SENTENCE id="B1-0563-4">如果需要學校的辦公室的幫忙</SENTENCE>
+<SENTENCE id="B1-0563-5">幫我們準備ｓｏｕｎｄｓｙｓｔｅｍ為我們的表演</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0563-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>唱跳的表演</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0563-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>也不要表演了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0563-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可以問你的意見</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0563-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果需要學校辦公室的幫忙</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0563-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>為我們的表演幫我們準備ｓｏｕｎｄｓｙｓｔｅｍ</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-0568-1">所以大家應該同意</SENTENCE>
+<SENTENCE id="B1-0568-2">應該很喜歡看外國人用國語唱歌</SENTENCE>
+<SENTENCE id="B1-0568-3">我們也可表演一個舞</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0568-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以大家應該會同意</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0568-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>大家應該很喜歡看外國人用國語唱歌</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0568-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們也可表演一種舞</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-0576-1">我由於想告訴老師</SENTENCE>
+<SENTENCE id="B1-0576-2">晚會舉行那個禮拜</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0576-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>由於想告訴老師</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0576-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>晚會舉行的那個禮拜</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-0585-1">雖然我親眼只看過一場很短的相聲</SENTENCE>
+<SENTENCE id="B1-0585-2">我希望你能提出來你一些意見</SENTENCE>
+<SENTENCE id="B1-0585-3">能讓我看看我們舞台怎麼樣</SENTENCE>
+<SENTENCE id="B1-0585-4">然後我們再練習在一起</SENTENCE>
+<SENTENCE id="B1-0585-5">我們就能去附近的一家咖啡館</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0585-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>雖然我只親眼看過一場很短的相聲</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0585-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望你能提出來你的一些意見</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0585-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>能讓我看看我們表演舞台怎麼樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0585-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>然後我們在一起再練習</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0585-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們去附近的一家咖啡館</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-0597-1">我覺得我們會準備比較好</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0597-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得我們會準備得比較好</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-0604-1">各位老師</SENTENCE>
+<SENTENCE id="B1-0604-2">我們的班上裡的同學</SENTENCE>
+<SENTENCE id="B1-0604-3">我們必須花至少兩個禮拜</SENTENCE>
+<SENTENCE id="B1-0604-4">我們的班已經討論應該唱什麼歌比較好聽</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0604-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>老師</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0604-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們的班裡的同學</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0604-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我們必須花至少兩個禮拜</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0604-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們的班已經決定應該唱什麼歌比較好聽</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-0615-1">居然我看到一家商店的窗戶裡</SENTENCE>
+<SENTENCE id="B1-0615-2">那個品牌紅起來</SENTENCE>
+<SENTENCE id="B1-0615-3">有沒有下次的機會</SENTENCE>
+<SENTENCE id="B1-0615-4">我買了那雙鞋子給他</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0615-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我居然看到一家商店的窗戶裡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0615-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>那個品牌紅起來了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0615-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>不知道有沒有下次的機會</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0615-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我買了那雙鞋子給他</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-0622-1">我很小時候</SENTENCE>
+<SENTENCE id="B1-0622-2">我們很想要看媽媽的笑容</SENTENCE>
+<SENTENCE id="B1-0622-3">「請你們替我跟你們媽媽說生日快樂」</SENTENCE>
+<SENTENCE id="B1-0622-4">我媽媽一看了那個花束</SENTENCE>
+<SENTENCE id="B1-0622-5">高興得就哭起來了</SENTENCE>
+<SENTENCE id="B1-0622-6">像我們給媽媽的那樣花束</SENTENCE>
+<SENTENCE id="B1-0622-7">我知道老闆的溫柔</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0622-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我很小的時候</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0622-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們很想要看見媽媽的笑容</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0622-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>「請你們替我跟你們的媽媽說生日快樂」</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0622-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我媽媽一看見那個花束</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0622-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>就高興得哭起來了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0622-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>像我們給媽媽的那樣漂亮花束</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0622-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我知道了老闆的溫柔</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-0629-1">我應該買新條皮帶</SENTENCE>
+<SENTENCE id="B1-0629-2">我們真的不容易找到好看的皮帶</SENTENCE>
+<SENTENCE id="B1-0629-3">那個皮帶是本來２千多塊</SENTENCE>
+<SENTENCE id="B1-0629-4">我要便宜一點兒</SENTENCE>
+<SENTENCE id="B1-0629-5">所以我們馬上決定買兩個皮帶</SENTENCE>
+<SENTENCE id="B1-0629-6">回家以後那個事情讓我很高興</SENTENCE>
+<SENTENCE id="B1-0629-7">我真的喜歡那個皮帶</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0629-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我應該買條新皮帶</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0629-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們找到好看的皮帶真的不容易</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0629-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>本來那個皮帶是２千多塊</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0629-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我要再便宜一點兒</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0629-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我們馬上決定買兩條皮帶</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0629-6">
+<TYPE>Selection</TYPE>
+<CORRECTION>回家以後那件事情讓我很高興</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0629-7">
+<TYPE>Selection</TYPE>
+<CORRECTION>我真的喜歡那條皮帶</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-0636-1">但是雖然我們去很多賣衣服的店</SENTENCE>
+<SENTENCE id="B1-0636-2">我就把褲子試穿了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0636-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是雖然我們去了很多賣衣服的店</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0636-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我就把褲子試穿了一下</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-0648-1">所以我去書店去給媽媽買幾本書當禮物</SENTENCE>
+<SENTENCE id="B1-0648-2">也很會幫忙</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0648-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我去書店給媽媽買幾本書當禮物</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0648-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>也很幫忙</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-0662-1">去年媽媽就帶我去我們家附近的賣車地方買新車</SENTENCE>
+<SENTENCE id="B1-0662-2">而那種車是最安全的</SENTENCE>
+<SENTENCE id="B1-0662-3">都不是白色</SENTENCE>
+<SENTENCE id="B1-0662-4">窗戶沒貼防曬的</SENTENCE>
+<SENTENCE id="B1-0662-5">我媽就開始發火</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0662-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>去年媽媽就帶我去我們家附近的賣車的地方買新車</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0662-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>而且那種車是最安全的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0662-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>都不是白色的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0662-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>窗戶沒貼防曬的隔熱紙</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0662-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我媽就開始發火了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0825-1">希望你還好吧</SENTENCE>
+<SENTENCE id="B1-0825-2">他們也有跟我說他們家的門為我是敞開的</SENTENCE>
+<SENTENCE id="B1-0825-3">所以讓我感覺他們是很客氣也很溫馨的人</SENTENCE>
+<SENTENCE id="B1-0825-4">真的是讓人去了再想去一趟</SENTENCE>
+<SENTENCE id="B1-0825-5">永遠妳的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0825-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>希望你還好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0825-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他們也有跟我說他們家的門是為我敞開的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0825-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以讓我感受到他們是很客氣也很溫馨的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0825-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>真的是讓人去了想再去一趟</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0825-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>永遠是妳的</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0832-1">我剛從台北回來的</SENTENCE>
+<SENTENCE id="B1-0832-2">所以我用寫的給你說明</SENTENCE>
+<SENTENCE id="B1-0832-3">第二個星期我還去聽一個音樂會</SENTENCE>
+<SENTENCE id="B1-0832-4">但是台北有幾些特色我還是不習慣</SENTENCE>
+<SENTENCE id="B1-0832-5">不然會拉肚子還是覺得不舒服</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0832-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我剛從台北回來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0832-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我用寫的跟你說明</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0832-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>第二個星期我還去聽一場音樂會</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0832-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>但是台北有一些特色我還是不習慣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0832-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>不然會拉肚子或是覺得不舒服</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0838-1">雖然綠島非常好的地方</SENTENCE>
+<SENTENCE id="B1-0838-2">因為綠島吃的有些東西很奇怪</SENTENCE>
+<SENTENCE id="B1-0838-3">所以我們吃不了有些東西了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0838-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>雖然綠島是非常好的地方</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0838-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為綠島有些吃的東西很奇怪</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0838-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以有些東西我們吃不了了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0844-1">你好</SENTENCE>
+<SENTENCE id="B1-0844-2">我從菲律賓剛回來</SENTENCE>
+<SENTENCE id="B1-0844-3">我就馬上寫信給你報告</SENTENCE>
+<SENTENCE id="B1-0844-4">我去那邊坐飛機</SENTENCE>
+<SENTENCE id="B1-0844-5">他們的服務也不</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0844-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>你好嗎</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0844-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我剛從菲律賓回來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0844-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我就馬上寫信給你</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0844-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我坐飛機去那邊</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0844-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>他們的服務也不錯</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0848-1">親愛</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0848-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>親愛的</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0852-1">我一個人上個星期去日本四國旅行</SENTENCE>
+<SENTENCE id="B1-0852-2">因為四國是我好朋友住的</SENTENCE>
+<SENTENCE id="B1-0852-3">所以利用這個放假的時間</SENTENCE>
+<SENTENCE id="B1-0852-4">所以到了飛機場</SENTENCE>
+<SENTENCE id="B1-0852-5">有很多自然</SENTENCE>
+<SENTENCE id="B1-0852-6">有很多自然</SENTENCE>
+<SENTENCE id="B1-0852-7">打給她電話</SENTENCE>
+<SENTENCE id="B1-0852-8">然後我們去溫泉</SENTENCE>
+<SENTENCE id="B1-0852-9">下次看你的時候</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0852-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我上個星期一個人去日本四國旅行</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0852-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為四國是我好朋友住的家鄉</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0852-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以利用這次放假的時間</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0852-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我到了飛機場</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0852-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>有很多自然美景</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0852-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>有很多自然景觀</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0852-7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>打電話給她</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0852-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>然後我們去泡溫泉</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0852-9">
+<TYPE>Selection</TYPE>
+<CORRECTION>下次看到你的時候</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0858-1">還能自己表達清楚</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0858-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>還能自己清楚表達</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0865-1">那裡真是很漂亮</SENTENCE>
+<SENTENCE id="B1-0865-2">我碰到的事情在這兩個地方</SENTENCE>
+<SENTENCE id="B1-0865-3">再換換捷運去我伯伯的家</SENTENCE>
+<SENTENCE id="B1-0865-4">念多都有好處</SENTENCE>
+<SENTENCE id="B1-0865-5">每個地方在世界都可以去</SENTENCE>
+<SENTENCE id="B1-0865-6">所以你快一快把你的中文學好</SENTENCE>
+<SENTENCE id="B1-0865-7">所以我現在來台灣六個月</SENTENCE>
+<SENTENCE id="B1-0865-8">把中文學好</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0865-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那裡真是漂亮</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0865-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我在這兩個地方碰到的事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0865-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>再轉乘捷運去我伯伯的家</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0865-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>多念都有好處</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0865-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>在世界每個地方都可以去</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0865-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以你快快把你的中文學好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0865-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我現在來台灣六個月了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0865-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>快把中文學好</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0869-1">在四週騎</SENTENCE>
+<SENTENCE id="B1-0869-2">因為墾丁太多好玩和可做的事</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0869-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>在四週繞一繞</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0869-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為墾丁太多好玩和可做的事情</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0875-1">他們告訴我是一個好玩的地方</SENTENCE>
+<SENTENCE id="B1-0875-2">因為沒有飛機飛從台灣到波蘭</SENTENCE>
+<SENTENCE id="B1-0875-3">兩次要轉飛</SENTENCE>
+<SENTENCE id="B1-0875-4">也一次在倫敦</SENTENCE>
+<SENTENCE id="B1-0875-5">到了波蘭他們已經等我</SENTENCE>
+<SENTENCE id="B1-0875-6">我們每天去了真的有趣的地方</SENTENCE>
+<SENTENCE id="B1-0875-7">都非常漂</SENTENCE>
+<SENTENCE id="B1-0875-8">有一天我們波蘭朋友之一坐車送我們去森林野</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0875-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>他們告訴我這是一個好玩的地方</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0875-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為從台灣到波蘭沒有飛機飛</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0875-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>要轉飛兩次</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0875-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>第一次在倫敦</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0875-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>到了波蘭他們已經在等我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0875-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們每天去了真的很有趣的地方</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0875-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>都非常漂亮</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0875-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>有一天我們波蘭朋友之一坐車送我們去森林野餐</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0880-1">我有一個台灣的朋友</SENTENCE>
+<SENTENCE id="B1-0880-2">先我和我的朋友去買東西</SENTENCE>
+<SENTENCE id="B1-0880-3">也有幾個小河</SENTENCE>
+<SENTENCE id="B1-0880-4">我們的中午飯好吃極了</SENTENCE>
+<SENTENCE id="B1-0880-5">可是我吃太多了</SENTENCE>
+<SENTENCE id="B1-0880-6">都我吃吃看</SENTENCE>
+<SENTENCE id="B1-0880-7">我很幸運了</SENTENCE>
+<SENTENCE id="B1-0880-8">我很想你</SENTENCE>
+<SENTENCE id="B1-0880-9">所以我寫這個信給你</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0880-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我有一個台灣朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0880-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我先和我的朋友去買東西</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0880-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>也有幾條小河</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0880-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們的午飯好吃極了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0880-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我吃太多了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0880-6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我都吃吃看</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0880-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我很幸運</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0880-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是我很想你</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0880-9">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我寫這封信給你</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0884-1">我坐飛機去韓國</SENTENCE>
+<SENTENCE id="B1-0884-2">從日本到韓國很近吧</SENTENCE>
+<SENTENCE id="B1-0884-3">但是常常互相連絡</SENTENCE>
+<SENTENCE id="B1-0884-4">我們三個人中沒有人會說韓語</SENTENCE>
+<SENTENCE id="B1-0884-5">有語言的問題</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0884-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我去韓國</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0884-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>從日本到韓國很近</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0884-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是常常連絡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0884-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是我們三個人中沒有人會說韓語</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0884-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以有語言的問題</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0890-1">我住了民宿</SENTENCE>
+<SENTENCE id="B1-0890-2">然後走上去了</SENTENCE>
+<SENTENCE id="B1-0890-3">我跟弟弟和爸爸一起逛街了</SENTENCE>
+<SENTENCE id="B1-0890-4">我們買了給媽媽禮物後</SENTENCE>
+<SENTENCE id="B1-0890-5">你也有機會的話</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0890-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我住民宿</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0890-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>然後走上去</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0890-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我跟弟弟和爸爸一起逛街</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0890-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們買給媽媽禮物後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0890-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你有機會的話</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0895-1">我回來的時候想馬上寫信寄給你</SENTENCE>
+<SENTENCE id="B1-0895-2">我想去泰國傳統的的孔廟</SENTENCE>
+<SENTENCE id="B1-0895-3">尤其是很漂亮的家具品</SENTENCE>
+<SENTENCE id="B1-0895-4">在這兒的賣的東西又便宜又好看</SENTENCE>
+<SENTENCE id="B1-0895-5">可是幸虧有一個泰國人幫我找到市場的門口</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0895-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>我回來的時候就馬上寫信寄給你</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0895-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我去泰國傳統的的孔廟</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0895-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>尤其是很漂亮的家具</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0895-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>在這兒賣的東西又便宜又好看</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0895-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>幸虧有一個泰國人幫我找到市場的門口</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0899-1">我剛剛回國了</SENTENCE>
+<SENTENCE id="B1-0899-2">我坐飛機去了法國旅行</SENTENCE>
+<SENTENCE id="B1-0899-3">在法國生活一定很舒服</SENTENCE>
+<SENTENCE id="B1-0899-4">其實大部分的法國人比較想開因而跟他們聊天有意思</SENTENCE>
+<SENTENCE id="B1-0899-5">然後說法文很難</SENTENCE>
+<SENTENCE id="B1-0899-6">我好不容易跟法國人說話</SENTENCE>
+<SENTENCE id="B1-0899-7">我現在真的後悔去年在高中學的時候沒有努力學習法文</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0899-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我剛剛回國</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0899-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我坐飛機去法國旅行</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0899-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>在法國生活很舒服</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0899-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>其實大部分的法國人比較樂觀因而跟他們聊天有意思</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0899-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>但是說法文很難</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0899-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我不容易跟法國人說話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0899-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我現在真的後悔去年在高中的時候沒有努力學習法文</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0903-1">印度離台灣差不多六個鐘頭坐飛機</SENTENCE>
+<SENTENCE id="B1-0903-2">印度北部的特色是沙漠</SENTENCE>
+<SENTENCE id="B1-0903-3">看北部的高山讓我覺得很高興還有內安心的感覺</SENTENCE>
+<SENTENCE id="B1-0903-4">對我來說卻印度菜非常好吃</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0903-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>印度離台灣坐飛機差不多六個鐘頭</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0903-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>印度北部是沙漠</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0903-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>看北部的高山讓我覺得很高興還有安心的感覺</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0903-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>對我來說印度菜非常好吃</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0908-1">自從我開始上大學就很想去歐洲玈行</SENTENCE>
+<SENTENCE id="B1-0908-2">所以跟他們交流根本不是個問題</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0908-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>自從我開始上大學時就很想去歐洲玈行</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0908-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以跟他們交流根本不是問題</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0912-1">我剛剛從美國回來了</SENTENCE>
+<SENTENCE id="B1-0912-2">我上個月回國了探親還有看朋友</SENTENCE>
+<SENTENCE id="B1-0912-3">因為我以前念了美國空軍軍校我在那邊有很多好朋友還有我覺得那裡的風景是全美國最漂亮的</SENTENCE>
+<SENTENCE id="B1-0912-4">要三天開車才到</SENTENCE>
+<SENTENCE id="B1-0912-5">我們在車上都聊天</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0912-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我剛剛從美國回來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0912-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我上個月回國探親還有看朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0912-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為我以前念美國空軍軍校我在那邊有很多好朋友還有我覺得那裡的風景是全美國最漂亮的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0912-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>開車要三天才到</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0912-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們在車上聊天</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-0916-1">你最近過的好嗎</SENTENCE>
+<SENTENCE id="B1-0916-2">希望你得到了好的學分</SENTENCE>
+<SENTENCE id="B1-0916-3">我剛從日本的九州回來了</SENTENCE>
+<SENTENCE id="B1-0916-4">比較多颱風會到西部日本來</SENTENCE>
+<SENTENCE id="B1-0916-5">一推門開就看到有人在我前面帶著我的錢包</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0916-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>你最近過得好嗎</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0916-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>希望你得到好的學分</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0916-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我剛從日本的九州回來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0916-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>比較多颱風會到日本西部來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0916-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>一推開門就看到有人在我前面帶著我的錢包</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0921-1">讓他們明白為什麼那邊的語跟文化有關係</SENTENCE>
+<SENTENCE id="B1-0921-2">現在有的國家用自己的方法怎麼寫詞</SENTENCE>
+<SENTENCE id="B1-0921-3">他們的生活就是交友的</SENTENCE>
+<SENTENCE id="B1-0921-4">我想教為什麼他們的文化跟正在發展的地方</SENTENCE>
+<SENTENCE id="B1-0921-5">比如說非洲國家人民的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0921-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>讓他們明白為什麼那邊的語言跟文化有關係</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0921-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>現在有的國家用自己的方法寫詞</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0921-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們的生活就是交友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0921-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想教為什麼他們的文化跟正在發展的地方有關</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0921-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>比如說非洲國家人民</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0926-1">也是我很喜歡的門課</SENTENCE>
+<SENTENCE id="B1-0926-2">我覺得這樣教書法對學生是最好的方法</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0926-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>也是我很喜歡的課</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0926-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得這樣教書對學生是最好的方法</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0930-1">當老師很好的工作</SENTENCE>
+<SENTENCE id="B1-0930-2">雖然辛苦的沒話說</SENTENCE>
+<SENTENCE id="B1-0930-3">我非常高興在國外當了老師</SENTENCE>
+<SENTENCE id="B1-0930-4">自動自發學習</SENTENCE>
+<SENTENCE id="B1-0930-5">文法一定很重</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0930-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>當老師是很好的工作</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0930-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>雖然辛苦地沒話說</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0930-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我非常高興在國外當老師</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0930-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>自動自發地學習</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0930-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>文法一定很重要</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0937-1">我現在教心理學課</SENTENCE>
+<SENTENCE id="B1-0937-2">很好的事情是同學大家感覺完全不一樣</SENTENCE>
+<SENTENCE id="B1-0937-3">尤其是哪個自己的看法很強調</SENTENCE>
+<SENTENCE id="B1-0937-4">然後他們的討論以後</SENTENCE>
+<SENTENCE id="B1-0937-5">我教同學這個是不對</SENTENCE>
+<SENTENCE id="B1-0937-6">那個是才對</SENTENCE>
+<SENTENCE id="B1-0937-7">可是我也慢慢說說明</SENTENCE>
+<SENTENCE id="B1-0937-8">那個時候我覺得這樣事情很值得</SENTENCE>
+<SENTENCE id="B1-0937-9">錄影帶的裡面的人他們的看法</SENTENCE>
+<SENTENCE id="B1-0937-10">想法你們同意不同</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0937-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我現在教心理學</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0937-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>很好的事情是大家同學感覺完全不一樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0937-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>尤其是哪個很強調自己的看法</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0937-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>然後他們討論以後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0937-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我教同學這個不對</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0937-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個才對</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0937-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是我也慢慢說明</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0937-8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個時候我覺得這樣很值得</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0937-9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>錄影帶裡面的人他們的看法</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0937-10">
+<TYPE>Missing</TYPE>
+<CORRECTION>想法你們同意不同意</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0941-1">我努力學習以後要教台灣的</SENTENCE>
+<SENTENCE id="B1-0941-2">真的有意思了</SENTENCE>
+<SENTENCE id="B1-0941-3">我最不喜歡的老師讓學生背書全部的部分</SENTENCE>
+<SENTENCE id="B1-0941-4">我覺得大部分的學生也喜歡這樣的教方法</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0941-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我努力學習以後要教台灣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0941-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>真的有意思</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0941-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我最不喜歡的老師是讓學生背書全部的部分</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0941-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得大部分的學生也喜歡這樣的教法</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0947-1">為了實現</SENTENCE>
+<SENTENCE id="B1-0947-2">一起去參觀觀光地或一起體驗日本的傳統工藝也可以</SENTENCE>
+<SENTENCE id="B1-0947-3">可是那時候我不打算說討論</SENTENCE>
+<SENTENCE id="B1-0947-4">因為日本學生真不喜歡這個活動</SENTENCE>
+<SENTENCE id="B1-0947-5">看他們上課的時候平常多少努力</SENTENCE>
+<SENTENCE id="B1-0947-6">所以應該只有十個人才可以參加</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0947-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>為了實現它</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0947-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>一起去觀光地或一起體驗日本的傳統工藝也可以</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0947-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是那時候我不打算討論</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0947-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為日本學生真不喜歡這些活動</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0947-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>看他們上課的時候平常多努力</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0947-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以應該只有十個人可以參加</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0951-1">所以我要當跟語言關係的老師</SENTENCE>
+<SENTENCE id="B1-0951-2">都是不一樣的語言</SENTENCE>
+<SENTENCE id="B1-0951-3">我們就會跟日文變朋友了</SENTENCE>
+<SENTENCE id="B1-0951-4">所以如果我是當大學老師</SENTENCE>
+<SENTENCE id="B1-0951-5">就可以很好的做生意的人</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0951-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我要當語言關係的老師</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0951-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>語言都是不一樣的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0951-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我們就會跟日文變成朋友了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0951-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以如果我當大學老師</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0951-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>就可以成為很好的做生意的人</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0955-1">必須有朋友對朋友的感</SENTENCE>
+<SENTENCE id="B1-0955-2">讀報一方面可以了解最現代荷蘭文</SENTENCE>
+<SENTENCE id="B1-0955-3">讓學生們好了解荷蘭文</SENTENCE>
+<SENTENCE id="B1-0955-4">我的目的就是讓學生好了解口語</SENTENCE>
+<SENTENCE id="B1-0955-5">讓學生輕鬆地學到實用荷蘭語</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0955-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>必須有朋友對朋友的感情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0955-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>讀報一方面可以了解最現代的荷蘭文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0955-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>讓學生們了解荷蘭文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0955-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我的目的就是讓學生了解口語</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0955-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>讓學生輕鬆地學到實用的荷蘭語</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0964-1">如果我是大學老師我會選擇我自己喜歡學的課來教學生</SENTENCE>
+<SENTENCE id="B1-0964-2">我覺得這是非常重要</SENTENCE>
+<SENTENCE id="B1-0964-3">吸引學生的注意和興趣會比較難</SENTENCE>
+<SENTENCE id="B1-0964-4">我覺得用一個熱情的方法和態度來教書是最有效</SENTENCE>
+<SENTENCE id="B1-0964-5">鼓勵學生的進步</SENTENCE>
+<SENTENCE id="B1-0964-6">但是我知道這就是一種幻想</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0964-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果我是大學老師我會選擇我自己喜歡的課來教學生</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0964-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得這是非常重要的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0964-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>如何吸引學生的注意和興趣會比較難</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0964-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得用一個熱情的方法和態度來教書最有效</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0964-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>鼓勵學生進步</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0964-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是我知道這是一種幻想</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0971-1">學中文最重要是多說多聽多寫</SENTENCE>
+<SENTENCE id="B1-0971-2">我總是為學生想出好教法來</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0971-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>學中文最重要的是多說多聽多寫</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0971-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我總是為學生想出好的教法來</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0976-1">我為了學語言的環境好</SENTENCE>
+<SENTENCE id="B1-0976-2">我為了學生想很多方法</SENTENCE>
+<SENTENCE id="B1-0976-3">很快學得會中文</SENTENCE>
+<SENTENCE id="B1-0976-4">中國人習慣</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0976-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我為了學語言的環境</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0976-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我為學生想很多方法</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0976-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>很快地學會中文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0976-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>中國人的習慣</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0982-1">我覺得音樂課是最有意思課之一</SENTENCE>
+<SENTENCE id="B1-0982-2">我知道大學生都不喜歡起床很早</SENTENCE>
+<SENTENCE id="B1-0982-3">因為她覺得如果我們寫完了我們的別的功課</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0982-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得音樂課是最有意思的課之一</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0982-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我知道大學生都不喜歡起床</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0982-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為她覺得如果我們寫完了別的功課</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0987-1">最難的部分是「助詞」我把畫看給學生</SENTENCE>
+<SENTENCE id="B1-0987-2">讓他們自己想做句子</SENTENCE>
+<SENTENCE id="B1-0987-3">因為自己想的句子不容易忘不了</SENTENCE>
+<SENTENCE id="B1-0987-4">要是一個人唱不好意思的話</SENTENCE>
+<SENTENCE id="B1-0987-5">每個地方各有各的特色</SENTENCE>
+<SENTENCE id="B1-0987-6">讓他們知道每個國家的人各有各的想法</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0987-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>最難的部分是「助詞」我把畫給學生看</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0987-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>讓他們自己做句子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0987-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為自己想的句子不容易忘</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0987-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>要是一個人不好意思唱的話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0987-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>當然每個地方各有各的特色</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0987-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們知道每個國家的人各有各的想法</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0991-1">文學的話學生的說的能力差很多</SENTENCE>
+<SENTENCE id="B1-0991-2">而且我覺得學語言的人應該知道用這語言的人的想法</SENTENCE>
+<SENTENCE id="B1-0991-3">就很容易學得到中文</SENTENCE>
+<SENTENCE id="B1-0991-4">學生可以學得到很深的語言</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0991-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>文學的話學生說的能力差很多</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0991-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>而且我覺得學語言的人應該知道用這種語言的人的想法</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0991-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>就很容易學會中文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0991-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>學生可以學到很深的語言</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-0996-1">因此對單身男人會說法文非常有用</SENTENCE>
+<SENTENCE id="B1-0996-2">另外半時間做不一樣的活動是一個比較好的教學方法</SENTENCE>
+<SENTENCE id="B1-0996-3">如果學生在法國而沒有大的問題</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-0996-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>因此對單身男人來說會說法文非常有用</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0996-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>另外一半時間做不一樣的活動是一個比較好的教學方法</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-0996-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果學生在法國而沒有大問題</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-1002-1">先讓每個組選一個題目</SENTENCE>
+<SENTENCE id="B1-1002-2">然後讓他們選歷史上最難理解部分</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1002-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>先讓每組選一個題目</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1002-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>然後讓他們選歷史上最難理解的部分</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-1006-1">因為我認為歷史是最有意思的大學系</SENTENCE>
+<SENTENCE id="B1-1006-2">每一課我的班一定去別的地上課</SENTENCE>
+<SENTENCE id="B1-1006-3">因為我知道老師們也每天從學生學習新的事情</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1006-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為我認為歷史是最有意思的系</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1006-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>每一課我的班一定去別的地方上課</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1006-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我知道老師們也每天從學生那學習新的事情</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-1010-1">我以前有當過家庭老師</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1010-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我以前當過家庭老師</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫忙認識新朋友">
+<TEXT>
+<SENTENCE id="B1-1105-1">所以我想做朋友</SENTENCE>
+<SENTENCE id="B1-1105-2">我現在在大學學英文</SENTENCE>
+<SENTENCE id="B1-1105-3">要是你認識他的話請你介紹他</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1105-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我想和她做朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1105-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>現在我在大學學英文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1105-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>要是你認識他的話請你幫我介紹他</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫忙認識新朋友">
+<TEXT>
+<SENTENCE id="B1-1110-1">後來我一直忘不了對那位小姐</SENTENCE>
+<SENTENCE id="B1-1110-2">我希望那位小姐介紹給我</SENTENCE>
+<SENTENCE id="B1-1110-3">坐著你的對面</SENTENCE>
+<SENTENCE id="B1-1110-4">那位小姐的顏色我最喜歡</SENTENCE>
+<SENTENCE id="B1-1110-5">我想對她說話</SENTENCE>
+<SENTENCE id="B1-1110-6">改天我們跟你們一起去玩</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1110-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>後來我一直忘不了那位小姐</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1110-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望把那位小姐介紹給我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1110-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>坐在你的對面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1110-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>那位小姐衣服的顏色我最喜歡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1110-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我想跟她說話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1110-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>改天我們跟你一起去玩</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫忙認識新朋友">
+<TEXT>
+<SENTENCE id="B1-1117-1">可以介紹他給我</SENTENCE>
+<SENTENCE id="B1-1117-2">他那頂帽子好好玩的</SENTENCE>
+<SENTENCE id="B1-1117-3">但是我最注意到的是她的笑</SENTENCE>
+<SENTENCE id="B1-1117-4">我很希望能認識她做朋友</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1117-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可以給我介紹他</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1117-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他那頂帽子好好玩</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1117-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是我最注意的是她的笑</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1117-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我很希望能跟她做朋友</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫忙認識新朋友">
+<TEXT>
+<SENTENCE id="B1-1126-1">我看到了很喜歡的先生可是當天人太多了所以沒有機會跟他說話</SENTENCE>
+<SENTENCE id="B1-1126-2">你應該不知道是他是誰吧</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1126-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我看到了我很喜歡的先生可是當天人太多了所以沒有機會跟他說話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1126-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你應該不知道他是誰吧</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫忙認識新朋友">
+<TEXT>
+<SENTENCE id="B1-1133-1">我想她學習學得很好</SENTENCE>
+<SENTENCE id="B1-1133-2">你一定幫我對不對</SENTENCE>
+<SENTENCE id="B1-1133-3">但是怎麼辦可以有機會認識她</SENTENCE>
+<SENTENCE id="B1-1133-4">在那裡你可以介我們認識</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1133-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我想她學習得很好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1133-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>你一定願意幫我對不對</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1133-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是怎麼辦如果可以有機會認識她</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1133-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>在那裡你可以介紹我們認識</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫忙認識新朋友">
+<TEXT>
+<SENTENCE id="B1-1137-1">可是我有一些不能談話的人</SENTENCE>
+<SENTENCE id="B1-1137-2">因為你跟她談話時候</SENTENCE>
+<SENTENCE id="B1-1137-3">可是笑起來很可愛</SENTENCE>
+<SENTENCE id="B1-1137-4">我從來沒看過像她那麼魅力的女生</SENTENCE>
+<SENTENCE id="B1-1137-5">那個時候我想請你介紹為我們</SENTENCE>
+<SENTENCE id="B1-1137-6">像喜歡男生的樣子</SENTENCE>
+<SENTENCE id="B1-1137-7">請你聯絡給我</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1137-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是我有一些聊不來的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1137-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為你跟她談話的時候</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1137-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>發現笑起來很可愛</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1137-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我從來沒看過像她那麼有魅力的女生</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1137-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>那個時候我想請你為我們介紹</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1137-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>像喜歡的男生的樣子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1137-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>請你聯絡我</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫忙認識新朋友">
+<TEXT>
+<SENTENCE id="B1-1142-1">可是我在那邊有看到一位很美麗的女生</SENTENCE>
+<SENTENCE id="B1-1142-2">所以有需要你的幫忙</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1142-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是我在那邊看到一位很美麗的女生</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1142-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以需要你的幫忙</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫忙認識新朋友">
+<TEXT>
+<SENTENCE id="B1-1154-1">更何況寫信給你</SENTENCE>
+<SENTENCE id="B1-1154-2">沒辦法跟你聯絡</SENTENCE>
+<SENTENCE id="B1-1154-3">笑得令我心停動</SENTENCE>
+<SENTENCE id="B1-1154-4">如果我再也不看她</SENTENCE>
+<SENTENCE id="B1-1154-5">如果我的故事使你心靈感動</SENTENCE>
+<SENTENCE id="B1-1154-6">跟她去吃飯</SENTENCE>
+<SENTENCE id="B1-1154-7">嗎</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1154-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>更何況我寫信給你</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1154-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我沒辦法跟你聯絡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1154-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>笑得令我心動</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1154-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>如果我再也看不到她</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1154-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>如果我的故事使你感動</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1154-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>想跟她去吃飯</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1154-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>可以嗎</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="特別的夢">
+<TEXT>
+<SENTENCE id="B1-1162-1">清清楚楚地聽得到我爸爸的聲音</SENTENCE>
+<SENTENCE id="B1-1162-2">我覺得生活輕輕鬆鬆的</SENTENCE>
+<SENTENCE id="B1-1162-3">但是我總是忽然睡醒了</SENTENCE>
+<SENTENCE id="B1-1162-4">每次睡醒了</SENTENCE>
+<SENTENCE id="B1-1162-5">我平常沒有時間想念家</SENTENCE>
+<SENTENCE id="B1-1162-6">可是我心裡大概一點兒想家</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1162-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>清清楚楚地聽見我爸爸的聲音</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1162-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我覺得生活很輕鬆</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1162-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是我總是忽然醒了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1162-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>每次睡醒</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1162-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我平常沒有時間想念家人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1162-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是我心裡大概有一點兒想家</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="特別的夢">
+<TEXT>
+<SENTENCE id="B1-1171-1">害我不舒服睡得</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1171-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>害我睡得不舒服</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="特別的夢">
+<TEXT>
+<SENTENCE id="B1-1175-1">平常是我開始月經的前幾天</SENTENCE>
+<SENTENCE id="B1-1175-2">就中午就會忘了</SENTENCE>
+<SENTENCE id="B1-1175-3">我們分手的時候大吵架</SENTENCE>
+<SENTENCE id="B1-1175-4">就希望我留在他的身邊</SENTENCE>
+<SENTENCE id="B1-1175-5">但是我已經買了票要出國了</SENTENCE>
+<SENTENCE id="B1-1175-6">那個夢裡面</SENTENCE>
+<SENTENCE id="B1-1175-7">但是我就不想跟他說話</SENTENCE>
+<SENTENCE id="B1-1175-8">我醒的時候</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1175-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>平常是我月經開始的前幾天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1175-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>中午就會忘了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1175-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們分手的時候吵架</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1175-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>希望我留在他的身邊</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1175-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是我已經買了機票要出國了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1175-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>在那個夢裡面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1175-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是我不想跟他說話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1175-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>我醒來的時候</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="特別的夢">
+<TEXT>
+<SENTENCE id="B1-1187-1">甚至做夢者流連忘返</SENTENCE>
+<SENTENCE id="B1-1187-2">而全部竟然是紫色的</SENTENCE>
+<SENTENCE id="B1-1187-3">我也看得到一個深紅色的山脈</SENTENCE>
+<SENTENCE id="B1-1187-4">身體也紫色</SENTENCE>
+<SENTENCE id="B1-1187-5">那個動物開始了晃來晃去</SENTENCE>
+<SENTENCE id="B1-1187-6">有一邊好奇</SENTENCE>
+<SENTENCE id="B1-1187-7">雖然這不是我最恐怖的夢</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1187-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>甚至讓做夢者流連忘返</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1187-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>而竟然全部是紫色的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1187-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我也看見一個深紅色的山脈</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1187-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>身體也是紫色</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1187-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個動物開始晃來晃去</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1187-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>一邊好奇</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1187-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>雖然這不是我做過最恐怖的夢</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="特別的夢">
+<TEXT>
+<SENTENCE id="B1-1198-1">我在我的美國的家裡</SENTENCE>
+<SENTENCE id="B1-1198-2">我走出我的的房間</SENTENCE>
+<SENTENCE id="B1-1198-3">看看一下</SENTENCE>
+<SENTENCE id="B1-1198-4">我為什麼到一個溫泉</SENTENCE>
+<SENTENCE id="B1-1198-5">發現我又回到我的家的附近</SENTENCE>
+<SENTENCE id="B1-1198-6">我看到一個家庭在吃飯</SENTENCE>
+<SENTENCE id="B1-1198-7">可是沒有生氣</SENTENCE>
+<SENTENCE id="B1-1198-8">所以我跟他們吃</SENTENCE>
+<SENTENCE id="B1-1198-9">他們的家庭有四個人</SENTENCE>
+<SENTENCE id="B1-1198-10">可是我想不出他們是誰</SENTENCE>
+<SENTENCE id="B1-1198-11">我就睡醒了</SENTENCE>
+<SENTENCE id="B1-1198-12">可是還是每天還是想我的朋友</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1198-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我在我美國的家裡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我走出我的房間</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>四處看了一下</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我為什麼到了一個溫泉</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>發現我又回到我家的附近</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我看到了一個家庭在吃飯</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是沒生氣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我跟他們一起吃</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們的家有四個人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-10">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是我想不起他們是誰</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-11">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我就醒了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1198-12">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是還是每天想我的朋友</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="特別的夢">
+<TEXT>
+<SENTENCE id="B1-1210-1">有人睡著時會夢中常常有非常奇怪的事情</SENTENCE>
+<SENTENCE id="B1-1210-2">要不然我快瘋了</SENTENCE>
+<SENTENCE id="B1-1210-3">當那個時候我的家人都回家團圓</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1210-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>有人睡著時睡夢中常常有非常奇怪的事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1210-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>要不然我都快瘋了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1210-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個時候我的家人都回家團圓</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-1333-1">我對於這次國語中心所舉辦的新年晚會活動的一些追主意和看法</SENTENCE>
+<SENTENCE id="B1-1333-2">在國語中心中有來自世界八方的學生</SENTENCE>
+<SENTENCE id="B1-1333-3">所以我在那兒是最好的選擇</SENTENCE>
+<SENTENCE id="B1-1333-4">要知道老師有沒有</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1333-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我對於這次國語中心所舉辦的新年晚會活動的一些主意和看法</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1333-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>在國語中心有來自世界八方的學生</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1333-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我們在那兒是最好的選擇</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1333-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>想要知道老師有沒有</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-1340-1">我們的上班特別有很多外籍學生</SENTENCE>
+<SENTENCE id="B1-1340-2">可不可以看我們的翻譯</SENTENCE>
+<SENTENCE id="B1-1340-3">我們學中文大概半年</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1340-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們的班特別有很多外籍學生</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1340-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>可不可以校正我們的翻譯</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1340-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們學中文大概半年而已</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-1346-1">我跟我同學們已經討論今年的新年晚會的活動</SENTENCE>
+<SENTENCE id="B1-1346-2">計劃了今年我們打算舉行一場綜藝表演</SENTENCE>
+<SENTENCE id="B1-1346-3">所以我們希望每一個要參加這場的學生</SENTENCE>
+<SENTENCE id="B1-1346-4">我們都安排練了習時間和地點</SENTENCE>
+<SENTENCE id="B1-1346-5">每週二四下課後在體育館會練習兩個小時</SENTENCE>
+<SENTENCE id="B1-1346-6">再加上其他常用體育館的學生都同意讓我們</SENTENCE>
+<SENTENCE id="B1-1346-7">拜託你提醒她今年的活動快到了吧</SENTENCE>
+<SENTENCE id="B1-1346-8">做邀請其他系的學生來看我們的表演</SENTENCE>
+<SENTENCE id="B1-1346-9">這場不只是為我們的系享受</SENTENCE>
+<SENTENCE id="B1-1346-10">也比去年的更精彩</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1346-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我跟我同學們已經討論過今年的新年晚會的活動</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1346-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>計劃今年我們打算舉行一場綜藝表演</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1346-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我們希望每一個要參加這場表演的學生</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1346-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們都安排了練習時間和地點</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1346-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>每週二四下課後在體育館練習兩個小時</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1346-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>再加上其他常用體育館的學生都同意讓我們使用</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1346-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>拜託你提醒她今年的活動快到了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1346-8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>邀請其他系的學生來看我們的表演</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1346-9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>這場不只是為我們的系</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1346-10">
+<TYPE>Redundant</TYPE>
+<CORRECTION>也比去年更精彩</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-1351-1">老師不需要我們的忙</SENTENCE>
+<SENTENCE id="B1-1351-2">我們好好地準備節目</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1351-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>老師不需要幫我們的忙</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1351-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們會好好地準備節目</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-1359-1">以及我們也沒有布置舞台的經驗</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1359-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>因此我們也沒有布置舞台的經驗</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-1368-1">雖然「啦啦隊」花很多時間來練習</SENTENCE>
+<SENTENCE id="B1-1368-2">我們希望老師有空的時候過來幫我們多多加油</SENTENCE>
+<SENTENCE id="B1-1368-3">老師還有不要忘記晚會的那天要去慶功宴喔</SENTENCE>
+<SENTENCE id="B1-1368-4">地點的話還沒有確定好</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1368-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>雖然「啦啦隊」要花很多時間來練習</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1368-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們希望老師有空的時候過來幫我們加油</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1368-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>還有老師不要忘記晚會的那天要去慶功宴喔</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1368-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>地點還沒有確定好</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-1375-1">你可以看我們的練習嗎</SENTENCE>
+<SENTENCE id="B1-1375-2">我聽說你以前在音樂廳經常唱歌</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1375-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>你可以來看我們的練習嗎</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1375-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我聽說你以前經常在音樂廳唱歌</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="新春晚會節目計畫">
+<TEXT>
+<SENTENCE id="B1-1380-1">所以我們一定得跟別的班不一樣的表演節目</SENTENCE>
+<SENTENCE id="B1-1380-2">還要能夠表演出來我們的特色</SENTENCE>
+<SENTENCE id="B1-1380-3">可是我們的班的特色在哪裡</SENTENCE>
+<SENTENCE id="B1-1380-4">有一點難找的</SENTENCE>
+<SENTENCE id="B1-1380-5">請您看我們的練習</SENTENCE>
+<SENTENCE id="B1-1380-6">給老師添這麼麻煩</SENTENCE>
+<SENTENCE id="B1-1380-7">其他事情都我們能安排</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1380-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我們一定得安排跟別的班不一樣的表演節目</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1380-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>還要能夠表演出我們的特色來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1380-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是我們班的特色在哪裡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1380-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>有一點難找</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1380-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>請您來看我們的練習</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1380-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>給老師添這麼多麻煩</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1380-7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們其他事情都能安排</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-1395-1">免費的保護我新的筆記型電腦</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1395-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>有免費的保護我新的筆記型電腦</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-1404-1">沒想到那次後來會讓我很後悔</SENTENCE>
+<SENTENCE id="B1-1404-2">過不了幾天我跟我媽媽決定去過跟台灣夜市一樣的地方</SENTENCE>
+<SENTENCE id="B1-1404-3">因為我們知道我們可以買又漂亮</SENTENCE>
+<SENTENCE id="B1-1404-4">然後我們發現我們在百貨公司買過的上衣也在那邊買得到</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1404-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>後來沒想到那次會讓我很後悔</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1404-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>過不了幾天我跟我媽媽決定去跟台灣夜市一樣的地方</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1404-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為我們知道我們可以買到又漂亮</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1404-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>然後我們發現我們在百貨公司買過的上衣在那邊也買得到</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-1415-1">我想買數位相機很久了</SENTENCE>
+<SENTENCE id="B1-1415-2">以及什麼牌子的</SENTENCE>
+<SENTENCE id="B1-1415-3">依規格和價錢來看</SENTENCE>
+<SENTENCE id="B1-1415-4">因為我電腦裡的硬碟容不下我所要的東西了</SENTENCE>
+<SENTENCE id="B1-1415-5">但是價錢是比我想像中的還要低</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1415-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想買數位相機已經很久了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1415-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>以及什麼牌子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1415-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>按照規格和價錢來看</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1415-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為我電腦裡的硬碟放不下我所要的東西了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1415-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但是價錢比我想像中的還要低</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-1426-1">所以我帶我的朋友</SENTENCE>
+<SENTENCE id="B1-1426-2">我們決定我們要去買的商店</SENTENCE>
+<SENTENCE id="B1-1426-3">這是不太好看</SENTENCE>
+<SENTENCE id="B1-1426-4">我所有的錢都用光了買這台電腦</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1426-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我帶我的朋友去</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1426-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我決定我們要去買的商店</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1426-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>這倒是不太好看</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1426-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我買這台電腦所有的錢都用光了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-1437-1">我逛一逛差不多過半個小時的時候</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1437-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>我逛差不多過半個小時的時候</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="最難忘的購物經驗">
+<TEXT>
+<SENTENCE id="B1-1442-1">因為如果我買我國家內的一家公司生產的筆記型電腦的話</SENTENCE>
+<SENTENCE id="B1-1442-2">那時電腦的價錢一點點漲了</SENTENCE>
+<SENTENCE id="B1-1442-3">可是替我我朋友找到一個很好的筆記型電腦</SENTENCE>
+<SENTENCE id="B1-1442-4">又品質好的電腦</SENTENCE>
+<SENTENCE id="B1-1442-5">便宜的電腦</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1442-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為如果我買我國內的一家公司生產的筆記型電腦的話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1442-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>那時電腦的價錢漲了一點點</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1442-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可是我朋友替我找到一個很好的筆記型電腦</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1442-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>品質又好的電腦</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1442-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>又便宜的電腦</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-1492-1">所以我就睡著沒看到下面的風景</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1492-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我就睡著了沒看到下面的風景</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="難忘的旅遊經驗">
+<TEXT>
+<SENTENCE id="B1-1498-1">我找了很久才可以找到她</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1498-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我找了很久才找到她</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="如果我是大學老師">
+<TEXT>
+<SENTENCE id="B1-1500-1">一邊玩玩兒</SENTENCE>
+<SENTENCE id="B1-1500-2">每天都上課</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1500-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>一邊玩兒</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1500-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>每天都喜歡上課</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="提出課程建議並致謝">
+<TEXT>
+<SENTENCE id="B1-1559-1">今天我有一件事跟你談一談</SENTENCE>
+<SENTENCE id="B1-1559-2">我認為看課文的電視很多次是很好的辦法</SENTENCE>
+<SENTENCE id="B1-1559-3">對外國人推薦的觀光地等等</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1559-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>今天我有一件事想跟你談一談</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1559-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我認為看課文的電視內容很多次是很好的辦法</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1559-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>向外國人推薦的觀光地等等</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="提出課程建議並致謝">
+<TEXT>
+<SENTENCE id="B1-1570-1">我所謂指的方式也就是給學生們多機會練習我們的說話與寫字的能力</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1570-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我所謂指的方式也就是給學生們更多機會練習我們的說話與寫字的能力</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="提出課程建議並致謝">
+<TEXT>
+<SENTENCE id="B1-1575-1">出門的的時候</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1575-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>出門的時候</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="提出課程建議並致謝">
+<TEXT>
+<SENTENCE id="B1-1582-1">但我還是希望在上老師課可以學到一些東西</SENTENCE>
+<SENTENCE id="B1-1582-2">而讓父母感到驕傲</SENTENCE>
+<SENTENCE id="B1-1582-3">我不想辜負了他們的愛心</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1582-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>但我還是希望在上老師課時可以學到一些東西</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1582-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>讓父母感到驕傲</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1582-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我不想辜負了他們的愛</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="提出課程建議並致謝">
+<TEXT>
+<SENTENCE id="B1-1587-1">不過我對中文和台灣產出的文化很有興趣</SENTENCE>
+<SENTENCE id="B1-1587-2">我向老師很感謝</SENTENCE>
+<SENTENCE id="B1-1587-3">老師常常把成語給我們介紹</SENTENCE>
+<SENTENCE id="B1-1587-4">找個好中國朋友也很難找</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1587-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>不過我對中文和台灣的文化很有興趣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1587-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我對老師很感謝</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1587-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>老師常常把成語介紹給我們</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1587-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>找個好的中國朋友也很難找</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="提出課程建議並致謝">
+<TEXT>
+<SENTENCE id="B1-1598-1">主要的是因為我想學到在工作上會有用的中文</SENTENCE>
+<SENTENCE id="B1-1598-2">有時候我覺得老師的上課方式可能不太適合我</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1598-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>主要的是因為我想學到在工作上有用的中文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1598-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>不過有時候我覺得老師的上課方式可能不太適合我</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我吃中國菜的經驗">
+<TEXT>
+<SENTENCE id="B1-1605-1">我喜歡中國菜</SENTENCE>
+<SENTENCE id="B1-1605-2">只寫起來會餓得不得了</SENTENCE>
+<SENTENCE id="B1-1605-3">他們一定吃早餐</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1605-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>但我喜歡中國菜</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1605-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>寫起來會餓得不得了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1605-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>他們一定會吃早餐</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我吃中國菜的經驗">
+<TEXT>
+<SENTENCE id="B1-1613-1">這種的人吃不慣中國菜不是奇怪</SENTENCE>
+<SENTENCE id="B1-1613-2">我都吃過以上這兩個菜</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1613-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>這種吃不慣中國菜的人不是奇怪</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1613-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>以上這兩個菜我都吃過</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我吃中國菜的經驗">
+<TEXT>
+<SENTENCE id="B1-1622-1">我最喜歡吃的炸的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1622-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我最喜歡吃的就是炸的</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我吃中國菜的經驗">
+<TEXT>
+<SENTENCE id="B1-1631-1">因為我在個中國家庭長大</SENTENCE>
+<SENTENCE id="B1-1631-2">小的時候想要跟別的同學一樣</SENTENCE>
+<SENTENCE id="B1-1631-3">有這個難得機會</SENTENCE>
+<SENTENCE id="B1-1631-4">叫我拿去後院子種</SENTENCE>
+<SENTENCE id="B1-1631-5">我們選的最好的牛骨頭</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1631-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我在一個中國家庭長大</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1631-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>小的時候想跟別的同學一樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1631-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>有這個難得的機會</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1631-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>叫我拿去後院種</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1631-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們選最好的牛骨頭</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我吃中國菜的經驗">
+<TEXT>
+<SENTENCE id="B1-1640-1">聽朋友們的話</SENTENCE>
+<SENTENCE id="B1-1640-2">我的老師帶我跟我們班同學們都一起去餐廳吃臭豆腐</SENTENCE>
+<SENTENCE id="B1-1640-3">似乎酸酸的豆腐之一</SENTENCE>
+<SENTENCE id="B1-1640-4">可是跟中國菜比起來韓國更辣</SENTENCE>
+<SENTENCE id="B1-1640-5">可是韓國的味道跟四川的辣的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-1640-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>聽朋友們講的話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1640-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我的老師帶我跟我們班同學們一起去餐廳吃臭豆腐</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1640-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>似乎是酸酸的豆腐之一</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1640-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是跟中國菜比起來韓國菜更辣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-1640-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是韓國的味道跟四川的辣</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2342-1">交通嘛真的很方便</SENTENCE>
+<SENTENCE id="B1-2342-2">可是房租對台北來說非常便宜</SENTENCE>
+<SENTENCE id="B1-2342-3">並不是我自己一個人找的</SENTENCE>
+<SENTENCE id="B1-2342-4">所到現在</SENTENCE>
+<SENTENCE id="B1-2342-5">我在印尼跟台北住的地方是一樣的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2342-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>交通真的很方便</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2342-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是房租對台北人來說非常便宜</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2342-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>並不是我自己一個人要找的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2342-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以到現在</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2342-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我在印尼跟在台北住的地方是一樣的</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2346-1">所以沒辦法自己做</SENTENCE>
+<SENTENCE id="B1-2346-2">我房子的房租比台灣朋友的房租貴多</SENTENCE>
+<SENTENCE id="B1-2346-3">我在師大夜市裡看到了我房子的小廣告的時候</SENTENCE>
+<SENTENCE id="B1-2346-4">房租很貴</SENTENCE>
+<SENTENCE id="B1-2346-5">因為我有時候很想吃日本家常菜</SENTENCE>
+<SENTENCE id="B1-2346-6">所以那個時候要自己做</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2346-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以沒辦法自己做料理</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2346-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我房子的房租比台灣朋友的房租貴多了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2346-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我在師大夜市裡看到我房子的小廣告的時候</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2346-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是房租很貴</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2346-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我有時候很想吃日本的家常菜</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2346-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以那個時候一定要自己做</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2350-1">我住的套房是離古亭站走路三分鐘</SENTENCE>
+<SENTENCE id="B1-2350-2">衛生設備等等都是我搬到時</SENTENCE>
+<SENTENCE id="B1-2350-3">所以當然乾淨的</SENTENCE>
+<SENTENCE id="B1-2350-4">我在台灣買日本時代的房子</SENTENCE>
+<SENTENCE id="B1-2350-5">裡面修理一下</SENTENCE>
+<SENTENCE id="B1-2350-6">又很貴</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2350-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我住的套房離古亭站走路三分鐘</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2350-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>衛生設備等等都是我入住時</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2350-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以當然乾淨</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2350-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想在台灣買日本時代的房子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2350-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>將裡面修理一下</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2350-6">
+<TYPE>Selection</TYPE>
+<CORRECTION>可能會很貴</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2355-1">回到家以後在門口把鞋子脫下來就進出家裡</SENTENCE>
+<SENTENCE id="B1-2355-2">在日本房子裡常常坐在地上</SENTENCE>
+<SENTENCE id="B1-2355-3">所以今年的冬天的時候</SENTENCE>
+<SENTENCE id="B1-2355-4">我受不了了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2355-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>回到家以後在門口把鞋子脫下來就走進家裡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2355-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>在日本房子裡我們常常坐在地上</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2355-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以今年冬天的時候</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2355-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我受不了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2359-1">先住一下下大飯店</SENTENCE>
+<SENTENCE id="B1-2359-2">離車站走路一分鐘就能到</SENTENCE>
+<SENTENCE id="B1-2359-3">我舅舅介紹我那家房子</SENTENCE>
+<SENTENCE id="B1-2359-4">房租只要一個月一萬五千塊錢</SENTENCE>
+<SENTENCE id="B1-2359-5">我要找一家可以做飯的房子</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2359-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>先住一陣子大飯店</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2359-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>從車站走路一分鐘就能到</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2359-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我舅舅介紹我那間房子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2359-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>房租一個月只要一萬五千塊錢</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2359-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>我要找一間可以做飯的房子</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2363-1">終於找到了住的地</SENTENCE>
+<SENTENCE id="B1-2363-2">一方面也可以享受天天的生活</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2363-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>終於找到了住的地方</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2363-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>一方面也可以享受每天的生活</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2369-1">我的房子是小小的</SENTENCE>
+<SENTENCE id="B1-2369-2">那裏附近也有很多好吃的東西</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2369-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我的房子小小的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2369-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>附近也有很多好吃的東西</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2373-1">可以吃各式各樣的菜</SENTENCE>
+<SENTENCE id="B1-2373-2">小偷進去我房子</SENTENCE>
+<SENTENCE id="B1-2373-3">然後電腦和相機都被偷了</SENTENCE>
+<SENTENCE id="B1-2373-4">那個以前住的房子雖然很便宜</SENTENCE>
+<SENTENCE id="B1-2373-5">覺得很舒服</SENTENCE>
+<SENTENCE id="B1-2373-6">但是我房子又漂亮又舒服</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2373-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我可以吃各式各樣的菜</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2373-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>小偷進去了我房子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2373-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>我的電腦和相機都被偷了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2373-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>以前住的那個房子雖然很便宜</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2373-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>但覺得很舒服</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2373-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是我現在房子又漂亮又舒服</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2379-1">所以還不發展</SENTENCE>
+<SENTENCE id="B1-2379-2">拿我房子來說</SENTENCE>
+<SENTENCE id="B1-2379-3">交通很方便</SENTENCE>
+<SENTENCE id="B1-2379-4">因為在路上容易看到一張紅紙上寫著一個字</SENTENCE>
+<SENTENCE id="B1-2379-5">所以如果找到這樣廣告的話</SENTENCE>
+<SENTENCE id="B1-2379-6">也可算是找到房子</SENTENCE>
+<SENTENCE id="B1-2379-7">我所以很想住公寓是因為環境比較好</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2379-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以還發展不起來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2379-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>拿我的房子來說</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2379-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>附近交通很方便</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2379-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為在路上就容易看到一張紅紙上寫著一個字</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2379-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以如果找到這樣的廣告的話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2379-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>也可算是找到房子了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2379-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我之所以很想住公寓是因為環境比較好</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2383-1">裡離台北區很近</SENTENCE>
+<SENTENCE id="B1-2383-2">台北的交通很好也準時</SENTENCE>
+<SENTENCE id="B1-2383-3">因為我跟好台灣朋友一起住</SENTENCE>
+<SENTENCE id="B1-2383-4">當然我國家住的地方跟我這裡住的地方不一樣</SENTENCE>
+<SENTENCE id="B1-2383-5">台灣公寓多了</SENTENCE>
+<SENTENCE id="B1-2383-6">飯館很多活動中心多</SENTENCE>
+<SENTENCE id="B1-2383-7">連公園的運動比賽又熱鬧又快樂</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2383-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>離台北區很近</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2383-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>台北的交通很好也很準時</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2383-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為我跟台灣好朋友一起住</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2383-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>當然我的國家住的地方跟我這裡住的地方不一樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2383-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>台灣公寓多</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2383-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>飯館很多活動中心也多</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2383-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>連公園的運動比賽都又熱鬧又快樂</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2388-1">我在台灣的房子是委託不動產找到的</SENTENCE>
+<SENTENCE id="B1-2388-2">古亭捷運站離我家都走路大概要十分鐘</SENTENCE>
+<SENTENCE id="B1-2388-3">我住的地方的環境很安靜</SENTENCE>
+<SENTENCE id="B1-2388-4">可是方向是坐南北朝的</SENTENCE>
+<SENTENCE id="B1-2388-5">一個月一萬四元</SENTENCE>
+<SENTENCE id="B1-2388-6">有三種的鑰匙</SENTENCE>
+<SENTENCE id="B1-2388-7">還有可以直接坐在地上</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2388-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我在台灣的房子是委託不動產仲介找到的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2388-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>古亭捷運站離我家走路大概要十分鐘</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2388-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我住的地方環境很安靜</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2388-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>可是方向是坐南朝北的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2388-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>一個月一萬四千元</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2388-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>有三種鑰匙</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2388-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>還可以直接坐在地上</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2394-1">而且越來越難跟他們一起住</SENTENCE>
+<SENTENCE id="B1-2394-2">我覺得這是太誇張了</SENTENCE>
+<SENTENCE id="B1-2394-3">我要住的地最好是差不多一萬一個月</SENTENCE>
+<SENTENCE id="B1-2394-4">跟師大很近就好了</SENTENCE>
+<SENTENCE id="B1-2394-5">因為很少在家</SENTENCE>
+<SENTENCE id="B1-2394-6">反正我住的地方跟我適合所以沒問題</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2394-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>而且跟他們一起住越來越難</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2394-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得這太誇張了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2394-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我要住的地方最好是差不多一萬一個月</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2394-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>離師大很近就好了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2394-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我很少在家</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2394-6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>反正我住的地方跟我合適所以沒問題</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2398-1">我們得押金兩個月</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2398-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們得要押金兩個月</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="關於台灣租住的經驗">
+<TEXT>
+<SENTENCE id="B1-2403-1">那裡的東西跟一般市場比起來</SENTENCE>
+<SENTENCE id="B1-2403-2">只要有想買東西就買得到</SENTENCE>
+<SENTENCE id="B1-2403-3">還有房間裡一間洗手間</SENTENCE>
+<SENTENCE id="B1-2403-4">晚上的時候在沙發上可以看電視</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2403-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>那裡的東西跟一般市場比較起來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2403-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>只要有想買的東西就買得到</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2403-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>房間裡還有一間洗手間</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2403-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>晚上的時候可以在沙發上看電視</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2514-1">我在這裡一切都都很好</SENTENCE>
+<SENTENCE id="B1-2514-2">我一聽到媽媽來台灣</SENTENCE>
+<SENTENCE id="B1-2514-3">下個月來的話</SENTENCE>
+<SENTENCE id="B1-2514-4">我從禮拜一到禮拜五有課</SENTENCE>
+<SENTENCE id="B1-2514-5">所以那些天晚上去夜市</SENTENCE>
+<SENTENCE id="B1-2514-6">當天我先坐火車</SENTENCE>
+<SENTENCE id="B1-2514-7">下個月來台灣的時候</SENTENCE>
+<SENTENCE id="B1-2514-8">因為天氣不冷不熱的關係</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2514-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我在這裡一切都很好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2514-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我一聽到媽媽要來台灣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2514-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>如果下個月來的話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2514-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我從禮拜一到禮拜五都有課</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2514-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以找一天晚上去夜市</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2514-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>當天我們先坐火車</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2514-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>下個月妳來台灣的時候</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2514-8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為天氣不冷不熱</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2519-1">我在台灣都平平安安</SENTENCE>
+<SENTENCE id="B1-2519-2">這裡也非常多不同國家的人</SENTENCE>
+<SENTENCE id="B1-2519-3">他們都一直對我很好</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2519-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>我在台灣都平安</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2519-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>這裡也有非常多不同國家的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2519-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他們一直都對我很好</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2523-1">我很高興聽媽媽說下個月要來台灣看我</SENTENCE>
+<SENTENCE id="B1-2523-2">還是坐公車去</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2523-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>我很高興聽到媽媽說下個月要來台灣看我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2523-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>可以坐公車去</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2527-1">尤其是我弟弟</SENTENCE>
+<SENTENCE id="B1-2527-2">特別注意</SENTENCE>
+<SENTENCE id="B1-2527-3">其實我不敢去台灣的醫院</SENTENCE>
+<SENTENCE id="B1-2527-4">身體健康</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2527-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>尤其是弟弟</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2527-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>需要特別注意</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2527-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>但是我不敢去台灣的醫院</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2527-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>祝身體健康</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2534-1">台灣現在是秋天的</SENTENCE>
+<SENTENCE id="B1-2534-2">台北動物</SENTENCE>
+<SENTENCE id="B1-2534-3">我要停了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2534-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>台灣現在是秋天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2534-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>台北動物園</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2534-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我要停車了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2538-1">一起去旅行</SENTENCE>
+<SENTENCE id="B1-2538-2">一定小心一點兒</SENTENCE>
+<SENTENCE id="B1-2538-3">雖然現在韓國是秋天的</SENTENCE>
+<SENTENCE id="B1-2538-4">所以一定準備長的衣服和短的衣服</SENTENCE>
+<SENTENCE id="B1-2538-5">什麼東西也可以</SENTENCE>
+<SENTENCE id="B1-2538-6">尤其媽媽親手的菜是最好的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2538-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們一起去旅行</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2538-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>一定要小心一點兒</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2538-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>雖然現在韓國是秋天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2538-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以一定要準備長的衣服和短的衣服</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2538-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>什麼東西都可以</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2538-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>尤其媽媽親手做的菜是最好的</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2543-1">哪裡去都很方便</SENTENCE>
+<SENTENCE id="B1-2543-2">我忘了告訴你們從北到南部現在我們可以坐高鐵公路</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2543-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>去哪裡都很方便</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2543-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我忘了告訴你們從北到南部現在我們可以坐高鐵</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2547-1">我的朋友幫我開車帶我們去那邊</SENTENCE>
+<SENTENCE id="B1-2547-2">去夜市逛街跟吃很好吃的台灣小吃</SENTENCE>
+<SENTENCE id="B1-2547-3">我覺得你們一定喜歡台灣</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2547-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我的朋友開車帶我們去那邊</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2547-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>去夜市逛街接著吃很好吃的台灣小吃</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2547-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得你們一定會喜歡台灣</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2554-1">第二天我坐捷運去１０１看風景</SENTENCE>
+<SENTENCE id="B1-2554-2">而且古色古香的博物館</SENTENCE>
+<SENTENCE id="B1-2554-3">第四天我去機場送你們</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2554-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>第二天我們坐捷運去１０１看風景</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2554-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>而且逛古色古香的博物館</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2554-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>第四天我送你們去機場</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2558-1">我來台灣以後</SENTENCE>
+<SENTENCE id="B1-2558-2">一切都好了</SENTENCE>
+<SENTENCE id="B1-2558-3">因為我上個放假的時候</SENTENCE>
+<SENTENCE id="B1-2558-4">我覺得你們一定喜歡那邊</SENTENCE>
+<SENTENCE id="B1-2558-5">所以小心一點</SENTENCE>
+<SENTENCE id="B1-2558-6">我要去上課</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2558-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我來台灣後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2558-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>一切都好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2558-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為我上次放假的時候</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2558-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得你們一定會喜歡那邊</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2558-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以請小心一點</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2558-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我要去上課了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2566-1">台北也有很多逛街的地方像夜市</SENTENCE>
+<SENTENCE id="B1-2566-2">請您帶給我一些吃的東西</SENTENCE>
+<SENTENCE id="B1-2566-3">九月二一日</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2566-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>台北也有很多逛街的地方像夜市等等</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2566-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>請您帶一些吃的東西給我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2566-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>九月二十一日</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2570-1">要不然我們不能路上的風景</SENTENCE>
+<SENTENCE id="B1-2570-2">妳只要帶普通的衣服</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2570-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>要不然我們不能看路上的風景</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2570-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>妳只要帶普通的衣服來</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最欣賞的人">
+<TEXT>
+<SENTENCE id="B1-2577-1">想要的東西會盡力量得到</SENTENCE>
+<SENTENCE id="B1-2577-2">這造成母親常擔心有些沒有的</SENTENCE>
+<SENTENCE id="B1-2577-3">日常生活中我都會母親的話做每件事</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2577-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>想要的東西會盡自己力量得到</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2577-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>這造成母親常擔心我的所做所為</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2577-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>日常生活中我都會聽母親的話做每件事</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最欣賞的人">
+<TEXT>
+<SENTENCE id="B1-2584-1">因表面上看起來一副很愛耍性格的樣子</SENTENCE>
+<SENTENCE id="B1-2584-2">我覺蠻有創意的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2584-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為表面上看起來一副很愛耍性格的樣子</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2584-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得蠻有創意的</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最欣賞的人">
+<TEXT>
+<SENTENCE id="B1-2588-1">而且洋基隊的王牌投手</SENTENCE>
+<SENTENCE id="B1-2588-2">可是我最欣賞的是他的謙虛的個性</SENTENCE>
+<SENTENCE id="B1-2588-3">親戚替自己的父母拉拔他長大了</SENTENCE>
+<SENTENCE id="B1-2588-4">第二年受傷了了</SENTENCE>
+<SENTENCE id="B1-2588-5">他每場退場休息後</SENTENCE>
+<SENTENCE id="B1-2588-6">每次感謝守備們的幫助</SENTENCE>
+<SENTENCE id="B1-2588-7">可是學得到很多東西</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2588-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>而且是洋基隊的王牌投手</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2588-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是我最欣賞的是他謙虛的個性</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2588-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>親戚替自己的父母拉拔他長大</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2588-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>第二年受傷了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2588-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>他每次退場休息後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2588-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>每次都感謝守備們的幫助</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2588-7">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是學到很多東西</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最欣賞的人">
+<TEXT>
+<SENTENCE id="B1-2592-1">聰明的他常常考上班上第一名</SENTENCE>
+<SENTENCE id="B1-2592-2">四年過</SENTENCE>
+<SENTENCE id="B1-2592-3">他既孝順又事業成功</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2592-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>聰明的他常常考班上第一名</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2592-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>四年過去</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2592-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他既孝順事業又成功</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最欣賞的人">
+<TEXT>
+<SENTENCE id="B1-2597-1">因為我想聽中文的音樂而找了很多首歌聽聽看</SENTENCE>
+<SENTENCE id="B1-2597-2">抱沒什麼期待</SENTENCE>
+<SENTENCE id="B1-2597-3">他真的是多麼有才華</SENTENCE>
+<SENTENCE id="B1-2597-4">希望以後也能支持他</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2597-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為我想聽中文的音樂所以找了很多首歌聽聽看</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2597-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>沒抱什麼期待</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2597-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他是多麼有才華</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2597-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>希望以後也能夠支持他</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最欣賞的人">
+<TEXT>
+<SENTENCE id="B1-2603-1">我覺得這種人與人的關係是真不容易</SENTENCE>
+<SENTENCE id="B1-2603-2">從那件事我想我了解爸爸那句話的意思了了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2603-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我覺得這種人與人的關係真是不容易</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2603-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>從那件事我想我了解爸爸那句話的意思了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最欣賞的人">
+<TEXT>
+<SENTENCE id="B1-2611-1">聚精會神學中文</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2611-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>聚精會神地學中文</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2628-1">真的很高興</SENTENCE>
+<SENTENCE id="B1-2628-2">所以哪裡去都方便</SENTENCE>
+<SENTENCE id="B1-2628-3">所以我們想去哪裡可以告訴他</SENTENCE>
+<SENTENCE id="B1-2628-4">所以不需要那麼厚厚的外套</SENTENCE>
+<SENTENCE id="B1-2628-5">我在飛機場等你們</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2628-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我真的很高興</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2628-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以去哪裡都方便</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2628-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們想去哪裡可以告訴他</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2628-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以不需要那麼厚的外套</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2628-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我會在飛機場等你們</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2632-1">我跟朋友一起去到飛機場接你</SENTENCE>
+<SENTENCE id="B1-2632-2">可是兩三件也沒關係</SENTENCE>
+<SENTENCE id="B1-2632-3">不夠的話在這裡也方便</SENTENCE>
+<SENTENCE id="B1-2632-4">我準備了一長棉被</SENTENCE>
+<SENTENCE id="B1-2632-5">那裡有各種各樣的東西</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2632-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我跟朋友一起去飛機場接你</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2632-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>只有兩三件也沒關係</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2632-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>不夠的話在這裡買也方便</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2632-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我準備了一床長棉被</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2632-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>那裡有各式各樣的東西</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2636-1">而且每天熱鬧</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2636-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>而且每天都熱鬧</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2640-1">下個月你們來沒問題</SENTENCE>
+<SENTENCE id="B1-2640-2">我覺得你們也喜歡</SENTENCE>
+<SENTENCE id="B1-2640-3">旅行阿里山以後我要帶你們去野柳</SENTENCE>
+<SENTENCE id="B1-2640-4">那邊的石很奇怪</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2640-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>下個月你們來也沒問題</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2640-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得你們也會喜歡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2640-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>阿里山旅行以後我要帶你們去野柳</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2640-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>那邊的石頭很奇怪</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2644-1">可是有時候還是冷</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2644-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是有時候還是會冷</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2648-1">我很高興下個月妳要來台灣見面我</SENTENCE>
+<SENTENCE id="B1-2648-2">放假全一個禮拜</SENTENCE>
+<SENTENCE id="B1-2648-3">可是我要介紹你臭豆腐</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2648-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我很高興下個月妳要來台灣見我面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2648-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>放假一個禮拜</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2648-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我要介紹你臭豆腐</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2652-1">他們都是很好</SENTENCE>
+<SENTENCE id="B1-2652-2">就到這裡吧</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2652-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他們都很好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2652-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>就說到這裡吧</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2656-1">我再等您們</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2656-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我再等您們囉</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2660-1">所以你要圓領衫</SENTENCE>
+<SENTENCE id="B1-2660-2">短褲和休閒鞋子</SENTENCE>
+<SENTENCE id="B1-2660-3">這裡的夜市也滿有意思</SENTENCE>
+<SENTENCE id="B1-2660-4">四月我們也要到台灣的南部去游泳</SENTENCE>
+<SENTENCE id="B1-2660-5">等幾天我們再談談好嗎</SENTENCE>
+<SENTENCE id="B1-2660-6">希望你會跟我吃喝玩樂</SENTENCE>
+<SENTENCE id="B1-2660-7">我正在等你嘍</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2660-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以你要帶圓領衫</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2660-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>短褲和休閒鞋</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2660-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>這裡的夜市也滿有意思的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2660-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>四月我們要到台灣的南部去游泳</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2660-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>等幾天後我們再談談好嗎</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2660-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>希望你會跟我一起吃喝玩樂</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2660-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我正等你嘍</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2664-1">而且下個月你來台灣看我</SENTENCE>
+<SENTENCE id="B1-2664-2">還有要是你帶來給我日本的甜點的話</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2664-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>而且下個月你會來台灣看我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2664-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>還有要是你帶日本的甜點來給我的話</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2669-1">在台灣連夜市裡</SENTENCE>
+<SENTENCE id="B1-2669-2">您們來那個時候一定要試試看</SENTENCE>
+<SENTENCE id="B1-2669-3">我快忘了告訴您們</SENTENCE>
+<SENTENCE id="B1-2669-4">我的信先停在這兒</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2669-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>在台灣夜市裡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2669-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>您們來的那個時候一定要試試看</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2669-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我忘了告訴您們</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2669-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我的信先寫到這兒</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2673-1">我收到你給我信</SENTENCE>
+<SENTENCE id="B1-2673-2">你們喜歡夜市小吃還是小籠包那樣中國菜</SENTENCE>
+<SENTENCE id="B1-2673-3">那先就這樣</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2673-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我收到你給我的信</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2673-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>你們喜歡夜市小吃還是小籠包那樣的中國菜</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2673-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>那就先這樣</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2677-1">昨天收到你的信而知道你會有機會來台灣看我</SENTENCE>
+<SENTENCE id="B1-2677-2">免得你從德帶來的衣服太厚</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2677-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>昨天收到你的信才知道你會有機會來台灣看我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2677-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>免得你從德國帶來的衣服太厚</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2682-1">我認為讓你大開眼界</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2682-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我認為會讓你大開眼界</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="親友來台旅遊計劃與建議">
+<TEXT>
+<SENTENCE id="B1-2687-1">我很高興得不得了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2687-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我高興得不得了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最難忘的事/人">
+<TEXT>
+<SENTENCE id="B1-2700-1">差不多二十五分鐘才到醫生家</SENTENCE>
+<SENTENCE id="B1-2700-2">我想讓他們幸福的父母親</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2700-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>差不多走二十五分鐘才到醫生家</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2700-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想讓他們當幸福的父母親</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最難忘的事/人">
+<TEXT>
+<SENTENCE id="B1-2706-1">前年九月是開始新的學期</SENTENCE>
+<SENTENCE id="B1-2706-2">因為我不但可以認識很多各不同國家的人和文化</SENTENCE>
+<SENTENCE id="B1-2706-3">可是我覺得還很孤單</SENTENCE>
+<SENTENCE id="B1-2706-4">因為沒有一個人真正的了解我心</SENTENCE>
+<SENTENCE id="B1-2706-5">有一天我認識了一同國家的人</SENTENCE>
+<SENTENCE id="B1-2706-6">可是我心裡的感受對她好像姐妹一樣</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2706-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>前年九月是新的學期開始</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2706-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為我不但可以認識很多不同國家的人和文化</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2706-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是我覺得還是很孤單</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2706-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為沒有一個人真正的了解我內心</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2706-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>有一天我認識了同一國家的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2706-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是我心裡的感受是對她好像姐妹一樣</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最難忘的事/人">
+<TEXT>
+<SENTENCE id="B1-2710-1">有的只是豐富的自然</SENTENCE>
+<SENTENCE id="B1-2710-2">而且想再去做和那時一樣的事情了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2710-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>有的只是豐富的自然生態</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2710-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>而且想再去做和那時一樣的事情</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最難忘的事/人">
+<TEXT>
+<SENTENCE id="B1-2716-1">我們快要沒有時間轉車</SENTENCE>
+<SENTENCE id="B1-2716-2">威尼斯比其他城市比較特別</SENTENCE>
+<SENTENCE id="B1-2716-3">從威尼斯我們往米蘭</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2716-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>那時我們快要沒有時間轉車</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2716-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>威尼斯比其他城市特別</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2716-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我們從威尼斯往米蘭</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最難忘的事/人">
+<TEXT>
+<SENTENCE id="B1-2720-1">人類曾活在世界上的</SENTENCE>
+<SENTENCE id="B1-2720-2">該將一生一世奉獻給祂</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2720-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>人類曾活在世界上</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2720-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>應該將一生一世奉獻給祂</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最難忘的事/人">
+<TEXT>
+<SENTENCE id="B1-2725-1">有一天我跟我姐在西門町走走時</SENTENCE>
+<SENTENCE id="B1-2725-2">真沒想到台灣說話那麼直接</SENTENCE>
+<SENTENCE id="B1-2725-3">我痛下決心瘦身我要使全世界刮目相看</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2725-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>有一天我跟我姐在西門町逛街時</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2725-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>真沒想到台灣人說話那麼直接</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2725-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我痛下決心瘦身我要使全世界人刮目相看</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信給家人">
+<TEXT>
+<SENTENCE id="B1-2748-1">韓國十月一年中天氣最好</SENTENCE>
+<SENTENCE id="B1-2748-2">家人在一起重要</SENTENCE>
+<SENTENCE id="B1-2748-3">爸媽讓我做我想要做</SENTENCE>
+<SENTENCE id="B1-2748-4">我快要回去</SENTENCE>
+<SENTENCE id="B1-2748-5">二個星期以後</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2748-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>韓國十月是一年中天氣最好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2748-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>家人在一起很重要</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2748-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>爸媽讓我做我想要做的事</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2748-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我快要回去了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2748-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>二個星期以後見</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="美好的一天">
+<TEXT>
+<SENTENCE id="B1-2753-1">一般人民也可以去星外旅</SENTENCE>
+<SENTENCE id="B1-2753-2">太空中飄來飄去</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-2753-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>一般人民也可以去星外旅行</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-2753-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>在太空中飄來飄去</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3093-1">他是學校的最厲害的球員</SENTENCE>
+<SENTENCE id="B1-3093-2">有一個英國教練來墨西哥看一個比賽</SENTENCE>
+<SENTENCE id="B1-3093-3">可是他一直不要放棄</SENTENCE>
+<SENTENCE id="B1-3093-4">那邊他們去了一些很有意思的地方</SENTENCE>
+<SENTENCE id="B1-3093-5">我覺得啤酒店是這部電影的最有趣的地方</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3093-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他是學校最厲害的球員</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3093-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>有一個英國教練來墨西哥看一場比賽</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3093-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可是他一直不放棄</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3093-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>在那邊他們去了一些很有意思的地方</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3093-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我覺得啤酒店是這部電影最有趣的地方</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3097-1">他是全世界最好的其中之一</SENTENCE>
+<SENTENCE id="B1-3097-2">看過這部的大多數</SENTENCE>
+<SENTENCE id="B1-3097-3">都會記得的一個地方一定是兩個男角色做愛的</SENTENCE>
+<SENTENCE id="B1-3097-4">公開得敢拍給人家看這種很敏感的題目</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3097-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>他是全世界最好的導演其中之一</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3097-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>看過這部的大多數觀眾</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3097-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>都會記得的一個地方一定是兩個男角色做愛</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3097-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>公開敢拍給人家看這種很敏感的題目</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3102-1">一所漂亮的音樂學校裡</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3102-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>在一所漂亮的音樂學校裡</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3106-1">媽媽是因為聽到音樂的聲音才回頭去看演奏</SENTENCE>
+<SENTENCE id="B1-3106-2">那個小男孩很勇敢和很堅持要找到他的父母</SENTENCE>
+<SENTENCE id="B1-3106-3">還有怎麼樣音樂可以表達我們的心情和我們沒辦法說出來的話</SENTENCE>
+<SENTENCE id="B1-3106-4">我也會喜歡是因為它跟其他的故事不太像</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3106-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>媽媽是因為聽到音樂的聲音才回頭去看演奏會</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3106-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>那個小男孩很勇敢和很堅持地要找到他的父母</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3106-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>還有是怎麼樣音樂可以表達我們的心情和我們沒辦法說出來的話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3106-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我會喜歡是因為它跟其他的故事不太像</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3111-1">結果上星期日特別挑選一部電影</SENTENCE>
+<SENTENCE id="B1-3111-2">也不是完全為了錢而教武術</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3111-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以上星期日特別挑選一部電影</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3111-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>他也不是完全為了錢而教武術</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3115-1">我上個禮拜看了一部很好看的電影「我的姊姊秘密」</SENTENCE>
+<SENTENCE id="B1-3115-2">電影裡面有一個很幸福家庭</SENTENCE>
+<SENTENCE id="B1-3115-3">同時每一個人裡面有秘密</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3115-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我上個禮拜看了一部很好看的電影「我姊姊的秘密」</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3115-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>電影裡面有一個很幸福的家庭</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3115-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>同時每一個人裡面都有秘密</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3123-1">電影的名是「鋼鐵俠２」</SENTENCE>
+<SENTENCE id="B1-3123-2">他怎麼做的鋼鐵衣</SENTENCE>
+<SENTENCE id="B1-3123-3">然後跟他合作的人怎麼騙他的計畫</SENTENCE>
+<SENTENCE id="B1-3123-4">也自己做了他的鋼鐵衣</SENTENCE>
+<SENTENCE id="B1-3123-5">他被發現了</SENTENCE>
+<SENTENCE id="B1-3123-6">遭遇了恐怖分子</SENTENCE>
+<SENTENCE id="B1-3123-7">這個恐怖分子部不喜歡他</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3123-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>電影的名字是「鋼鐵俠２」</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3123-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他怎麼做鋼鐵衣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3123-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>然後跟他合作的人是怎麼騙他的計畫</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3123-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>後來也自己做了他的鋼鐵衣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3123-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>被他發現了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3123-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>遭遇了恐怖分子攻擊</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3123-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>這個恐怖分子不喜歡他</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3130-1">最後的部分是答案</SENTENCE>
+<SENTENCE id="B1-3130-2">但還是仔細看柯南怎麼解決事情</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3130-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>尤其最後的部分是答案</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3130-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>但還是可以仔細看柯南怎麼解決事情</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3135-1">以他們的角度來看台灣現在情形</SENTENCE>
+<SENTENCE id="B1-3135-2">這兩個小男孩對大人來說並不好的</SENTENCE>
+<SENTENCE id="B1-3135-3">就得了精神的病</SENTENCE>
+<SENTENCE id="B1-3135-4">但沒有聽他的話</SENTENCE>
+<SENTENCE id="B1-3135-5">但另外的男孩還是最後求那個父親</SENTENCE>
+<SENTENCE id="B1-3135-6">我覺得雖然他得了精神的病</SENTENCE>
+<SENTENCE id="B1-3135-7">如果整個都是難過的</SENTENCE>
+<SENTENCE id="B1-3135-8">或整個都是愉快的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3135-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>以他們的角度來看台灣現在的情形</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3135-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>這兩個小男孩對大人來說並不是好的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3135-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>就得了精神方面的病</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3135-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是沒有聽他的話</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3135-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>但另外的男孩最後還是求那個父親</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3135-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我覺得雖然他得了精神的疾病</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3135-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>如果整個內容都是難過的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3135-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>或整個內容都是愉快的</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3141-1">跟她妹妹用手語聊天</SENTENCE>
+<SENTENCE id="B1-3141-2">以為小營也是障礙</SENTENCE>
+<SENTENCE id="B1-3141-3">阿德很努力學手語</SENTENCE>
+<SENTENCE id="B1-3141-4">然後很多好笑的部分</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3141-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>也跟她妹妹用手語聊天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3141-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>他以為小營也是障礙</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3141-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>因此阿德很努力學手語</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3141-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>然後發生很多好笑的部分</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3149-1">而且自己作雪橇去當時俄國首都</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3149-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>而且自己作雪橇去俄國首都</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3154-1">我很期待會看到這部戲</SENTENCE>
+<SENTENCE id="B1-3154-2">覺得這部戲沒什麼特別的好看地方</SENTENCE>
+<SENTENCE id="B1-3154-3">有看「艋舺」一定會用兩個字</SENTENCE>
+<SENTENCE id="B1-3154-4">還有我印象最深刻就是有個演員說</SENTENCE>
+<SENTENCE id="B1-3154-5">從電影裡面很多很好看的地方</SENTENCE>
+<SENTENCE id="B1-3154-6">其中還有最近很開始紅的陳漢典</SENTENCE>
+<SENTENCE id="B1-3154-7">能依靠的人那就是朋友</SENTENCE>
+<SENTENCE id="B1-3154-8">無條件會幫助你</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3154-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我很期待看到這部戲</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3154-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>覺得這部戲沒什麼特別好看地方</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3154-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>有看「艋舺」一定會用其中兩個字</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3154-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>還有我印象最深刻的就是有個演員說</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3154-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>電影裡面很多很好看的地方</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3154-6">
+<TYPE>Disorder</TYPE>
+<CORRECTION>其中還有最近開始很紅的陳漢典</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3154-7">
+<TYPE>Redundant</TYPE>
+<CORRECTION>能依靠的人就是朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3154-8">
+<TYPE>Redundant</TYPE>
+<CORRECTION>無條件幫助你</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="我最喜歡的一部電影">
+<TEXT>
+<SENTENCE id="B1-3160-1">我喜歡這部電影因為我覺得它很有道理</SENTENCE>
+<SENTENCE id="B1-3160-2">而它是讓我哭其中之一的電影</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3160-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我喜歡這部電影是因為我覺得它很有道理</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3160-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>而它是讓我哭的其中之一的電影</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3168-1">應該你也會開心</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3168-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你應該也會開心</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3174-1">但也是她生命中的轉捩點一首歌獻給大家</SENTENCE>
+<SENTENCE id="B1-3174-2">用自己心去聆聽生命</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3174-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>但也是她生命中的轉捩點的一首歌獻給大家</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3174-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>用自己的心去聆聽生命</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3182-1">昨天早上李大明的經紀人來了我們學校看看場地</SENTENCE>
+<SENTENCE id="B1-3182-2">希望下次你人在台</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3182-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>昨天早上李大明的經紀人來我們學校看看場地</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3182-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>希望下次你人在台灣</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3191-1">期中考怎樣</SENTENCE>
+<SENTENCE id="B1-3191-2">覺得了有點寂寞</SENTENCE>
+<SENTENCE id="B1-3191-3">我有幫安排那個節目</SENTENCE>
+<SENTENCE id="B1-3191-4">不然那個節目很有興趣</SENTENCE>
+<SENTENCE id="B1-3191-5">但是我們的學校也請來了一位很有名的人</SENTENCE>
+<SENTENCE id="B1-3191-6">其實我不知道為什麼我的學校會請他來的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3191-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>期中考怎麼樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3191-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>覺得有點寂寞了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3191-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我有幫那個節目安排</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3191-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我對那個節目很有興趣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3191-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>這次我們的學校也請來了一位很有名的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3191-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>其實我不知道為什麼我的學校會請他來</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3202-1">一邊喝一邊聊天吧</SENTENCE>
+<SENTENCE id="B1-3202-2">昨天我參加了我們學校舉辦一場足球活動</SENTENCE>
+<SENTENCE id="B1-3202-3">為我們學校特別請了一位足球員</SENTENCE>
+<SENTENCE id="B1-3202-4">他教了很多足球的方法</SENTENCE>
+<SENTENCE id="B1-3202-5">也很認真的</SENTENCE>
+<SENTENCE id="B1-3202-6">平常我在電視看他怎麼踢足球</SENTENCE>
+<SENTENCE id="B1-3202-7">因為我的球員也踢得非常好</SENTENCE>
+<SENTENCE id="B1-3202-8">我希望我們學校的球隊帶回很好的成績</SENTENCE>
+<SENTENCE id="B1-3202-9">也不要讓我們的學校</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3202-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>一邊喝酒一邊聊天吧</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3202-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>昨天我參加了我們學校舉辦的一場足球活動</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3202-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我們學校特別請了一位足球員</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3202-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>他教了很多踢足球的方法</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3202-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>也很認真</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3202-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>平常我在電視會看他怎麼踢足球</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3202-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我們的球員也踢得非常好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3202-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望我們學校的球隊能帶回很好的成績</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3202-9">
+<TYPE>Missing</TYPE>
+<CORRECTION>也不��讓我們的學校丟臉</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3209-1">那場比賽很多人參加比賽</SENTENCE>
+<SENTENCE id="B1-3209-2">他唱幾首歌</SENTENCE>
+<SENTENCE id="B1-3209-3">其中是我最喜歡的歌</SENTENCE>
+<SENTENCE id="B1-3209-4">到現在我忘不了她</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3209-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那場比賽很多人參加</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3209-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>他唱了幾首歌</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3209-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>其中一首是我最喜歡的歌</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3209-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>到現在我還忘不了她</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3214-1">那場</SENTENCE>
+<SENTENCE id="B1-3214-2">那本書紅起來了</SENTENCE>
+<SENTENCE id="B1-3214-3">那位作者近年來突然受到大家的注目的原因是他的作品與台灣的歷史有關的</SENTENCE>
+<SENTENCE id="B1-3214-4">他新的角度來看台灣的歷史</SENTENCE>
+<SENTENCE id="B1-3214-5">都在媒體工作</SENTENCE>
+<SENTENCE id="B1-3214-6">這也我覺得吸引民眾的原因之一</SENTENCE>
+<SENTENCE id="B1-3214-7">但我覺得會享受他演講的機會越來越少</SENTENCE>
+<SENTENCE id="B1-3214-8">已經五分之一的位子沒有了</SENTENCE>
+<SENTENCE id="B1-3214-9">我幫你</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3214-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>那場活動</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3214-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>那本書突然紅起來了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3214-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那位作者近年來突然受到大家的注目的原因是他的作品與台灣的歷史有關</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3214-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>他從新的角度來看台灣的歷史</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3214-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>都在媒體業工作</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3214-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>這也是我覺得吸引民眾的原因之一</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3214-7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>但我覺得享受他演講的機會會越來越少</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3214-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>已經有五分之一的位子沒有了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3214-9">
+<TYPE>Missing</TYPE>
+<CORRECTION>我幫你録音</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3221-1">他們唱給我們聽新專輯裡面的歌</SENTENCE>
+<SENTENCE id="B1-3221-2">再給你連絡</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3221-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他們唱新專輯裡面的歌給我們聽</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3221-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>再與你連絡</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3226-1">今天我要告訴你一件在學校活動有關的事情</SENTENCE>
+<SENTENCE id="B1-3226-2">最近我們學校舉辦了一場學校活動</SENTENCE>
+<SENTENCE id="B1-3226-3">在台灣也很受歡迎的一名歌手呢</SENTENCE>
+<SENTENCE id="B1-3226-4">很多人特別來了我們學校</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3226-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>今天我要告訴你一件跟學校活動有關的事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3226-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>最近我們學校舉辦了一場活動</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3226-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>在台灣也是很受歡迎的一名歌手呢</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3226-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>很多人特別來我們學校</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3231-1">個子高高</SENTENCE>
+<SENTENCE id="B1-3231-2">學校希望通過這位貴人我們可以學到很多東西例如</SENTENCE>
+<SENTENCE id="B1-3231-3">平常像我</SENTENCE>
+<SENTENCE id="B1-3231-4">但經過這次活動我感覺到很興奮</SENTENCE>
+<SENTENCE id="B1-3231-5">我想如果那次你參加</SENTENCE>
+<SENTENCE id="B1-3231-6">也學到不少</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3231-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>個子高高的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3231-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>學校希望通過這位貴人讓我們可以學到很多東西例如</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3231-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>像我平常</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3231-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>但經過這次活動後我感覺到很興奮</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3231-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想如果那次你參加了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3231-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>也會學到不少</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="學校活動請來的名人">
+<TEXT>
+<SENTENCE id="B1-3235-1">我寫這封信給你講一件很好玩兒的事情</SENTENCE>
+<SENTENCE id="B1-3235-2">你一定知道她是一個很有名的明星</SENTENCE>
+<SENTENCE id="B1-3235-3">他的兒子念大學的時候跟友友馬室友</SENTENCE>
+<SENTENCE id="B1-3235-4">這個活動讓我覺得很開心的感覺</SENTENCE>
+<SENTENCE id="B1-3235-5">跟漂漂亮亮的女生跳了舞</SENTENCE>
+<SENTENCE id="B1-3235-6">還是吃了很多很好吃的點心</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3235-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我寫這封信給你要講一件很好玩兒的事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3235-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>你一定知道她是一位很有名的明星</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3235-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>他的兒子念大學的時候跟友友馬是室友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3235-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>這個活動讓我覺得很開心</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3235-5">
+<TYPE>Selection</TYPE>
+<CORRECTION>跟漂亮的女生跳了舞</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3235-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>還吃了很多很好吃的點心</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3404-1">我想要告訴你好的消息</SENTENCE>
+<SENTENCE id="B1-3404-2">我見面跟他是沒想到的</SENTENCE>
+<SENTENCE id="B1-3404-3">所以平常下課以後我姊姊接我</SENTENCE>
+<SENTENCE id="B1-3404-4">忽然我姊姊說</SENTENCE>
+<SENTENCE id="B1-3404-5">他是好男朋友</SENTENCE>
+<SENTENCE id="B1-3404-6">這樣的讓我很高興</SENTENCE>
+<SENTENCE id="B1-3404-7">他對什麼語言很有興趣</SENTENCE>
+<SENTENCE id="B1-3404-8">他會說好幾個語言</SENTENCE>
+<SENTENCE id="B1-3404-9">你來台灣的時候一定要見面跟他</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3404-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想要告訴你一個好的消息</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3404-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我跟他見面是沒想到的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3404-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以平常下課以後我姊姊來接我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3404-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我姊姊忽然說</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3404-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>他是個好男朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3404-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>這樣的話讓我很高興</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3404-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>他對什麼語言都很有興趣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3404-8">
+<TYPE>Selection</TYPE>
+<CORRECTION>他會說好幾種語言</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3404-9">
+<TYPE>Disorder</TYPE>
+<CORRECTION>你來台灣的時候一定要跟他見面</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3409-1">我們這樣一來開始聯絡</SENTENCE>
+<SENTENCE id="B1-3409-2">我們好久沒有見面</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3409-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>這樣一來我們開始聯絡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3409-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們好久沒有見面了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3415-1">事情是這樣</SENTENCE>
+<SENTENCE id="B1-3415-2">我們在學校裡面見面</SENTENCE>
+<SENTENCE id="B1-3415-3">以前還沒交過男朋友</SENTENCE>
+<SENTENCE id="B1-3415-4">我會帶他來給您介紹</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3415-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>事情是這樣的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3415-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們在學校裡面見過面</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3415-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>以前沒交過男朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3415-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>我會帶他來給您認識</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3419-1">我們上次高中畢業之後</SENTENCE>
+<SENTENCE id="B1-3419-2">我現在有女朋友</SENTENCE>
+<SENTENCE id="B1-3419-3">所以你已經認識她喔</SENTENCE>
+<SENTENCE id="B1-3419-4">其實我跟她在高中的時候開始交往了</SENTENCE>
+<SENTENCE id="B1-3419-5">因為我跟她都可以講</SENTENCE>
+<SENTENCE id="B1-3419-6">因為我不敢說自己的秘密</SENTENCE>
+<SENTENCE id="B1-3419-7">我們確定要結婚</SENTENCE>
+<SENTENCE id="B1-3419-8">決定日期</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3419-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我們高中畢業之後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3419-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我現在有女朋友了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3419-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以你已經認識她很久喔</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3419-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>其實我跟她在高中的時候就開始交往了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3419-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為我跟她什麼話都可以講</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3419-6">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為我不敢透露自己的秘密</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3419-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們確定要結婚了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3419-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>決定好日期</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3423-1">她在師範大學國語中心念中文的</SENTENCE>
+<SENTENCE id="B1-3423-2">她也是跟我一樣</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3423-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她在師範大學國語中心念中文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3423-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她也跟我一樣</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3431-1">我內心產生不可言喻的喜悅</SENTENCE>
+<SENTENCE id="B1-3431-2">又會關心別人的需要的人</SENTENCE>
+<SENTENCE id="B1-3431-3">因為我們都會一起面對事情所在及鼻彼此鼓勵呢</SENTENCE>
+<SENTENCE id="B1-3431-4">我認識她是在一次我們工作同仁出外旅遊</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3431-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我內心產生了不可言喻的喜悅</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3431-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>又是會關心別人的需要的人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3431-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為我們都會一起面對事情彼此鼓勵呢</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3431-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我認識她是在一次我們工作同仁出外旅遊時</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3437-1">我終於交了個</SENTENCE>
+<SENTENCE id="B1-3437-2">我沒有告訴你最近每個禮拜天去上一法文課</SENTENCE>
+<SENTENCE id="B1-3437-3">因為在我的腦裡有一想法</SENTENCE>
+<SENTENCE id="B1-3437-4">我上這個課就開始認識各種各樣的人從不同的國家</SENTENCE>
+<SENTENCE id="B1-3437-5">他每天來去聽老師怎麼教法文</SENTENCE>
+<SENTENCE id="B1-3437-6">談戀愛真的是一個很幸福的事情</SENTENCE>
+<SENTENCE id="B1-3437-7">現在他真的當我的男朋友</SENTENCE>
+<SENTENCE id="B1-3437-8">因為他去很多國家</SENTENCE>
+<SENTENCE id="B1-3437-9">他很會在意我</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3437-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我終於交了一個</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3437-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我沒有告訴你最近每個禮拜天去上法文課</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3437-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為在我的腦裡有一個想法</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3437-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我上這個課就開始認識各種各樣的人從不同的國家來</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3437-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他每天去聽老師怎麼教法文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3437-6">
+<TYPE>Selection</TYPE>
+<CORRECTION>談戀愛真的是一件很幸福的事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3437-7">
+<TYPE>Missing</TYPE>
+<CORRECTION>現在他真的當了我的男朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3437-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為他去過很多國家</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3437-9">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他很在意我</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3446-1">姓是本多</SENTENCE>
+<SENTENCE id="B1-3446-2">她小時候在美國念了六年</SENTENCE>
+<SENTENCE id="B1-3446-3">我跟她一起的時候</SENTENCE>
+<SENTENCE id="B1-3446-4">我們打算下暑假去美國十天</SENTENCE>
+<SENTENCE id="B1-3446-5">希望你每天快樂</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3446-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>姓本多</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3446-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>她小時候在美國念了六年書</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3446-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我跟她在一起的時候</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3446-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們打算下個暑假去美國十天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3446-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>希望你每天都快樂</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3455-1">我是寫一封信寄給你</SENTENCE>
+<SENTENCE id="B1-3455-2">我交得到新的女朋友</SENTENCE>
+<SENTENCE id="B1-3455-3">還是我們兩個現在的情況</SENTENCE>
+<SENTENCE id="B1-3455-4">剛管理學研究所畢業了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3455-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我寫一封信寄給你</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3455-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我交了新的女朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3455-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>這是我們兩個現在的情況</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3455-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>剛從管理學研究所畢業了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3461-1">可是最近從這裡有一些好消息</SENTENCE>
+<SENTENCE id="B1-3461-2">最重要</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3461-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是最近開始這裡有一些好消息</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3461-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>最重要的是</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3466-1">我想告訴你一個好事情</SENTENCE>
+<SENTENCE id="B1-3466-2">他是真的好人</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3466-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>我想告訴你一件好事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3466-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>他真的是好人</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3473-1">我就約她一塊去電影了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3473-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我就約她一塊去看電影了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3478-1">我發現台灣人不太敢講英文</SENTENCE>
+<SENTENCE id="B1-3478-2">有怎麼好呢</SENTENCE>
+<SENTENCE id="B1-3478-3">其實是因為我從那兒交了一個女朋友</SENTENCE>
+<SENTENCE id="B1-3478-4">她吹長笛得超棒</SENTENCE>
+<SENTENCE id="B1-3478-5">也她長得很漂亮</SENTENCE>
+<SENTENCE id="B1-3478-6">她在美國留學過</SENTENCE>
+<SENTENCE id="B1-3478-7">我一直可以靠她的幫助</SENTENCE>
+<SENTENCE id="B1-3478-8">你看我已經可以用中文寫一封信</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3478-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>但我發現台灣人不太敢講英文</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3478-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>該怎麼辦好呢</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3478-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>其實是因為我在那兒交了一個女朋友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3478-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>她吹長笛吹得超棒</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3478-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>她也長得很漂亮</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3478-6">
+<TYPE>Selection</TYPE>
+<CORRECTION>她在美國留過學</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3478-7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我可以一直靠她的幫助</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3478-8">
+<TYPE>Missing</TYPE>
+<CORRECTION>你看我已經可以用中文寫一封信了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3485-1">我們可能一起彈吉他</SENTENCE>
+<SENTENCE id="B1-3485-2">一次在電影院裡</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3485-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我們有可能一起彈吉他</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3485-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>有一次在電影院裡</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3489-1">好像跟明星一樣</SENTENCE>
+<SENTENCE id="B1-3489-2">我有一點會緊張</SENTENCE>
+<SENTENCE id="B1-3489-3">因為他非常非常</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3489-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>好像明星一樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3489-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我會有一點緊張</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3489-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為他非常非常帥</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="寫信告訴朋友自己交了女/男朋友">
+<TEXT>
+<SENTENCE id="B1-3497-1">你一定知道我很久沒有男朋友</SENTENCE>
+<SENTENCE id="B1-3497-2">包括他的照相片</SENTENCE>
+<SENTENCE id="B1-3497-3">他帶很好的禮物給我母親</SENTENCE>
+<SENTENCE id="B1-3497-4">也對我的家人一直很好</SENTENCE>
+<SENTENCE id="B1-3497-5">跟我的男朋友一起的時候</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3497-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>你一定知道我很久沒有男朋友了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3497-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>包括他的照片</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3497-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>他帶了很好的禮物給我母親</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3497-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>對我的家人也一直很好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3497-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>跟我的男朋友在一起的時候</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3505-1">我最喜歡看一個美國當代作家保羅奧斯特寫的書</SENTENCE>
+<SENTENCE id="B1-3505-2">所以不是每個人覺得好看的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3505-1">
+<TYPE>Selection</TYPE>
+<CORRECTION>我最喜歡看一位美國當代作家保羅奧斯特寫的書</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3505-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以不是每個人都覺得好看的</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3509-1">筆者是有一家書店的老闆</SENTENCE>
+<SENTENCE id="B1-3509-2">他們賣的書不是在市場推銷的</SENTENCE>
+<SENTENCE id="B1-3509-3">而是自己覺得好書或是值得推薦</SENTENCE>
+<SENTENCE id="B1-3509-4">他們不是像一般的書店</SENTENCE>
+<SENTENCE id="B1-3509-5">從這一本書能得到很多意見</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3509-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>筆者是一家書店的老闆</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3509-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>他們賣的書不是在市場裡推銷的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3509-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>而是自己覺得好書或是值得推薦的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3509-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>他們不是像一般的書店一樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3509-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>從這一本書就能得到很多意見</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3513-1">可是這個男生怕那個女生不喜歡</SENTENCE>
+<SENTENCE id="B1-3513-2">她得搬家到別的地方去</SENTENCE>
+<SENTENCE id="B1-3513-3">以為這裡對她來說是她生活的一部分</SENTENCE>
+<SENTENCE id="B1-3513-4">然後不好的事發生</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3513-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是這個男生怕那個女生不喜歡他</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3513-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她得搬到別的地方去</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3513-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>因為這裡對她來說是她生活的一部分</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3513-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>然後不好的事發生了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3520-1">所以都喜歡她的書</SENTENCE>
+<SENTENCE id="B1-3520-2">朋友介紹給我她的其他的書</SENTENCE>
+<SENTENCE id="B1-3520-3">我想看她的其他的書</SENTENCE>
+<SENTENCE id="B1-3520-4">那個學校每年有一個特別的野餐</SENTENCE>
+<SENTENCE id="B1-3520-5">是應該年輕人都遇到的事</SENTENCE>
+<SENTENCE id="B1-3520-6">我以前參加很像這本書的內容的活動</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3520-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以她的書都喜歡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3520-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>朋友介紹她的其他的書給我</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3520-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我想看她其他的書</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3520-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>那間學校每年有一個特別的野餐</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3520-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>應該是年輕人都遇到的事</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3520-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我以前參加過很像這本書的內容的活動</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3526-1">在故事裡很有意義</SENTENCE>
+<SENTENCE id="B1-3526-2">這本書可以算是佛教或是哲學書</SENTENCE>
+<SENTENCE id="B1-3526-3">但是對我很有趣</SENTENCE>
+<SENTENCE id="B1-3526-4">這本書有差不多三百頁</SENTENCE>
+<SENTENCE id="B1-3526-5">我在那個網站買這本書跟其他的</SENTENCE>
+<SENTENCE id="B1-3526-6">我看完了之後也要再看</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3526-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>在故事裡是很有意義</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3526-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>這本書可以算是佛教或是哲學的書</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3526-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是對我來說很有趣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3526-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>這本書差不多有三百頁</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3526-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我在那個網站買了這本書跟其他的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3526-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>我看完了之後也想要再看</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3530-1">但我最喜歡又銘刻在我的心就是聖經的那本書</SENTENCE>
+<SENTENCE id="B1-3530-2">主耶穌不惜自己的生命</SENTENCE>
+<SENTENCE id="B1-3530-3">為我們死而復活</SENTENCE>
+<SENTENCE id="B1-3530-4">又參加小組讀聖經分享</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3530-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但我最喜歡又銘刻在我的心就是聖經那本書</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3530-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>主耶穌不惜犧牲自己的生命</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3530-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>為了我們死而復活</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3530-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>又參加小組讀聖經分享心得</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3535-1">每天我看報紙要看足球的新聞</SENTENCE>
+<SENTENCE id="B1-3535-2">我上網找資料</SENTENCE>
+<SENTENCE id="B1-3535-3">那個教練我叫莫力紐</SENTENCE>
+<SENTENCE id="B1-3535-4">所以我馬上訂一本</SENTENCE>
+<SENTENCE id="B1-3535-5">說他那裡學足球</SENTENCE>
+<SENTENCE id="B1-3535-6">他是最有名是因為他在葡萄牙</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3535-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>每天我看報紙都要看足球的新聞</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3535-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我上網找資料</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3535-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個教練叫莫力紐</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3535-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我馬上訂了一本</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3535-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>說他從那裡學足球</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3535-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他最有名是因為他在葡萄牙</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3539-1">田邊是一直用大阪話寫故事的比較特別的日本的作家</SENTENCE>
+<SENTENCE id="B1-3539-2">所以我去書店隨便買書的時候看到</SENTENCE>
+<SENTENCE id="B1-3539-3">所以我覺得很親近感</SENTENCE>
+<SENTENCE id="B1-3539-4">認識比她小十二歲的男人</SENTENCE>
+<SENTENCE id="B1-3539-5">因為二郎是剛大學畢業的新人</SENTENCE>
+<SENTENCE id="B1-3539-6">真子是在公司已經十二年的不年輕的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3539-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>田邊是一直用大阪話寫故事的比較特別的日本作家</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3539-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我去書店隨便買書的時候看到的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3539-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>所以我覺得很有親近感</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3539-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>認識了比她小十二歲的男人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3539-5">
+<TYPE>Disorder</TYPE>
+<CORRECTION>因為二郎是大學剛畢業的新人</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3539-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>真子是在公司已經十二年的不年輕的ＯＬ</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3545-1">這本書煮飯有關的</SENTENCE>
+<SENTENCE id="B1-3545-2">第二是怎麼做「實用煮飯」</SENTENCE>
+<SENTENCE id="B1-3545-3">煮飯的時候沒有那麼困難</SENTENCE>
+<SENTENCE id="B1-3545-4">所以他想分享一下怎麼做實用煮飯</SENTENCE>
+<SENTENCE id="B1-3545-5">在第二部分他說明一下怎麼做「實用煮飯」</SENTENCE>
+<SENTENCE id="B1-3545-6">對我來說煮飯是個很意思的活動</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3545-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>這本書是與煮飯有關的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3545-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>第二是怎麼「實用煮飯」</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3545-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>煮的時候沒有那麼困難</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3545-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以他想分享一下怎麼實用煮飯</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3545-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>在第二部分他說明一下怎麼「實用煮飯」</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3545-6">
+<TYPE>Missing</TYPE>
+<CORRECTION>對我來說煮飯是個很有意思的活動</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3549-1">所以那種類似的書我都看過</SENTENCE>
+<SENTENCE id="B1-3549-2">但是那時代每個國家都忙著自己的事情</SENTENCE>
+<SENTENCE id="B1-3549-3">以前日本對中國大陸有甚麼樣態度</SENTENCE>
+<SENTENCE id="B1-3549-4">則是叫我們學到錯事不讓它再發生</SENTENCE>
+<SENTENCE id="B1-3549-5">好幾十年以前的事情</SENTENCE>
+<SENTENCE id="B1-3549-6">而且讓我更了解戰爭對人類沒有遊甚麼好處</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3549-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>所以類似那種的書我都看過</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3549-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是那個時代每個國家都忙著自己的事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3549-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>以前日本對中國大陸有甚麼樣的態度</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3549-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>則是叫我們學到錯事不會讓它再發生</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3549-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>已經好幾十年以前的事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3549-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>而且讓我更了解戰爭對人類沒有甚麼好處</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3553-1">我其實不是喜歡這本書的</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3553-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我其實不是喜歡這本書</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜�的書">
+<TEXT>
+<SENTENCE id="B1-3558-1">他蠻聰明</SENTENCE>
+<SENTENCE id="B1-3558-2">他就自己從家裡跑</SENTENCE>
+<SENTENCE id="B1-3558-3">去找世界有沒有不同的經驗</SENTENCE>
+<SENTENCE id="B1-3558-4">他就自殺</SENTENCE>
+<SENTENCE id="B1-3558-5">我知道這本書因為我九年級的英文課需要每個學生讀這本書</SENTENCE>
+<SENTENCE id="B1-3558-6">因為主角是很聰明</SENTENCE>
+<SENTENCE id="B1-3558-7">我覺得我是跟主角同一類的人</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3558-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>他蠻聰明的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3558-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>他就自己從家裡跑出去</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3558-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>去找世界上有沒有不同的經驗</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3558-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>他就自殺了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3558-5">
+<TYPE>Missing</TYPE>
+<CORRECTION>我知道這本書是因為我九年級的英文課需要每個學生讀這本書</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3558-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>因為主角很聰明</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3558-7">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我覺得我跟主角是同一類的人</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3562-1">一直看一直看忘了時間</SENTENCE>
+<SENTENCE id="B1-3562-2">我學了很多事情</SENTENCE>
+<SENTENCE id="B1-3562-3">我們我幫他們</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3562-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>一直看一直看就忘了時間</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3562-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我學習了很多事情</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3562-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我幫他們</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3568-1">小荳鼠的新媽媽和紅豆鼠打扮好以後去派對</SENTENCE>
+<SENTENCE id="B1-3568-2">可是很多的動物幫她</SENTENCE>
+<SENTENCE id="B1-3568-3">這故事韓國人也許都知道</SENTENCE>
+<SENTENCE id="B1-3568-4">很多的女生希望＂ＣＩＮＤＥＬＥＬＬＡ＂的人生</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3568-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>小荳鼠的新媽媽和紅豆鼠打扮好以後去參加派對</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3568-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>可是很多的動物來幫她</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3568-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>這個故事韓國人也許都知道</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3568-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>很多的女生希望有＂ＣＩＮＤＥＬＥＬＬＡ＂的人生</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3572-1">這些都是記載聖人之言</SENTENCE>
+<SENTENCE id="B1-3572-2">我完全聽不懂教師授課</SENTENCE>
+<SENTENCE id="B1-3572-3">可將在書上的該知識</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3572-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>這些都是記載聖人之言的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3572-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我完全聽不懂教師的授課</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3572-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>可將在書上的知識</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3577-1">我的學生看個不停它</SENTENCE>
+<SENTENCE id="B1-3577-2">所以我可以給他說明</SENTENCE>
+<SENTENCE id="B1-3577-3">他一直求求我買像它的書給他看</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3577-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我的學生看個不停</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3577-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我可以為他說明</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3577-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>他一直拜託我買像它的書給他看</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3582-1">我開始上任品管助理工程師</SENTENCE>
+<SENTENCE id="B1-3582-2">真的我也這麼認為</SENTENCE>
+<SENTENCE id="B1-3582-3">如何作業才可以取得客戶滿意</SENTENCE>
+<SENTENCE id="B1-3582-4">不只生產而已</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3582-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我開始上任品管助理工程師後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3582-2">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我真的也這麼認為</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3582-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>如何作業才可以取得客戶的滿意</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3582-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>不只是生產而已</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3586-1">或是歷史上的故事有關的小說</SENTENCE>
+<SENTENCE id="B1-3586-2">這本書作家的名字是陳瞬臣</SENTENCE>
+<SENTENCE id="B1-3586-3">好像他自己去調查大陸的各個地方</SENTENCE>
+<SENTENCE id="B1-3586-4">而且可以讓我想一想怎麼樣中國文化影響我國</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3586-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>或是與歷史上的故事有關的小說</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3586-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>這本書的作家的名字是陳瞬臣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3586-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>好像是他自己去調查大陸的各個地方</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3586-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>而且可以讓我想一想中國文化怎麼樣影響我國</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="介紹一本你喜歡的書">
+<TEXT>
+<SENTENCE id="B1-3594-1">每一個故事是不一樣的</SENTENCE>
+<SENTENCE id="B1-3594-2">所以我告訴了我的老師了</SENTENCE>
+<SENTENCE id="B1-3594-3">因為每一個故事好像我的生活</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3594-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>每一個故事都是不一樣的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3594-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以我告訴了我的老師</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3594-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為每一個故事都好像我的生活</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="對室友生活習慣不好的感受及建議">
+<TEXT>
+<SENTENCE id="B1-3919-1">我真的歡迎你當了我的新室友了</SENTENCE>
+<SENTENCE id="B1-3919-2">每天８點前我一定要到了辦公室</SENTENCE>
+<SENTENCE id="B1-3919-3">而下班時我跟狗一樣真的很累</SENTENCE>
+<SENTENCE id="B1-3919-4">是一個夜貓族了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3919-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我真的歡迎你當了我的新室友</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3919-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>每天８點前我一定要到辦公室</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3919-3">
+<TYPE>Disorder</TYPE>
+<CORRECTION>而下班時我真的跟狗一樣很累</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3919-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>是一個夜貓族</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="對室友生活習慣不好的感受及建議">
+<TEXT>
+<SENTENCE id="B1-3923-1">你小心喝太多酒</SENTENCE>
+<SENTENCE id="B1-3923-2">我每次都嚇死我了</SENTENCE>
+<SENTENCE id="B1-3923-3">因為在我們的客廳有很多啤酒罐</SENTENCE>
+<SENTENCE id="B1-3923-4">你到底只有一夜喝了多少的啤酒呢</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3923-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>你小心喝了太多酒</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3923-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>每次都嚇死我了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3923-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>因為在我們的客廳裡有很多啤酒罐</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3923-4">
+<TYPE>Disorder</TYPE>
+<CORRECTION>只有一夜你到底喝了多少的啤酒呢</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="對室友生活習慣不好的感受及建議">
+<TEXT>
+<SENTENCE id="B1-3929-1">我希望您以後不要在寢室吃東西</SENTENCE>
+<SENTENCE id="B1-3929-2">我忙忙叨叨了一整天</SENTENCE>
+<SENTENCE id="B1-3929-3">最需要的就是睡個囫圇覺</SENTENCE>
+<SENTENCE id="B1-3929-4">希望您能按照我的提醒改善的生活習慣</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3929-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我希望您以後不要在寢室裡吃東西</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3929-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>我忙碌了一整天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3929-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>最需要的就是睡個覺</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3929-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>希望您能按照我的提醒改善你的生活習慣</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="對室友生活習慣不好的感受及建議">
+<TEXT>
+<SENTENCE id="B1-3935-1">有一次回到宿舍時發現有螞蟻和蒼蠅在已堆滿的垃圾桶旁完全讓我火冒三丈</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3935-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>有一次回到宿舍時發現有螞蟻和蒼蠅在已堆滿的垃圾桶旁讓我火冒三丈</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="對室友生活習慣不好的感受及建議">
+<TEXT>
+<SENTENCE id="B1-3943-1">因此我就不能了解的是如何可能你那麼絕佳的同學</SENTENCE>
+<SENTENCE id="B1-3943-2">老忘記了把電燈關上</SENTENCE>
+<SENTENCE id="B1-3943-3">我不要因這個小小的事情而會被迫請師長換房間</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3943-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>因此我就不能了解的是如何可能像你那麼絕佳的同學</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3943-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>老忘記把電燈關上</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3943-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我不要因這個小小的事情而被迫請師長換房間</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="對室友生活習慣不好的感受及建議">
+<TEXT>
+<SENTENCE id="B1-3948-1">我希望你改掉這兩個你的生活習慣</SENTENCE>
+<SENTENCE id="B1-3948-2">馬上去洗掉那些衣服</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3948-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我希望你改掉這兩個你生活習慣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3948-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>馬上去洗那些衣服</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="對室友生活習慣不好的感受及建議">
+<TEXT>
+<SENTENCE id="B1-3953-1">你應該做聲音小一點</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3953-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>你應該聲音小一點</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="對室友生活習慣不好的感受及建議">
+<TEXT>
+<SENTENCE id="B1-3957-1">但是我想你有兩個不太好的習慣讓我覺得煩</SENTENCE>
+<SENTENCE id="B1-3957-2">這樣對我很不好的情形</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3957-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>但是我想你有兩個不太好的習慣讓我覺得心煩</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3957-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>這樣對我很不好</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="對室友生活習慣不好的感受及建議">
+<TEXT>
+<SENTENCE id="B1-3965-1">我是你室友王天華</SENTENCE>
+<SENTENCE id="B1-3965-2">我是很好的</SENTENCE>
+<SENTENCE id="B1-3965-3">你每天晚上都跟她用ＳＫＹＰＥ聊聊天</SENTENCE>
+<SENTENCE id="B1-3965-4">通常都聊到天快要亮時候才去睡</SENTENCE>
+<SENTENCE id="B1-3965-5">我知道你很珍惜著你跟你女朋友聊天的時間</SENTENCE>
+<SENTENCE id="B1-3965-6">桌上的垃圾馬上去丟掉</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3965-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>我是你的室友王天華</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3965-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>我是脾氣很好的</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3965-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>你每天晚上都跟她用ＳＫＹＰＥ聊天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3965-4">
+<TYPE>Missing</TYPE>
+<CORRECTION>通常都聊到天快要亮的時候才去睡</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3965-5">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我知道你很珍惜你跟你女朋友聊天的時間</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3965-6">
+<TYPE>Redundant</TYPE>
+<CORRECTION>桌上的垃圾馬上丟掉</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫助別人的經驗">
+<TEXT>
+<SENTENCE id="B1-3972-1">那時候的我的夢實現了</SENTENCE>
+<SENTENCE id="B1-3972-2">外籍同學需要日本同學的幫忙的時候</SENTENCE>
+<SENTENCE id="B1-3972-3">給我跟家人一樣的待遇了</SENTENCE>
+<SENTENCE id="B1-3972-4">但她還是我的最好的朋友了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3972-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那時候的我夢實現了</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3972-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>外籍同學需要日本同學幫忙的時候</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3972-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>給我跟家人一樣的待遇</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3972-4">
+<TYPE>Redundant</TYPE>
+<CORRECTION>但她還是我最好的朋友了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫助別人的經驗">
+<TEXT>
+<SENTENCE id="B1-3976-1">高中生的有一天</SENTENCE>
+<SENTENCE id="B1-3976-2">那個車站附近有在日本最大的機場</SENTENCE>
+<SENTENCE id="B1-3976-3">我看她帶來的書</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3976-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>高中生活的有一天</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3976-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個車站附近有日本最大的機場</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3976-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我看她帶的書</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫助別人的經驗">
+<TEXT>
+<SENTENCE id="B1-3982-1">那個時候就是我第一次跟身體障礙者接觸的</SENTENCE>
+<SENTENCE id="B1-3982-2">也好像是一般人一樣的</SENTENCE>
+<SENTENCE id="B1-3982-3">我想不出來自己做的錄音帶對身體障礙者非常有用的東西</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3982-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>那個時候就是我第一次跟身體障礙者接觸</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3982-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>也好像是一般人一樣</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3982-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>我想不出來自己做的錄音帶對身體障礙者是非常有用的東西</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫助別人的經驗">
+<TEXT>
+<SENTENCE id="B1-3989-1">我來台灣以後在有一家燒肉餐廳打工</SENTENCE>
+<SENTENCE id="B1-3989-2">所以店長決定他離開那家燒肉餐廳</SENTENCE>
+<SENTENCE id="B1-3989-3">以後帶那邊的工讀生開自己新的店</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3989-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我來台灣以後在一家燒肉餐廳打工</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3989-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>所以店長決定離開那家燒肉餐廳</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3989-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>以後帶那邊的工讀生開張自己新的店</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫助別人的經驗">
+<TEXT>
+<SENTENCE id="B1-3993-1">我從下班要回家</SENTENCE>
+<SENTENCE id="B1-3993-2">過馬路之</SENTENCE>
+<SENTENCE id="B1-3993-3">他有說他的眼晴不太好所以請順便幫他看他要的公車</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3993-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我下班要回家</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3993-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>過馬路之後</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-3993-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>他說他的眼晴不太好所以請順便幫他看他要的公車</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫助別人的經驗">
+<TEXT>
+<SENTENCE id="B1-3999-1">外面已經黑黑了</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-3999-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>外面已經黑了</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫助別人的經驗">
+<TEXT>
+<SENTENCE id="B1-4004-1">然後我帶了東西到我的車</SENTENCE>
+<SENTENCE id="B1-4004-2">我開車到他們的新公寓</SENTENCE>
+<SENTENCE id="B1-4004-3">她請了我們去飯館大快朵頤一番</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-4004-1">
+<TYPE>Missing</TYPE>
+<CORRECTION>然後我帶了東西到我的車上</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-4004-2">
+<TYPE>Redundant</TYPE>
+<CORRECTION>我開到他們的新公寓</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-4004-3">
+<TYPE>Redundant</TYPE>
+<CORRECTION>她請我們去飯館大快朵頤一番</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫助別人的經驗">
+<TEXT>
+<SENTENCE id="B1-4009-1">常常遇到了語言上的問題</SENTENCE>
+<SENTENCE id="B1-4009-2">所以我對那位警察先生解釋他的情形</SENTENCE>
+<SENTENCE id="B1-4009-3">聽他們的話</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-4009-1">
+<TYPE>Redundant</TYPE>
+<CORRECTION>常常遇到語言上的問題</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-4009-2">
+<TYPE>Selection</TYPE>
+<CORRECTION>所以我向那位警察先生解釋他的情形</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-4009-3">
+<TYPE>Missing</TYPE>
+<CORRECTION>聽完他們的話</CORRECTION>
+</MISTAKE>
+</ESSAY>
+
+<ESSAY title="幫助別人的經驗">
+<TEXT>
+<SENTENCE id="B1-4016-1">我跟他每個禮拜出去到台南高鐵站騎腳踏車</SENTENCE>
+<SENTENCE id="B1-4016-2">房東叫他們搬餐廳到別的地方去</SENTENCE>
+<SENTENCE id="B1-4016-3">可是兩三天才搬了</SENTENCE>
+<SENTENCE id="B1-4016-4">需要一些東西修理修理好</SENTENCE>
+</TEXT>
+<MISTAKE id="B1-4016-1">
+<TYPE>Disorder</TYPE>
+<CORRECTION>我跟他每個禮拜出去到高鐵台南站騎腳踏車</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-4016-2">
+<TYPE>Missing</TYPE>
+<CORRECTION>房東叫他們搬出餐廳到別的地方去</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-4016-3">
+<TYPE>Selection</TYPE>
+<CORRECTION>可是兩三天才搬好</CORRECTION>
+</MISTAKE>
+<MISTAKE id="B1-4016-4">
+<TYPE>Selection</TYPE>
+<CORRECTION>需要一些東西修理好</CORRECTION>
+</MISTAKE>
+</ESSAY>

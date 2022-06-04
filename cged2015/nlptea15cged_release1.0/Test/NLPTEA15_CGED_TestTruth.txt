@@ -1,0 +1,1000 @@
+A2-0657, correct
+A2-0777, 3, 3, Selection
+B1-0434, correct
+B1-0252, correct
+B1-1053, correct
+B1-1037, 1, 10, Disorder
+B1-1119, correct
+B1-1138, 7, 10, Disorder
+A2-0676, correct
+B1-0436, 10, 10, Redundant
+A2-0659, 12, 14, Selection
+A2-0969, correct
+B1-0435, correct
+A2-0030, 9, 9, Missing
+A2-0771, correct
+A2-0778, 1, 1, Selection
+A2-0712, correct
+A2-0380, 6, 6, Redundant
+A2-0045, correct
+A2-0031, 7, 7, Missing
+A2-0353, correct
+A2-0713, 10, 10, Selection
+B1-0164, correct
+B1-0253, 6, 7, Missing
+A2-0901, 10, 12, Disorder
+B1-0163, correct
+A2-0779, correct
+A2-0396, 3, 3, Redundant
+A2-0916, correct
+A2-0087, 12, 13, Missing
+B1-0188, correct
+B1-0988, 1, 3, Disorder
+B1-0549, correct
+B1-1087, correct
+B1-0115, 9, 9, Missing
+B1-0189, correct
+B1-0114, 14, 14, Missing
+B1-0165, correct
+B1-0145, 14, 14, Missing
+B1-0113, correct
+B1-1065, 1, 6, Disorder
+A2-0903, correct
+B1-0985, 1, 2, Disorder
+B2-1151, correct
+B1-0986, 1, 7, Disorder
+B1-0472, 9, 9, Redundant
+A2-0397, correct
+A2-0904, correct
+B1-0537, 2, 2, Redundant
+B1-0201, 3, 3, Missing
+B2-1152, 1, 3, Disorder
+B2-1153, correct
+B1-0437, correct
+B1-0520, 10, 10, Redundant
+A2-0971, 1, 5, Disorder
+A2-0710, 1, 2, Selection
+A2-0906, correct
+A2-0356, correct
+A2-0754, correct
+A2-0081, correct
+A2-0317, 12, 12, Redundant
+A2-0357, correct
+A2-0100, 9, 10, Missing
+B1-0516, 5, 5, Redundant
+A2-0086, correct
+A2-0780, 8, 9, Selection
+A2-0783, correct
+A2-0387, correct
+A2-0784, 2, 4, Selection
+A2-0602, correct
+A2-0370, 9, 9, Redundant
+A2-0717, 7, 14, Selection
+A2-0381, correct
+A2-0853, correct
+B1-1139, 4, 7, Disorder
+A2-0718, 7, 9, Selection
+A2-0322, 19, 19, Redundant
+A2-0399, correct
+B1-0205, 3, 3, Missing
+B1-0528, 15, 15, Redundant
+A2-0773, correct
+A2-0346, correct
+B1-1088, 3, 4, Selection
+A2-0003, correct
+A2-0642, correct
+B1-0990, correct
+B1-0418, 3, 4, Redundant
+A2-0719, 4, 9, Selection
+A2-0914, 4, 6, Disorder
+A2-0375, correct
+A2-0319, 4, 4, Redundant
+A2-0398, correct
+A2-0785, correct
+A2-0660, 7, 7, Selection
+B1-0147, 5, 5, Missing
+A2-0917, correct
+A2-0772, correct
+B1-0116, correct
+A2-0789, 2, 3, Selection
+A2-0677, correct
+A2-0926, 2, 12, Disorder
+A2-0715, 2, 3, Selection
+A2-0049, 6, 6, Missing
+A2-0603, correct
+A2-0376, 2, 2, Redundant
+A2-0716, 2, 2, Selection
+B1-0991, correct
+B1-0474, correct
+B1-0580, 2, 2, Redundant
+B1-0146, correct
+A2-0321, correct
+A2-0084, 7, 9, Missing
+B2-0592, 5, 5, Redundant
+A2-0786, correct
+A2-0318, correct
+A2-0924, 4, 9, Disorder
+A2-0050, correct
+B1-0989, correct
+B1-0517, 11, 11, Redundant
+A2-0714, 2, 6, Selection
+A2-0787, correct
+A2-0076, 9, 10, Missing
+A2-0749, 2, 3, Selection
+A2-0090, correct
+A2-0678, correct
+A2-0925, 5, 9, Disorder
+A2-0414, correct
+A2-0675, 4, 6, Selection
+A2-0400, 8, 9, Redundant
+A2-0792, 7, 7, Missing
+B1-0117, correct
+A2-0052, 8, 8, Missing
+A2-0075, correct
+A2-0661, correct
+A2-0791, 5, 6, Selection
+A2-0077, 12, 12, Missing
+A2-0630, correct
+B1-0250, correct
+B1-0557, correct
+B2-0591, 3, 3, Redundant
+B2-1155, correct
+B1-0124, 12, 12, Missing
+B1-0564, correct
+B1-0869, correct
+B1-0444, 12, 12, Redundant
+A2-0664, 6, 8, Selection
+B1-1057, 9, 12, Disorder
+B1-0260, 11, 11, Missing
+A2-0394, correct
+B1-0125, correct
+B1-0554, 11, 11, Redundant
+B1-0478, correct
+B1-0259, 12, 12, Missing
+B1-0479, 14, 14, Redundant
+B1-1030, correct
+A2-0034, correct
+A2-0401, correct
+B1-1093, 6, 10, Disorder
+B1-0446, 16, 16, Redundant
+B1-0275, 23, 24, Missing
+B1-0445, correct
+B1-0169, correct
+B1-0170, 4, 4, Missing
+B1-0282, correct
+B1-0997, correct
+B1-1071, 4, 6, Disorder
+A2-0801, correct
+A2-0930, correct
+A2-0035, 10, 10, Missing
+A2-0403, 9, 10, Redundant
+A2-0391, correct
+B1-0551, 21, 21, Redundant
+A2-0652, 9, 10, Selection
+A2-0105, correct
+B1-0870, correct
+A2-0799, 5, 7, Selection
+A2-0307, correct
+B1-1094, 4, 11, Disorder
+B1-1067, correct
+B1-0447, 5, 5, Redundant
+B1-0186, 1, 1, Missing
+A2-0759, correct
+B1-0488, correct
+A2-0966, 2, 4, Disorder
+A2-0089, correct
+B1-1031, correct
+A2-0362, 8, 9, Redundant
+B1-0283, 21, 21, Missing
+B1-0871, 5, 6, Selection
+B1-0421, correct
+A2-0056, correct
+A2-0097, 9, 9, Missing
+B1-0872, correct
+B1-0508, 3, 3, Redundant
+A2-0802, 3, 3, Selection
+A2-0972, 3, 8, Disorder
+A2-0402, correct
+B1-1106, correct
+A2-0057, correct
+B1-0873, correct
+A2-0098, 6, 6, Missing
+A2-0347, 3, 4, Redundant
+B1-0480, correct
+A2-0656, 1, 1, Selection
+B2-1199, 13, 21, Disorder
+B1-0270, correct
+B1-0274, 11, 11, Missing
+A2-0854, correct
+B1-0493, 3, 3, Redundant
+A2-0020, correct
+A2-0358, correct
+A2-0923, correct
+B1-1033, 8, 10, Disorder
+B1-0299, 17, 19, Missing
+B1-1048, correct
+A2-0742, 8, 12, Selection
+B1-0523, 6, 7, Redundant
+A2-0041, correct
+A2-0371, correct
+A2-0053, 6, 6, Missing
+A2-0046, correct
+A2-0911, 11, 12, Disorder
+B1-1052, correct
+A2-0691, correct
+B1-0158, 12, 12, Missing
+B2-1167, 1, 2, Disorder
+B1-0546, 9, 9, Redundant
+B1-0893, 1, 4, Selection
+B2-1154, correct
+B2-0590, correct
+B1-0136, correct
+B1-0149, 7, 7, Missing
+B1-0273, correct
+A2-0793, correct
+B1-1089, 5, 9, Disorder
+B1-0280, 10, 11, Missing
+B2-1187, correct
+A2-0927, 5, 8, Disorder
+B2-0593, 13, 13, Redundant
+B1-0296, correct
+B1-0861, 5, 5, Missing
+A2-0323, correct
+B1-0862, 14, 14, Selection
+A2-0662, correct
+A2-0072, correct
+A2-0756, 12, 12, Selection
+A2-0103, 4, 4, Missing
+A2-0721, correct
+B1-0206, correct
+B1-0562, 6, 8, Redundant
+B2-0594, correct
+A2-0073, 5, 5, Missing
+A2-0722, 6, 6, Redundant
+B2-1185, correct
+B2-0595, correct
+B1-0863, 14, 15, Selection
+B1-0208, correct
+A2-0004, 7, 7, Missing
+B2-1156, 3, 5, Disorder
+A2-0305, 15, 16, Redundant
+B1-0255, correct
+B2-1181, correct
+B2-0596, correct
+B1-1038, 5, 6, Disorder
+B1-0209, 13, 13, Missing
+A2-0324, 7, 7, Redundant
+B1-0215, correct
+A2-0725, correct
+B1-1018, correct
+B1-1017, 10, 17, Disorder
+B1-0994, correct
+A2-0679, 6, 7, Selection
+B1-0440, correct
+B1-0119, 10, 11, Missing
+B1-0210, correct
+B1-0419, 4, 4, Redundant
+B2-0597, correct
+B1-0297, 9, 11, Missing
+A2-0774, correct
+A2-0395, 15, 15, Redundant
+B1-0992, 3, 15, Disorder
+B1-1140, correct
+A2-0360, correct
+B1-0281, correct
+A2-0857, 6, 6, Selection
+B1-0120, 17, 17, Missing
+A2-0604, correct
+B1-0211, correct
+A2-0757, 11, 11, Redundant
+B1-1091, 6, 17, Disorder
+B1-0510, correct
+B1-0256, 12, 12, Missing
+B1-0993, correct
+B1-1055, 7, 15, Disorder
+A2-0858, 6, 6, Selection
+B2-1198, correct
+A2-0094, correct
+A2-0054, 10, 10, Missing
+A2-0723, correct
+B1-0166, correct
+B1-0212, 10, 10, Missing
+A2-0325, 13, 13, Redundant
+A2-0962, 6, 12, Disorder
+B1-0192, correct
+B2-1192, correct
+B1-1056, 1, 5, Disorder
+A2-0078, 4, 4, Missing
+A2-0794, 1, 1, Selection
+A2-0724, correct
+A2-0758, 7, 7, Selection
+A2-0928, correct
+A2-0022, correct
+B1-0864, correct
+A2-0981, 2, 5, Disorder
+B1-1141, correct
+A2-0753, 7, 8, Selection
+A2-0386, correct
+B1-0202, 7, 7, Missing
+B1-1120, 1, 6, Disorder
+A2-0752, correct
+A2-0781, 8, 9, Selection
+A2-0631, correct
+B1-0420, 8, 9, Redundant
+A2-0796, 2, 2, Selection
+B1-0867, correct
+A2-0005, correct
+B1-0193, 4, 4, Missing
+B1-0441, correct
+B1-0121, correct
+B1-0563, 8, 8, Redundant
+B1-0553, correct
+B1-1142, correct
+B2-0598, 4, 4, Redundant
+A2-0606, 4, 5, Selection
+A2-0643, correct
+B1-1092, 2, 4, Disorder
+B1-0475, correct
+B1-0995, correct
+A2-0663, 14, 17, Selection
+A2-0085, 13, 15, Missing
+A2-0751, correct
+B1-0476, 6, 6, Redundant
+B1-0539, correct
+B1-0442, 5, 5, Redundant
+B1-0491, correct
+B1-0156, correct
+A2-0765, 4, 4, Selection
+B1-0547, 8, 8, Redundant
+A2-0607, correct
+B2-1168, 4, 6, Disorder
+A2-0083, 7, 7, Missing
+A2-0746, correct
+A2-0629, 9, 9, Selection
+B1-0271, correct
+B1-0506, correct
+A2-0701, correct
+A2-0388, 9, 9, Redundant
+A2-0970, 5, 11, Disorder
+A2-0705, 6, 6, Selection
+B1-0203, 11, 11, Missing
+B2-1172, correct
+B1-0469, correct
+B2-1171, 1, 5, Disorder
+B1-1149, correct
+A2-0650, correct
+A2-0941, 1, 13, Disorder
+B1-0468, 4, 4, Redundant
+B1-0293, correct
+B1-1045, correct
+B1-1008, 1, 3, Disorder
+B1-1029, correct
+A2-0692, 8, 9, Selection
+B1-0159, 6, 6, Missing
+A2-0905, 1, 3, Disorder
+B1-0417, correct
+B1-0216, correct
+A2-0726, correct
+A2-0349, 5, 5, Redundant
+B1-0533, correct
+A2-0350, 4, 5, Redundant
+A2-0634, 4, 4, Selection
+B1-0171, 10, 10, Missing
+B1-1072, correct
+B1-0142, correct
+B1-0144, 7, 7, Missing
+B1-0295, correct
+A2-0416, correct
+B1-1066, 7, 11, Disorder
+B1-0265, 3, 4, Missing
+B1-0460, 8, 8, Redundant
+A2-0016, correct
+A2-0343, correct
+A2-0695, correct
+A2-0843, 4, 4, Selection
+B1-0448, 9, 9, Redundant
+A2-0942, correct
+B1-0465, correct
+B1-0233, 4, 4, Missing
+B1-0866, correct
+A2-0836, 4, 6, Selection
+B1-0890, correct
+B1-0249, correct
+A2-0947, 2, 6, Disorder
+B1-0467, 16, 16, Redundant
+A2-0844, 1, 1, Selection
+B1-0278, 8, 8, Missing
+B2-1196, correct
+B1-0126, correct
+A2-0646, correct
+A2-0672, 1, 3, Selection
+B1-0560, correct
+B1-0485, 1, 1, Redundant
+B1-0197, 4, 4, Missing
+A2-0345, correct
+A2-0316, 8, 10, Redundant
+A2-0699, correct
+A2-0846, 1, 2, Selection
+A2-0847, correct
+B1-0507, correct
+B1-0162, correct
+A2-0979, 3, 4, Disorder
+B1-0172, 4, 4, Missing
+A2-0727, correct
+A2-0803, 10, 11, Selection
+B1-0279, correct
+A2-0706, correct
+A2-0609, 2, 3, Selection
+A2-0775, correct
+A2-0729, 2, 3, Selection
+A2-0665, correct
+A2-0980, 13, 18, Disorder
+B1-0173, 9, 9, Missing
+A2-0682, 7, 7, Selection
+A2-0683, correct
+A2-0351, 4, 4, Redundant
+B1-0285, correct
+B1-0288, 11, 11, Missing
+A2-0680, 7, 8, Selection
+A2-0681, correct
+B1-0581, correct
+A2-0058, correct
+A2-0036, 9, 9, Missing
+B1-0509, 9, 10, Redundant
+A2-0079, correct
+A2-0404, correct
+B1-0495, 6, 6, Redundant
+B1-0450, correct
+A2-0950, correct
+B1-0218, 7, 7, Missing
+A2-0973, 7, 15, Disorder
+A2-0805, correct
+A2-0951, correct
+A2-0967, 10, 16, Disorder
+A2-0613, 3, 4, Selection
+B1-0535, 12, 14, Redundant
+A2-0933, correct
+B1-0497, correct
+B1-0877, correct
+A2-0934, 8, 14, Disorder
+B1-1000, correct
+B1-0455, 7, 7, Redundant
+B1-0568, correct
+B1-1001, 3, 4, Disorder
+B2-1160, correct
+A2-0814, 7, 8, Selection
+B1-1051, 6, 10, Disorder
+B1-0298, 14, 16, Missing
+B2-0588, 7, 7, Redundant
+A2-0614, correct
+A2-0953, correct
+B1-1050, 5, 7, Disorder
+B1-1059, correct
+B1-0567, correct
+B1-0482, 19, 20, Redundant
+A2-0373, correct
+A2-0732, 3, 5, Disorder
+A2-0406, 3, 3, Redundant
+B1-1123, correct
+B1-1124, 7, 12, Disorder
+A2-0910, correct
+B1-0569, correct
+B1-0878, 3, 3, Selection
+B2-1159, 3, 9, Disorder
+B1-1125, correct
+B1-0498, 13, 13, Redundant
+B1-1041, 4, 13, Disorder
+A2-0407, correct
+A2-0060, correct
+B1-0583, 14, 14, Redundant
+B1-1002, correct
+B1-1145, 3, 5, Disorder
+B1-0150, 5, 5, Missing
+A2-0935, correct
+B1-0519, correct
+B1-0130, correct
+B2-1161, 6, 8, Disorder
+B1-0513, 5, 5, Redundant
+B2-1193, correct
+A2-0627, correct
+B1-0454, correct
+B1-0483, 3, 3, Redundant
+B1-0570, correct
+B1-0251, 12, 13, Missing
+A2-0733, 3, 7, Selection
+A2-0968, 4, 6, Disorder
+B1-0227, correct
+B1-0565, 7, 7, Redundant
+A2-0302, correct
+A2-0809, correct
+B1-0452, 9, 9, Redundant
+B1-0499, correct
+B2-0599, 2, 3, Redundant
+B1-0217, 2, 2, Missing
+B1-0219, correct
+A2-0626, 7, 7, Missing
+A2-0405, correct
+A2-0610, 2, 2, Selection
+B2-1157, correct
+A2-0654, correct
+A2-0807, 10, 10, Selection
+A2-0684, correct
+A2-0817, correct
+B2-1191, 6, 8, Disorder
+B1-0511, 9, 10, Redundant
+B1-0276, 26, 26, Missing
+A2-0328, correct
+A2-0363, 15, 15, Redundant
+B1-0286, correct
+B1-0496, correct
+A2-0806, 6, 6, Missing
+B1-1095, correct
+A2-0329, 10, 10, Redundant
+A2-0685, 6, 6, Selection
+B1-0287, correct
+B1-1074, 6, 7, Disorder
+B1-0152, 5, 5, Missing
+A2-0822, correct
+B1-1127, correct
+B1-0289, 8, 8, Missing
+B1-0449, correct
+A2-0327, 6, 6, Redundant
+A2-0023, 13, 13, Missing
+B1-1039, 7, 9, Disorder
+A2-0963, correct
+B1-0221, 17, 17, Missing
+B1-1144, 5, 13, Disorder
+A2-0037, correct
+A2-0808, correct
+A2-0640, 12, 14, Selection
+B1-0222, 9, 9, Missing
+A2-0635, correct
+A2-0908, correct
+B1-0223, correct
+B1-1073, 9, 11, Disorder
+B1-0541, correct
+A2-0038, 9, 9, Missing
+A2-0818, 4, 5, Selection
+B1-0457, 3, 3, Redundant
+B1-1032, correct
+A2-0330, correct
+A2-0612, 3, 3, Redundant
+B1-0559, correct
+B1-0226, correct
+A2-0811, correct
+A2-0819, 6, 7, Selection
+B1-0558, 5, 5, Redundant
+B1-0882, correct
+A2-0024, 6, 6, Missing
+B1-0881, 1, 9, Selection
+A2-0736, correct
+B1-0229, correct
+A2-0959, 10, 12, Disorder
+A2-0821, 3, 3, Missing
+A2-0408, correct
+A2-0707, 3, 3, Selection
+B1-1128, correct
+B1-1004, 3, 4, Disorder
+A2-0686, correct
+B2-1194, correct
+B1-0199, correct
+A2-0936, 6, 19, Disorder
+B1-0132, 2, 2, Missing
+A2-0954, correct
+A2-0823, 2, 2, Selection
+B1-1047, 5, 6, Disorder
+B1-0555, 12, 12, Redundant
+B1-0998, correct
+A2-0974, 4, 16, Disorder
+B2-1182, correct
+A2-0309, correct
+B1-0228, correct
+B2-1189, 4, 7, Disorder
+B1-0174, 10, 11, Missing
+A2-0385, 10, 10, Redundant
+B1-0542, correct
+B1-0481, 6, 6, Redundant
+B1-0543, correct
+B1-0151, correct
+B1-0245, 5, 5, Missing
+B1-1097, correct
+B1-1096, 2, 13, Disorder
+B1-0582, 2, 2, Redundant
+A2-0331, correct
+B2-1158, correct
+B1-0422, 15, 15, Redundant
+B1-0128, correct
+B1-0129, 4, 4, Missing
+B1-0224, correct
+B1-0874, correct
+B1-0175, 6, 7, Missing
+B1-1098, 2, 5, Disorder
+B1-0423, correct
+B1-0566, 6, 7, Redundant
+B1-0453, correct
+B1-0425, 9, 10, Redundant
+B1-1003, correct
+B1-0571, correct
+B1-0220, correct
+B1-0456, 4, 4, Redundant
+A2-0952, 12, 14, Disorder
+B1-0999, correct
+A2-0810, 5, 5, Selection
+B1-0225, 17, 17, Missing
+A2-0709, correct
+B1-0194, correct
+B1-0875, 5, 5, Selection
+A2-0812, correct
+B1-0244, 3, 3, Missing
+B1-1126, 9, 15, Disorder
+B1-0879, 7, 8, Selection
+B1-0880, correct
+B1-0176, 7, 8, Missing
+A2-0039, correct
+A2-0815, correct
+A2-0667, 7, 8, Selection
+A2-0611, correct
+A2-0059, 9, 9, Missing
+A2-0310, correct
+A2-0760, 5, 7, Selection
+A2-0920, correct
+B1-1058, 4, 16, Disorder
+A2-0364, 12, 12, Redundant
+A2-0855, correct
+A2-0948, correct
+A2-0061, correct
+B1-1084, 2, 4, Disorder
+B1-0886, 2, 3, Selection
+A2-0824, correct
+A2-0825, 2, 3, Selection
+A2-0336, correct
+A2-0025, 7, 7, Missing
+A2-0410, 11, 12, Redundant
+A2-0099, correct
+B1-1040, correct
+A2-0909, 2, 7, Disorder
+A2-0932, correct
+A2-0383, correct
+A2-0668, correct
+B1-1116, 8, 13, Selection
+A2-0332, 3, 3, Redundant
+A2-0750, correct
+A2-0670, 4, 10, Selection
+A2-0062, 10, 10, Missing
+A2-0740, correct
+B1-1043, 5, 9, Disorder
+A2-0009, correct
+A2-0063, 8, 8, Missing
+B1-1077, correct
+B1-0179, correct
+B1-0264, 6, 6, Missing
+B1-0427, correct
+B1-0178, correct
+B1-0262, 16, 16, Missing
+A2-0637, 2, 3, Selection
+A2-0616, correct
+A2-0955, 6, 9, Disorder
+A2-0311, 4, 5, Redundant
+B1-0230, correct
+B1-0502, correct
+A2-0918, correct
+B1-0111, 17, 18, Missing
+B1-0263, correct
+B1-1135, 7, 16, Disorder
+A2-0711, correct
+A2-0636, 14, 14, Selection
+B1-1075, 8, 18, Disorder
+B1-0885, correct
+B1-0514, 8, 8, Redundant
+B1-0884, 2, 3, Selection
+A2-0335, correct
+A2-0040, 7, 7, Missing
+A2-0739, correct
+A2-0666, correct
+A2-0776, 4, 6, Selection
+B1-1006, 4, 8, Disorder
+A2-0737, correct
+B1-0500, 10, 10, Redundant
+A2-0334, correct
+A2-0945, correct
+B1-1146, 2, 9, Disorder
+A2-0820, 2, 3, Selection
+B1-0490, 6, 6, Redundant
+A2-0615, correct
+B1-0426, correct
+B1-0584, 3, 3, Redundant
+B1-0585, correct
+A2-0730, 5, 11, Selection
+B1-1042, correct
+A2-0931, 2, 13, Disorder
+B1-1076, correct
+A2-0735, correct
+B1-0486, 12, 12, Redundant
+A2-0831, 9, 9, Missing
+B1-0888, correct
+B1-0187, 7, 7, Missing
+A2-0744, correct
+A2-0080, correct
+A2-0313, correct
+A2-0915, 4, 6, Disorder
+A2-0832, 7, 8, Selection
+A2-0743, correct
+B1-0231, 12, 12, Missing
+B1-1080, correct
+A2-0688, 5, 6, Selection
+B1-0267, correct
+B1-0512, 7, 8, Redundant
+A2-0366, correct
+B1-1009, 11, 14, Disorder
+B1-0290, 12, 12, Missing
+B1-1081, correct
+B1-1082, 10, 15, Disorder
+B1-1011, correct
+A2-0042, correct
+B2-1164, 5, 6, Disorder
+B1-1101, correct
+B1-0277, 12, 13, Missing
+B1-0137, correct
+B1-0461, 6, 6, Redundant
+B1-0574, correct
+A2-0833, correct
+B1-0526, 9, 9, Redundant
+B1-0464, correct
+B1-0291, 10, 11 , Missing
+A2-0655, 5, 5, Selection
+B1-0503, 16, 16, Redundant
+A2-0689, correct
+A2-0957, 8, 10, Disorder
+B1-0462, correct
+B2-1165, correct
+B1-0300, correct
+B1-0463, 14, 14, Redundant
+B1-0889, 10, 11, Selection
+B1-1103, 6, 11, Disorder
+B1-1102, correct
+B1-1060, correct
+A2-0766, 7, 7, Missing
+A2-0339, correct
+B1-0575, 6, 6, Redundant
+B2-1183, 15, 17, Disorder
+B1-1137, correct
+B1-0531, correct
+B1-0292, correct
+B1-1086, 1, 10, Disorder
+B1-0987, correct
+B2-0600, 14, 14, Redundant
+A2-0687, 2, 4, Selection
+B1-1100, 1, 6, Disorder
+B1-0524, correct
+B1-0859, correct
+B1-0578, 4, 5, Redundant
+B1-0477, correct
+A2-0639, 8, 9, Selection
+A2-0102, 7, 7, Missing
+A2-0755, correct
+A2-0834, 3, 3, Redundant
+B1-1131, correct
+A2-0938, 3, 13, Disorder
+A2-0011, correct
+A2-0837, 13, 13, Selection
+A2-0352, correct
+A2-0912, correct
+A2-0341, 16, 16, Redundant
+A2-0939, 7, 16, Disorder
+B1-0236, 5, 5, Missing
+B1-0238, correct
+B1-1062, correct
+A2-0697, correct
+A2-0960, 3, 10, Disorder
+A2-0649, 6, 6, Selection
+A2-0632, correct
+B1-1134, correct
+B1-0540, correct
+B1-0122, 14, 14, Missing
+A2-0982, 10, 17, Disorder
+B1-0213, correct
+B1-0868, 11, 12, Selection
+B2-1188, correct
+B1-0168, 5, 5, Missing
+B1-0996, 3, 9, Disorder
+A2-0949, correct
+A2-0929, 8, 11, Disorder
+A2-0644, correct
+A2-0638, 12, 13, Selection
+A2-0379, 9, 9, Redundant
+A2-0378, correct
+A2-0768, correct
+A2-0382, 7, 9, Redundant
+A2-0012, correct
+A2-0340, correct
+B2-1166, correct
+A2-0623, 9, 10, Selection
+A2-0645, correct
+B1-0573, 8, 8, Redundant
+A2-0976, 4, 11, Disorder
+A2-0975, correct
+B1-0133, 3, 3, Missing
+B1-0134, correct
+B1-0438, correct
+B1-1016, 3, 5, Disorder
+B1-1078, correct
+B1-0153, 10, 10, Missing
+B1-1034, 6, 9, Disorder
+B1-0556, 11, 11, Redundant
+B1-0190, correct
+B1-0191, 3, 3, Missing
+B1-1012, correct
+B1-1061, 6, 8, Disorder
+B1-1148, correct
+B1-1013, 5, 6, Disorder
+A2-0315, correct
+A2-0856, 4, 8, Selection
+B1-0431, 3, 3, Redundant
+A2-0921, correct
+B2-1173, 7, 9, Disorder
+B1-1083, correct
+B1-1063, 3, 5, Disorder
+B1-0473, correct
+B1-0579, 11, 11, Redundant
+B1-1019, correct
+B1-1044, 7, 10, Disorder
+B1-1064, correct
+B2-1169, 12, 14, Disorder
+B1-0160, correct
+B1-0200, 5, 5, Missing
+B1-0891, correct
+B1-0139, correct
+B1-0484, correct
+A2-0392, 9, 9, Redundant
+B1-0896, 5, 6, Selection
+B1-1024, correct
+B2-1174, 9, 14, Disorder
+B1-0527, correct
+B1-0140, 8, 9, Missing
+A2-0082, correct
+B1-0525, 8, 10, Redundant
+A2-0014, 5, 5, Missing
+A2-0838, correct
+A2-0839, 1, 1, Selection
+A2-0314, correct
+B1-0141, correct
+A2-0841, correct
+A2-0842, 1, 1, Selection
+B1-0587, 5, 5, Redundant
+A2-0384, correct
+A2-0690, correct
+B1-1014, correct
+B1-1049, 4, 6, Disorder
+B1-0576, 7, 7, Redundant
+B1-0466, correct
+B2-1170, correct
+A2-0658, 1, 5, Selection
+B1-1020, 1, 4, Disorder
+B1-1025, correct
+A2-0840, correct
+A2-0015, 8, 8, Missing
+B1-0550, 17, 17, Redundant
+A2-0633, 8, 9, Selection
+B1-0214, correct
+A2-0377, correct
+B1-0123, 4, 4, Missing
+B1-1070, 6, 13, Disorder
+B1-0246, correct
+B1-1069, correct
+B1-0257, 9, 9, Missing
+B1-0242, correct
+A2-0850, correct
+A2-0674, 4, 6, Selection
+A2-0369, 7, 7, Redundant
+B1-0577, correct
+B1-0258, 14, 16, Missing
+B1-0443, 20, 20, Redundant
+B1-0232, correct
+B2-1186, 8, 15, Disorder
+B1-0432, correct
+B1-0429, 12, 14, Redundant
+A2-0043, 8, 8, Missing
+B1-0545, correct
+B1-1015, correct
+A2-0964, 7, 11, Disorder
+B2-1195, correct
+A2-0622, correct
+A2-0919, 9, 13, Disorder
+B2-1184, correct
+B1-0586, 6, 6, Redundant
+B1-0240, correct
+B1-0433, correct
+A2-0372, 1, 1, Redundant
+B1-1026, 2, 5, Disorder
+B1-0294, 6, 6, Missing
+B2-1177, correct
+A2-0978, 4, 8, Disorder
+A2-0393, correct
+A2-0070, correct
+A2-0415, 1, 1, Redundant
+B1-0536, correct
+A2-0848, 8, 8, Selection
+A2-0702, correct
+A2-0071, 9, 9, Missing
+B1-1136, correct
+B1-0272, correct
+B1-1046, 12, 20, Disorder
+A2-0698, 3, 3, Selection
+B2-1200, correct
+B1-0458, 4, 4, Redundant
+A2-0628, correct
+A2-0965, 1, 6, Disorder
+B2-1175, correct
+A2-0374, correct
+A2-0028, 4, 4, Missing
+B1-0515, 7, 7, Redundant
+B2-1176, 1, 5, Disorder
+A2-0647, 3, 3, Selection
+A2-0067, correct
+A2-0068, 11, 11, Missing
+A2-0940, correct
+B1-1117, 6, 8, Disorder
+B1-0894, correct
+A2-0389, correct
+B1-0505, 13, 13, Redundant
+B1-1035, correct
+B1-0237, correct
+A2-0696, 8, 9, Selection
+B1-1022, 2, 4, Disorder
+B1-0269, 12, 12, Missing
+B1-0182, correct
+B1-0895, correct
+A2-0648, 2, 2, Selection
+A2-0069, 8, 8, Missing
+B1-1023, correct
+B1-1132, 8, 10, Disorder
+A2-0745, correct
+A2-0344, correct
+B2-1197, correct
+B2-1178, 11, 15, Disorder
+B2-1179, correct
+B2-1190, 4, 8, Disorder
+A2-0958, correct
+A2-0412, 4, 4, Redundant
+A2-0748, 4, 7, Selection
+A2-0355, correct
+B1-1104, 1, 11, Disorder
+B1-1133, correct
+B2-0589, 13, 13, Redundant
+A2-0019, correct
+A2-0849, correct
+A2-0413, correct
+A2-0354, 2, 2, Redundant
+A2-0617, 8, 9, Selection
+B1-1147, 9, 14, Disorder
+B1-0459, correct
+B1-0180, 19, 19, Missing
+B1-1007, correct
+A2-0312, 12, 12, Redundant
+A2-0365, correct
+B1-0195, 2, 2, Missing
+B2-1162, correct
+B1-0196, correct
+A2-0337, 11, 11, Redundant
+B1-0154, 7, 7, Missing
+B1-1079, 6, 9, Disorder
+A2-0708, correct
+A2-0618, 9, 9, Selection
+A2-0010, correct
+B2-1180, correct
+B1-0241, 10, 10, Missing
+A2-0044, correct
+B1-1027, 4, 8, Disorder
+B1-0470, correct
+B1-0548, 9, 9, Redundant
+B1-0530, correct
+B1-1028, correct
+B1-1085, 1, 5, Disorder
+B1-0471, 4, 4, Redundant
+A2-0390, correct
+A2-0977, correct
+B1-1068, 1, 6, Disorder
+B1-0892, correct
+B1-0235, 6, 6, Missing
+A2-0694, 13, 14, Selection
+B2-1150, correct

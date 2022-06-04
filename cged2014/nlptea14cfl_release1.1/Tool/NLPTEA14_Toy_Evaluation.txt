@@ -1,0 +1,54 @@
+NLPTEA 2014 Shared Task
+Grammatical Error Diagnosis for Learning Chinese as a Foreign Language
+
+==========================================================
+Part 1: Overall Performance
+==========================================================
+
+False Positive Rate = 0.3333 (1/3)
+
+Detection Level
+	Accuracy = 0.7 (7/10)
+	Precision = 0.8333 (5/6)
+	Recall = 0.7143 (5/7)
+	F1-Score = 0.7692 ((2*0.8333*0.7143)/(0.8333+0.7143))
+
+Identification Level
+	Accuracy = 0.5 (5/10)
+	Precision = 0.75 (3/4)
+	Recall = 0.4286 (3/7)
+	F1-Score = 0.5455 ((2*0.75*0.4286)/(0.75+0.4286)) 
+
+==========================================================
+Part 2: Details
+==========================================================
+
+Detection Level
+
+	#TP:
+	B1-0201-1 | A2-1051-3 | B2-0369-1 | A2-1457-6 | B2-1475-4
+	
+	#FP:
+	B2-1444-1 
+	
+	#TN:
+	B2-1452-2 | C1-1849-1
+	
+	#FN: 
+	B1-0370-2 | B1-1462-7
+	
+	
+Identification Level
+
+	#TP:
+	(A2-1051-3, disorder) | (A2-1457-6, selection) | (B2-1475-4, missing)
+	
+	#FP:
+	(B2-1444-1, correct)
+	
+	#TN:
+	(B2-1452-2, correct) | (C1-1849-1, correct)
+	
+	#FN: 
+	(B1-0201-1, missing) | (B2-0369-1, redundant)| (B1-0370-2, disorder) | (B1-1462-7, disorder)
+ 

@@ -1,0 +1,10 @@
+	B2-1452-2, correct
+	B1-0201-1, Missing
+	C1-1849-1, correct
+	A2-1051-3, Disorder
+	B2-0369-1, Redundant
+	B1-0370-2, Disorder
+	B2-1444-1, correct
+	A2-1457-6, Selection
+	B1-1462-7, Disorder
+	B2-1475-4, Missing

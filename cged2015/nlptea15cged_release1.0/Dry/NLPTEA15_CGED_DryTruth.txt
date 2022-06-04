@@ -1,0 +1,55 @@
+B1-0860, correct
+A2-0002, correct
+A2-0641, 7, 7, Selection
+A2-0625, correct
+A2-0961, correct
+B1-0439, correct
+A2-0301, 4, 4, Redundant
+B1-1115, 3, 7, Disorder
+B1-0494, correct
+A2-0348, 2, 3, Redundant
+A2-0107, 14, 15, Missing
+B1-0157, correct
+B1-0207, 8, 8, Missing
+B1-0284, correct
+B1-1110, correct
+B1-1109, 1, 11, Disorder
+B1-0865, 3, 3, Selection
+B1-0430, correct
+A2-0943, correct
+A2-0946, 3, 11, Disorder
+B1-0489, 5, 5, Redundant
+B1-0883, correct
+A2-0804, 6, 6, Selection
+B1-0424, correct
+A2-0333, 8, 8, Redundant
+B1-0451, correct
+B1-0243, 7, 7, Missing
+A2-0944, correct
+A2-0816, correct
+B1-0876, 5, 6, Selection
+A2-0106, correct
+B1-1111, 4, 10, Disorder
+B1-1107, correct
+A2-0001, 8, 8, Missing
+A2-0620, correct
+A2-0108, correct
+A2-0109, 11, 12, Missing
+A2-0621, 3, 3, Selection
+B1-0110, correct
+B1-1112, 3, 5, Disorder
+B1-1113, correct
+A2-0304, 3, 3, Redundant
+A2-0367, correct
+A2-0342, 5, 5, Redundant
+A2-0653, correct
+A2-0956, 4, 6, Disorder
+B1-1114, correct
+B1-0897, 8, 8, Selection
+B1-0247, 12, 13, Missing
+B1-0239, correct
+B1-0183, 8, 8, Missing
+B1-0898, correct
+A2-0303, correct
+B1-0487, 3, 3, Redundant
+B1-0899, 4, 5, Selection

@@ -1,0 +1,56 @@
+NLPTEA 2016 CGED Datasets
+Release 1.0
+28 November 2016
+
+This README file describes the data sets and evalaution procedure for the
+NLPTEA 2016 Shared Task on Chinese Grammatical Error Diagnosis (CGED)
+
+The package is distributed freely with the following copyright
+Copyright (C) 2016 Lung-Hao Lee, Gaoqi Rao, Liang-Chih Yu, Endong Xun, Baolin Zhang, and Li-Ping Chang
+                   
+Any questions regarding the datasets should be directed to
+lhlee@ntnu.edu.tw, raogaoqi@blcu.edu.cn, lcyu@saturn.yzu.edu.tw, 
+edxun@126.com, zhangbl@blcu.edu.tw, lchang@ntnu.edu.tw
+   
+
+1. Directory Structure and Contents
+===================================
+
+The top-level directory has three subdirectories, namely
+
+- Evaluation/	: The program used to evaluate the test data sets. 
+
+- Test/	: For the TOCFL track, we have 3,528 testing sentences.
+          For the HSK track, we have 3,011 testing sentences. 
+					About half of these sentences are correct and do not contain grammatical errors, while the other half include at least one error.
+	        participating research teams were allowed to use other public data for system development and implementation.
+
+- Training/	: For the TOCFL track, we provide 10,693 training sentences with a total of 24,492 grammatical errors.
+							For the HSK track, we provide 10,071 training sentences with a total of 24,797 grammatical errors.
+              Each sentence with annotated grammatical errors and their corresponding corrections is represented in SGML format.
+							
+		Example:
+			<DOC>
+ 			<TEXT id="A2-0005-1">
+ 			我聽說你打算開一個慶祝會。對不起,我要參加,可是沒有空。你開一個慶祝會的
+ 			時候我不能會參加,是因為我在外國做工作。
+ 			</TEXT>
+ 			<CORRECTION>
+ 			我聽說你打算開一個慶祝會。對不起,我要參加,可是沒有空。你開慶祝會的時候
+ 			我不能參加,是因為我在外國工作。
+ 			</CORRECTION>
+ 			<ERROR start_off=”31”end_off=”32” type=”R”></ERROR>
+ 			<ERROR start_off=”42”end_off=”42” type=”R”></ERROR>
+ 			<ERROR start_off=”53”end_off=”53” type=”R”></ERROR>
+ 			</DOC>
+
+2. How to use the evaluation tool
+================================================
+
+java -jar nlptea16cged.jar    
+  -t : file path of the ground truth (required)
+  -o : file path of the detailed evaluation report (required)
+  -r : file path of the system results (required)
+
+Example:   
+java -jar nlptea16cged.jar -r HSK_OutputFile.txt -t HSK_Truth.txt -o HSK_Evaluation.txt  

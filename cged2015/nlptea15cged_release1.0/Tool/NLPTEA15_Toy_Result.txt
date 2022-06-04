@@ -1,0 +1,10 @@
+B2-1452, correct
+B1-0201, 2, 5, redundant
+C1-1849, correct 
+A2-1051, 4, 8, disorder
+B2-0369, 5, 6, selection
+B1-0370, correct
+B2-1444, 7, 7, redundant
+A2-1457, 9, 11, selection
+B1-1462, correct
+B2-1475, 3, 4, missing
